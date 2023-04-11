@@ -8,8 +8,8 @@
 | Phrase                   | Pronunciation | Meaning                     |
 | ------------------------ | ------------- | --------------------------- |
 | Je suis Marie            | /ézhuh swee/  | I am Marie                  |
-| C’est un chat            | /say/         | It’s a cat                  |
-| Un chat manage           |               | A cat is eating             |
+| C’est un **chat**            | /say/         | It’s a cat                  |
+| Un chat **manage**           |               | A cat is eating             |
 | Paul manage un croissant |               | Paul is easting a croissant |
 | Tu es Marc?              |               | Are you Marc?               |
 | Non, Je suis Paul        |               | No, I am Paul               |
@@ -34,10 +34,10 @@
 
 | French         | English      |
 | -------------- | ------------ |
-| Je suis        | I am         |
-| Tu es          | You are      |
-| Il/elle/on est | He/she/we is |
-| C`est: Ce est  | It/this is   |
+| Je **suis**        | I am         |
+| Tu **es**          | You are      |
+| Il/elle/on **est** | He/she/we is |
+| C`est: Ce **est**  | It/this is   |
 
 ### Gender
 
@@ -83,28 +83,28 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 
 | Phrase                          | English                                    |
 | ------------------------------- | ------------------------------------------ |
-| Excuse-moi, tu parles français? | Excuse me, do you speak English?           |
+| **Excuse-moi**, tu **parles** français? | Excuse me, do you speak English?           |
 | Oui, je suis français           | Yes, I am French                           |
 | Comment tu t`appelles?          | What is your name?                         |
 | Je m`appelle Julia              | My name is Julia                           |
-| Je parle espagnol               | I speack Spanish                           |
-| Je suis américaine              | I am American (speaker is a woman or girl) |
+| Je **parle** espagnol               | I speack Spanish                           |
+| Je suis américain**e**              | I am American (speaker is a woman or girl) |
 
 ### Grammar
 
 | Phrase        | Meaning       |
 | ------------- | ------------- |
-| je parle      | I speak       |
-| tu parles     | you speak     |
-| il/elle parle | he/she speaks |
+| Je parle      | I speak       |
+| Tu parle**s**     | you speak     |
+| Il/elle parle | he/she speaks |
 
 The **s** in verbs above is actually silent.
 
 | French              | Meaning           |
 | ------------------- | ----------------- |
-| Je m`appelle …      | My name is …      |
-| Tu t`appelles …     | Your name is …    |
-| Il/elle s`appelle … | His/her name is … |
+| Je **m**`appelle …      | My name is …      |
+| Tu **t**`appelles …     | Your name is …    |
+| Il/elle **s**`appelle … | His/her name is … |
 
 E.g. What do you (*tu*) call yourself’s name (*t`appelles*)?
 
@@ -114,10 +114,10 @@ Feminie adjectives end in **e:**
 
 | French               | English            |
 | -------------------- | ------------------ |
-| Gabriel est espagnol | Gabriel is Spanish |
-| Sarah est espagnole  | Sarah is Spanish   |
-| Il est amèricain     | He is American     |
-| Elle est amèricaine  | She is American    |
+| **Gabriel** est espagnol | Gabriel is Spanish |
+| **Sarah** est espagnol**e**  | Sarah is Spanish   |
+| **Il** est amèricain     | He is American     |
+| **Elle** est amèricain**e** | She is American    |
 
 Sometimes, the extra little **e** changes the sound a little.
 
@@ -143,20 +143,20 @@ Sometimes, the extra little **e** changes the sound a little.
 | Tu     | You                 |                                                                                        |
 | Toi    | You (with emphasis) | Je parle à toi: I am talking to you! </br> Toi, tu es intelligent: You, you are smart! |
 
-| French                                 | Pronunciation                         | Meaning                             |
-| -------------------------------------- | ------------------------------------- | ----------------------------------- |
+| French                                     | Pronunciation                         | Meaning                             |
+| ------------------------------------------ | ------------------------------------- | ----------------------------------- |
 | Où est le restaurant, **s`il vous plaît**? | Où: you without y </br>/sil voo pleh/ | Where is the restaurant, please?    |
-| Je **vais** à la **gare**              | /veh/</br>/gahr/                      | I am going to the train station     |
+| Je **vais** à la **gare**                  | /veh/</br>/gahr/                      | I am going to the train station     |
 | Tu as une **valise**?                      |                                       | Do you have a suitcase?             |
 | Je vais à Paris en **voiture**             | /vwah-tewr/                           | I am going to Paris by car          |
-| Je **prends** le train et l`**avion**          | /prahn/                               | I am taking the train and the plane |
+| Je **prends** le train et l`**avion**      | /prahn/                               | I am taking the train and the plane |
 
 ### Grammar
 
 Two words exist for ****in****. We use **à** for cities but **en** with many countries.
 
-| Phrase                  |
-| ----------------------- |
+| Phrase                      |
+| --------------------------- |
 | J`habite **à** Paris        |
 | J`habite **en** France      |
 | Je travaille **à** Madrid   |
@@ -164,8 +164,8 @@ Two words exist for ****in****. We use **à** for cities but **en** with many co
 
 #### THE: Le, La, l
 
-| Rule                                         | Example   | Meaning   |
-| -------------------------------------------- | --------- | --------- |
+| Rule                                             | Example   | Meaning   |
+| ------------------------------------------------ | --------- | --------- |
 | **Le** goes with masculine nouns                 | le garçon | The boy   |
 | **La** goes with feminine nouns                  | la femme  | The woman |
 | **l**`goes with word started a vowel or silent h | l`homme   | The man   |
@@ -192,16 +192,16 @@ Two words exist for ****in****. We use **à** for cities but **en** with many co
 
 Most verbs change predictably but some do their own thing:
 
-| Verb       | Meaning     |
-| ---------- | ----------- |
-| Je vaise   | I go        |
-| Tu vas     | You go      |
-| Il/Elle va | He/she goes |
+| Verb           | Meaning     |
+| -------------- | ----------- |
+| Je **vaise**   | I go        |
+| Tu **vas**     | You go      |
+| Il/Elle **va** | He/she goes |
 
 If a verb begins with a vowel be sure to change **je** to **j`**
 
-| Verb      | Meaning    |
-| --------- | ---------- |
-| j`ai      | I have     |
-| Tu as     | You have   |
-| Il/elle a | He/she has |
+| Verb          | Meaning    |
+| ------------- | ---------- |
+| J`**ai**      | I have     |
+| Tu **as**     | You have   |
+| Il/elle **a** | He/she has |
