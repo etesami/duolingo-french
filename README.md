@@ -3,10 +3,7 @@
 
 ## Unit 1
 
----
-
 ### Phrase
----
 
 | Phrase | Pronunciation | Meaning |
 | --- | --- | --- |
@@ -32,7 +29,6 @@
 | Enchanté |  | Nice to meet you |
 
 ### Grammar
----
 
 | French | English |
 | --- | --- |
@@ -42,7 +38,6 @@
 | C`est: Ce est | It/this is |
 
 ### Gender
----
 
 In French, all nouns are either masculine or feminine. Masculine nouns use ***“*un*”*** and feminine nouns use ***“*une*”***.
 
@@ -64,7 +59,6 @@ In French, all nouns are either masculine or feminine. Masculine nouns use ***�
 | une orange | an orange |
 
 ## Accents
----
 
 In French, an accent mark over a letter can make a new sound:
 
@@ -83,10 +77,7 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 
 ## Unit 2
 
----
-
 ### Phrase
----
 
 | Phrase | English |
 | --- | --- |
@@ -98,7 +89,6 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 | Je suis américaine | I am American (speaker is a woman or girl) |
 
 ### Grammar
----
 
 | Phrase | Meaning |
 | --- | --- |
@@ -117,7 +107,6 @@ The **s** in verbs above is actually silent.
 E.g. What do you (*tu*) call yourself’s name (*t`appelles*)?
 
 ### Gender
----
 
 Feminie adjectives end in **e:**
 
@@ -132,10 +121,9 @@ Sometimes, the extra little **e** changes the sound a little.
 
 ## Unit 3
 
----
 
 ### Phrases
----
+
 
 | Phrase | English |
 | --- | --- |
@@ -163,7 +151,6 @@ Toi, tu es intelligent: You, you are smart! |
 | Je prends le train et l`avion |  | I am taking the train and the plane |
 
 ### Grammar
----
 
 Two words exist for ****in****. We use **à** for cities but **en** with many countries.
 
@@ -201,7 +188,6 @@ Two words exist for ****in****. We use **à** for cities but **en** with many co
 | une voiture | a car |
 
 ### Verbs
----
 
 Most verbs change predictably but some do their own thing:
 
