@@ -139,8 +139,7 @@ Sometimes, the extra little **e** changes the sound a little.
 | French | English | Example |
 | --- | --- | --- |
 | Tu | You |  |
-| Toi | You (with emphasis) | Je parle à toi: I am talking to you!
-Toi, tu es intelligent: You, you are smart! |
+| Toi | You (with emphasis) | Je parle à toi: I am talking to you! </br> Toi, tu es intelligent: You, you are smart! |
 
 | French | Pronunciation | Meaning |
 | --- | --- | --- |
