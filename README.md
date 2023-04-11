@@ -162,11 +162,11 @@ Two words exist for ****in****. We use **à** for cities but **en** with many co
 
 #### THE: Le, La, l
 
-| Rule | Example |
-| --- | --- |
-| Le goes with masculine nouns | le garçon |
-| La goes with feminine nouns | la femme |
-| l`goes with word started a vowel or silent h | l`homme |
+| Rule | Example | Meaning |
+| --- | --- | --- |
+| Le goes with masculine nouns | le garçon | The boy |
+| La goes with feminine nouns | la femme | The woman |
+| l`goes with word started a vowel or silent h | l`homme | The man |
 
 **Masculine nouns**
 
