@@ -270,6 +270,6 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | French         | Meaning  |
 | -------------- | -------- |
 | **Mère**       | Mother   |
-| **sœur**       | Sister   |
+| **Sœur**       | Sister   |
 | **Fille**      | Daughter |
 | une **Maison** | a house  |
