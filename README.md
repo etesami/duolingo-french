@@ -5,30 +5,30 @@
 
 ### Phrase
 
-| Phrase                   | Pronunciation | Meaning                     |
-| ------------------------ | ------------- | --------------------------- |
-| Je suis Marie            | /ézhuh swee/  | I am Marie                  |
-| C’est un **chat**        | /say/         | It’s a cat                  |
-| Un chat **manage**       |               | A cat is eating             |
-| Paul manage un croissant |               | Paul is easting a croissant |
-| Tu es Marc?              |               | Are you Marc?               |
-| Non, Je suis Paul        |               | No, I am Paul               |
+| Phrase                                     | Pronunciation | Meaning                     |
+| ------------------------------------------ | ------------- | --------------------------- |
+| **Je suis** Marie                          | /ézhuh swee/  | I am Marie                  |
+| **C’est** un **chat**  </br> C`est: Ce est | /say/         | It’s a cat                  |
+| Un chat **manage**                         |               | A cat is eating             |
+| Paul manage un croissant                   |               | Paul is easting a croissant |
+| Tu es Marc?                                |               | Are you Marc?               |
+| Non, Je suis Paul                          |               | No, I am Paul               |
 
 => C`est: Ce est
 
-| Phrase                   | Pronunciation  | Meaning                          |
-| ------------------------ | -------------- | -------------------------------- |
-| Bonjour, comment çe va?  |                | Good morning, how are you doing? |
-| Ça va très bien, et toi? |                | I am doing very well, and you?   |
-| Ça va                    |                | I am fine                        |
-| Au revoir, Marie         | /oh ruh vwahr/ | Good bye, Marie                  |
-| Bonne journée            |                | Have a good day                  |
-| Bonne soirée             |                | Have a good evening              |
-| Bienvenue                |                | Welcome                          |
-| Merci beaucoup           |                | Thank you very much              |
-| Â demain                 |                | See you tomorrow                 |
-| Â bientôt                |                | See you soon                     |
-| Enchanté                 |                | Nice to meet you                 |
+| Phrase                       | Pronunciation  | Meaning                          |
+| ---------------------------- | -------------- | -------------------------------- |
+| Bonjour, **comment çe va**?  |                | Good morning, how are you doing? |
+| **Ça va très bien**, et toi? |                | I am doing very well, and you?   |
+| Ça va                        |                | I am fine                        |
+| **Au revoir**, Marie         | /oh ruh vwahr/ | Good bye, Marie                  |
+| **Bonne journée**            |                | Have a good day                  |
+| **Bonne soirée **            |                | Have a good evening              |
+| **Bienvenue**                |                | Welcome                          |
+| Merci **beaucoup**           |                | Thank you very much              |
+| **Â demain**                 |                | See you tomorrow                 |
+| **Â bientôt  **              |                | See you soon                     |
+| **Enchanté**                 |                | Nice to meet you                 |
 
 ### Grammar
 
@@ -45,20 +45,20 @@ In French, all nouns are either masculine or feminine. Masculine nouns use ***�
 
 **Masculine nouns**
 
-| French    | English |
-| --------- | ------- |
-| un garçon | a boy   |
-| un homme  | a man   |
-| un chien  | a dog   |
+| French        | English |
+| ------------- | ------- |
+| un **garçon** | a boy   |
+| un **homme**  | a man   |
+| un **chien**  | a dog   |
 
 **Feminine nouns**
 
-| French     | English   |
-| ---------- | --------- |
-| une fille  | a girl    |
-| une femme  | a woman   |
-| une pizza  | a pizza   |
-| une orange | an orange |
+| French         | English   |
+| -------------- | --------- |
+| une **fille**  | a girl    |
+| une **femme**  | a woman   |
+| une **pizza**  | a pizza   |
+| une **orange** | an orange |
 
 ### Accents
 
@@ -94,7 +94,7 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 
 | Phrase        | Meaning       |
 | ------------- | ------------- |
-| Je parle      | I speak       |
+| Je **parle**  | I speak       |
 | Tu parle**s** | you speak     |
 | Il/elle parle | he/she speaks |
 
@@ -130,18 +130,19 @@ Sometimes, the extra little **e** changes the sound a little.
 | Phrase                       | Pronunciation | English                            |
 | ---------------------------- | ------------- | ---------------------------------- |
 | Marie **habite** en Italie   | /ah-beet/     | Marie lives in Italy               |
-| Marie est journaliste        |               | Marie is a journalist              |
+| Marie est **journaliste**    |               | Marie is a **journalist**          |
 | J`étudie à New York, et toi? | /ay-ty-dee/   | I am studying in New York and you? |
 | Je **travaille** à Paris     | /trah-vay/    | I work in Paris                    |
 | Je suis en Europe            |               | I am in Europe                     |
 | J`**habite** avec Marie      | /ah-beet/     | I live with Marie                  |
-| Ton appartement              |               | Your apartment                     |
-| Billet                       |               | Ticket                             |
+| **Ton** appartement          |               | Your apartment                     |
+| Le **Billet**                |               | The **Ticket**                     |
+| Il **va bien**               |               | He is doing well                   |
 
-| French | English             | Example                                                                                |
-| ------ | ------------------- | -------------------------------------------------------------------------------------- |
-| Tu     | You                 |                                                                                        |
-| Toi    | You (with emphasis) | Je parle à toi: I am talking to you! </br> Toi, tu es intelligent: You, you are smart! |
+| French  | English                 | Example                                                                                                |
+| ------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Tu**  | You                     |                                                                                                        |
+| **Toi** | You (with **emphasis**) | Je parle à **toi**: I am talking to **you**! </br> **Toi**, tu es intelligent: **You**, you are smart! |
 
 | French                                     | Pronunciation                         | Meaning                             |
 | ------------------------------------------ | ------------------------------------- | ----------------------------------- |
@@ -172,21 +173,22 @@ Two words exist for ****in****. We use **à** for cities but **en** with many co
 
 **Masculine nouns**
 
-| French       | Meaning    |
-| ------------ | ---------- |
-| un billet    | a ticket   |
-| un passeport | a passport |
-| un train     | a train    |
-| un avion     | a plane    |
-| un aéroport  | an airport |
+| French             | Meaning       |
+| ------------------ | ------------- |
+| un **billet**      | a ticket      |
+| un **passeport**   | a passport    |
+| un **train**       | a train       |
+| un **avion**       | a plane       |
+| un **aéroport**    | an airport    |
+| un **appartement** | an appartment |
 
 **Feminine nouns**
 
-| French      | Meaning         |
-| ----------- | --------------- |
-| une valise  | a suitcase      |
-| une gare    | a train station |
-| une voiture | a car           |
+| French          | Meaning         |
+| --------------- | --------------- |
+| une **valise**  | a suitcase      |
+| une **gare**    | a train station |
+| une **voiture** | a car           |
 
 ### Verbs
 
@@ -249,24 +251,25 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | Phrase               | English     |
 | -------------------- | ----------- |
 | Le chat **de** Marie | Marie's cat |
-| Le chien **d'** Anna  | Anna's dog  |
+| Le chien **d'** Anna | Anna's dog  |
 
 
 
 **Masculine nouns**
 
-| French        | Meaning     |
-| ------------- | ----------- |
-| Père          | Father      |
-| Frère         | Brother     |
-| Fils          | Son         |
-| Chouette      | Owl         |
-| Un professeur | A professor |
+| French            | Meaning     |
+| ----------------- | ----------- |
+| **Père**          | Father      |
+| **Frère**         | Brother     |
+| **Fils**          | Son         |
+| un **Chouette**   | an Owl      |
+| un **professeur** | a professor |
 
 **Feminine nouns**
 
-| French | Meaning  |
-| ------ | -------- |
-| Mère   | Mother   |
-| sœur   | Sister   |
-| Fille  | Daughter |
+| French         | Meaning  |
+| -------------- | -------- |
+| **Mère**       | Mother   |
+| **sœur**       | Sister   |
+| **Fille**      | Daughter |
+| une **Maison** | a house  |
