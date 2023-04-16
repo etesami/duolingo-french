@@ -24,4 +24,4 @@ Note: **"au"** is a contraction of **"à"** + **"le"** used before masculine sin
 | à Paris    | in Paris (France's capital)   |
 | à Bordeaux | in Bordeaux (France)          |
 | à Berlin   | in Berlin (Germany's capital) |
-
+| à Tijuana  | in Tijuana (Mexico)           |

@@ -262,7 +262,6 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Père**          | Father      |
 | **Frère**         | Brother     |
 | **Fils**          | Son         |
-| un **Chouette**   | an Owl      |
 | un **professeur** | a professor |
 
 **Feminine nouns**
@@ -273,3 +272,4 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Sœur**       | Sister   |
 | **Fille**      | Daughter |
 | une **Maison** | a house  |
+| une **Chouette**   | an Owl      |
