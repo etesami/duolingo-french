@@ -8,8 +8,8 @@
 | Phrase                   | Pronunciation | Meaning                     |
 | ------------------------ | ------------- | --------------------------- |
 | Je suis Marie            | /ézhuh swee/  | I am Marie                  |
-| C’est un **chat**            | /say/         | It’s a cat                  |
-| Un chat **manage**           |               | A cat is eating             |
+| C’est un **chat**        | /say/         | It’s a cat                  |
+| Un chat **manage**       |               | A cat is eating             |
 | Paul manage un croissant |               | Paul is easting a croissant |
 | Tu es Marc?              |               | Are you Marc?               |
 | Non, Je suis Paul        |               | No, I am Paul               |
@@ -32,8 +32,8 @@
 
 ### Grammar
 
-| French         | English      |
-| -------------- | ------------ |
+| French             | English      |
+| ------------------ | ------------ |
 | Je **suis**        | I am         |
 | Tu **es**          | You are      |
 | Il/elle/on **est** | He/she/we is |
@@ -81,27 +81,27 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 
 ### Phrase
 
-| Phrase                          | English                                    |
-| ------------------------------- | ------------------------------------------ |
+| Phrase                                  | English                                    |
+| --------------------------------------- | ------------------------------------------ |
 | **Excuse-moi**, tu **parles** français? | Excuse me, do you speak English?           |
-| Oui, je suis français           | Yes, I am French                           |
-| Comment tu t`appelles?          | What is your name?                         |
-| Je m`appelle Julia              | My name is Julia                           |
-| Je **parle** espagnol               | I speack Spanish                           |
-| Je suis américain**e**              | I am American (speaker is a woman or girl) |
+| Oui, je suis français                   | Yes, I am French                           |
+| Comment tu t`appelles?                  | What is your name?                         |
+| Je m`appelle Julia                      | My name is Julia                           |
+| Je **parle** espagnol                   | I speack Spanish                           |
+| Je suis américain**e**                  | I am American (speaker is a woman or girl) |
 
 ### Grammar
 
 | Phrase        | Meaning       |
 | ------------- | ------------- |
 | Je parle      | I speak       |
-| Tu parle**s**     | you speak     |
+| Tu parle**s** | you speak     |
 | Il/elle parle | he/she speaks |
 
 The **s** in verbs above is actually silent.
 
-| French              | Meaning           |
-| ------------------- | ----------------- |
+| French                  | Meaning           |
+| ----------------------- | ----------------- |
 | Je **m**`appelle …      | My name is …      |
 | Tu **t**`appelles …     | Your name is …    |
 | Il/elle **s**`appelle … | His/her name is … |
@@ -112,11 +112,11 @@ E.g. What do you (*tu*) call yourself’s name (*t`appelles*)?
 
 Feminie adjectives end in **e:**
 
-| French               | English            |
-| -------------------- | ------------------ |
-| **Gabriel** est espagnol | Gabriel is Spanish |
-| **Sarah** est espagnol**e**  | Sarah is Spanish   |
-| **Il** est amèricain     | He is American     |
+| French                      | English            |
+| --------------------------- | ------------------ |
+| **Gabriel** est espagnol    | Gabriel is Spanish |
+| **Sarah** est espagnol**e** | Sarah is Spanish   |
+| **Il** est amèricain        | He is American     |
 | **Elle** est amèricain**e** | She is American    |
 
 Sometimes, the extra little **e** changes the sound a little.
@@ -205,3 +205,68 @@ If a verb begins with a vowel be sure to change **je** to **j`**
 | J`**ai**      | I have     |
 | Tu **as**     | You have   |
 | Il/elle **a** | He/she has |
+
+
+
+## Unit 4
+
+
+### Phrases
+
+
+| Phrase                                  | Pronunciation | English                             |
+| --------------------------------------- | ------------- | ----------------------------------- |
+| Ton **père** habite ici?                |               | Does your **father** live here?     |
+| **Mon père**                            |               | **My father**                       |
+| **Mon mari**                            |               | **My husband**                      |
+| Ma **femme**                            |               | My **wife**                         |
+| **Grand-mère**                          |               | **Grandmother**                     |
+| **Ma famille** habite en France         |               | My family lives in France           |
+| **Le mari de Julia** est mexicain       |               | Julia's **husband** is Mexican      |
+| J'ai **un animal de compagnie**         |               | I have **a pet**                    |
+| **Est-cs que** (est ce)                 |               | **Do you** or **Are you**           |
+| Est-ce que **vous** travailles ici?     |               | Do you work here?                   |
+| Une **chouette**                        |               | An owl                              |
+| **Dans**                                |               | In                                  |
+| **Ètudiant**                            |               | Student                             |
+| Le fils de Louis et Marc s'appelle Paul |               | Louis and Marc's son's name is Paul |
+| La **maison**                           |               | The **house**                       |
+| Le **Jardin**                           |               | The **Garden**                      |
+| l'**appatement**                        |               | The apartment                       |
+| Alice **veut** une chouette             |               | Alice **wants** an owl              |
+
+### Grammar
+The words like **my** and **your** change based on the gender of the word after them.
+
+| Masculine                        | Feminine                             |
+| -------------------------------- | ------------------------------------ |
+| **Mon** père </br> My father     | **Ma** mère </br> My mother          |
+| **Ton** frère </br> Your brother | **Ta** sœur </br> Your sister        |
+| **Son** fils </br> His/her son   | **Sa** fille  </br> His/her daughter |
+
+Instead of **Marie's cat**, we would switch the word oder and say **le chat de Marie**.
+
+| Phrase               | English     |
+| -------------------- | ----------- |
+| Le chat **de** Marie | Marie's cat |
+| Le chien **d'**Anna  | Anna's dog  |
+
+
+
+**Masculine nouns**
+
+| French        | Meaning     |
+| ------------- | ----------- |
+| Père          | Father      |
+| Frère         | Brother     |
+| Fils          | Son         |
+| Chouette      | Owl         |
+| Un professeur | A professor |
+
+**Feminine nouns**
+
+| French | Meaning  |
+| ------ | -------- |
+| Mère   | Mother   |
+| sœur   | Sister   |
+| Fille  | Daughter |
