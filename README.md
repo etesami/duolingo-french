@@ -232,7 +232,7 @@ If a verb begins with a vowel be sure to change **je** to **j`**
 | Le fils de Louis et Marc s'appelle Paul |               | Louis and Marc's son's name is Paul |
 | La **maison**                           |               | The **house**                       |
 | Le **Jardin**                           |               | The **Garden**                      |
-| l'**appatement**                        |               | The apartment                       |
+| L'**appatement**                        |               | The apartment                       |
 | Alice **veut** une chouette             |               | Alice **wants** an owl              |
 
 ### Grammar
@@ -249,7 +249,7 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | Phrase               | English     |
 | -------------------- | ----------- |
 | Le chat **de** Marie | Marie's cat |
-| Le chien **d'**Anna  | Anna's dog  |
+| Le chien **d'** Anna  | Anna's dog  |
 
 
 
