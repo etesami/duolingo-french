@@ -1,5 +1,12 @@
 # Duolingo French Course
 
+- [Duolingo French Course](#duolingo-french-course)
+  - [Unit 1: Use basic phrases, greet people](#unit-1)
+  - [Unit 2: Introduce yourself](#unit-2)
+  - [Unit 3: Use the present tense, get around town](#unit-3)
+  - [Unit 4: Refer to family members](#unit-4)
+  - [Unit 5: Use the present tense](#unit-5)
+
 
 ## Unit 1
 
@@ -10,9 +17,9 @@
 | **Je suis** Marie                          | /ézhuh swee/  | I am Marie                  |
 | **C’est** un **chat**  </br> C`est: Ce est | /say/         | It’s a cat                  |
 | Un chat **manage**                         |               | A cat is eating             |
-| Paul manage un croissant                   |               | Paul is easting a croissant |
+| Paul manage un **croissant**                   |               | Paul is easting a **croissant** |
 | Tu es Marc?                                |               | Are you Marc?               |
-| Non, Je suis Paul                          |               | No, I am Paul               |
+| **Non**, Je suis Paul                          |               | No, I am Paul               |
 
 => C`est: Ce est
 
@@ -23,11 +30,11 @@
 | Ça va                        |                | I am fine                        |
 | **Au revoir**, Marie         | /oh ruh vwahr/ | Good bye, Marie                  |
 | **Bonne journée**            |                | Have a good day                  |
-| **Bonne soirée **            |                | Have a good evening              |
+| **Bonne soirée**            |                | Have a good evening              |
 | **Bienvenue**                |                | Welcome                          |
 | Merci **beaucoup**           |                | Thank you very much              |
 | **Â demain**                 |                | See you tomorrow                 |
-| **Â bientôt  **              |                | See you soon                     |
+| **Â bientôt**              |                | See you soon                     |
 | **Enchanté**                 |                | Nice to meet you                 |
 
 ### Grammar
@@ -41,7 +48,7 @@
 
 ### Gender
 
-In French, all nouns are either masculine or feminine. Masculine nouns use ***“*un*”*** and feminine nouns use ***“*une*”***.
+In French, all nouns are either masculine or feminine. Masculine nouns use ***“*un*”*** and feminine nouns use ***“*une*”***. See the list of masculine and feminine words [here](./Masculine-feminine.md).
 
 **Masculine nouns**
 
@@ -66,16 +73,19 @@ In French, an accent mark over a letter can make a new sound:
 
 | French | Example                  |
 | ------ | ------------------------ |
-| je     | as in petition           |
-| é      | journèe (similar to bay) |
-| è      | très /treh/ (as in bet)  |
+| j**e**     | as in petition           |
+| **é**      | journèe (similar to bay) |
+| **è**      | très /treh/ (as in bet)  |
 
-If the last letter of a word is an **e** without an accent, it is usually silent**.**
+If the last letter of a word is an **e** without an accent, it is usually silent.
 
 | Phrase     | Pronunciation |
 | ---------- | ------------- |
 | femme      | /fam/         |
 | bonne nuit | /bawn nwee/   |
+
+
+
 
 ## Unit 2
 
@@ -84,9 +94,9 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 | Phrase                                  | English                                    |
 | --------------------------------------- | ------------------------------------------ |
 | **Excuse-moi**, tu **parles** français? | Excuse me, do you speak English?           |
-| Oui, je suis français                   | Yes, I am French                           |
-| Comment tu t`appelles?                  | What is your name?                         |
-| Je m`appelle Julia                      | My name is Julia                           |
+| **Oui**, je suis français                   | Yes, I am French                           |
+| Comment **tu** **t**`appelles?                  | What is your name?                         |
+| Je **m**`appelle Julia                      | My name is Julia                           |
 | Je **parle** espagnol                   | I speack Spanish                           |
 | Je suis américain**e**                  | I am American (speaker is a woman or girl) |
 
@@ -275,9 +285,9 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | une **Maison**   | a house  |
 | une **Chouette** | an Owl   |
 
-# Unit 5
+## Unit 5
 
-## Phrase
+### Phrase
 | Verbs and Words      | Pronunciation | English                                                   |
 | ----------- | ------------- | --------------------------------------------------------- |
 | **Aimer**   |               | To like                                                   |
@@ -291,7 +301,7 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **au** </br> *à (to,at) + le (the)*   |               | At the   |
 | **deux** |               | Two   |
 
-## Grammar
+### Grammar
 
 | Subject       | Meaning          | Verb       | Meaning      |
 | ------------- | ---------------- | ---------- | ------------ |
@@ -368,7 +378,7 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 
 
 
-### Examples
+#### Examples
 | Phrase                 | Meaning           |
 | ---------------------- | ----------------- |
 | **Habitez-vous** ici?* | Do you live here? |
