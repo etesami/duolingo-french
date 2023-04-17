@@ -141,9 +141,9 @@ Sometimes, the extra little **e** changes the sound a little.
 | ---------------------------- | ------------- | ---------------------------------- |
 | Marie **habite** en Italie   | /ah-beet/     | Marie lives in Italy               |
 | Marie est **journaliste**    |               | Marie is a **journalist**          |
-| J`étudie à New York, et toi? | /ay-ty-dee/   | I am studying in New York and you? |
+| J`**étudie** à New York, et toi? | /ay-ty-dee/   | I am studying in New York and you? |
 | Je **travaille** à Paris     | /trah-vay/    | I work in Paris                    |
-| Je suis en Europe            |               | I am in Europe                     |
+| Je suis **en** Europe            |               | I am in Europe                     |
 | J`**habite** avec Marie      | /ah-beet/     | I live with Marie                  |
 | **Ton** appartement          |               | Your apartment                     |
 | Le **Billet**                |               | The **Ticket**                     |
@@ -211,7 +211,7 @@ Most verbs change predictably but some do their own thing:
 | Tu **vas**     | You go      |
 | Il/Elle **va** | He/she goes |
 
-If a verb begins with a vowel be sure to change **je** to **j`**
+If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 
 | Verb          | Meaning    |
 | ------------- | ---------- |
@@ -232,7 +232,7 @@ If a verb begins with a vowel be sure to change **je** to **j`**
 | Ton **père** habite ici?                    |               | Does your **father** live here?     |
 | **Mon père**                                |               | **My father**                       |
 | **Mon mari**                                |               | **My husband**                      |
-| Ma **femme**                                |               | My **wife**                         |
+| **Ma femme**                                |               | **My wife**                         |
 | **Grand-mère**                              |               | **Grandmother**                     |
 | **Ma famille** habite en France             |               | My family lives in France           |
 | **Le mari de Julia** est mexicain           |               | Julia's **husband** is Mexican      |
@@ -273,7 +273,7 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Père**          | Father      |
 | **Frère**         | Brother     |
 | **Fils**          | Son         |
-| un **professeur** | a professor |
+| Un **professeur** | A professor |
 
 **Feminine nouns**
 
@@ -282,8 +282,8 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Mère**         | Mother   |
 | **Sœur**         | Sister   |
 | **Fille**        | Daughter |
-| une **Maison**   | a house  |
-| une **Chouette** | an Owl   |
+| Une **Maison**   | A house  |
+| Une **Chouette** | An Owl   |
 
 ## Unit 5
 
@@ -297,9 +297,9 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Étudier** |               | To study                                                  |
 | **Avoir**   |               | To have (not a regular *"-er"*, *"-ir"*, or *"-re"* verb) |
 | **L'école**    |               | The school   |
-| **Le Parc**    |               | The park   |
+| **Le parc**    |               | The park   |
 | **au** </br> *à (to,at) + le (the)*   |               | At the   |
-| **deux** |               | Two   |
+| **Deux** |               | Two   |
 
 ### Grammar
 
@@ -312,76 +312,36 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Vous**      | **You (plural)** | aime**z**  | You like     |
 | **Ils/elles** | **They**         | aime**nt** | They like    |
 
-\* Note: *"aimer"* is a regular *"-er"* verb in French, so it follows the regular conjugation pattern for verbs ending in *"-er"*.
+=> Note: ***"aimer"*** is a regular ***"-er"*** verb in French, so it follows the regular conjugation pattern for verbs ending in ***"-er"***.
 
-| Subject   | Verb **(parler)** |
-| --------- | ----------------- |
-| Je        | Parle             |
-| Tu        | Parle**s**        |
-| Il/elle   | Parle             |
-| Nous      | parl**ons**       |
-| Vous      | parle**z**        |
-| Ils/elles | parle**nt**       |
+| Subject   | Verb **(parler)** | Verb **(habiter)** | Verb **(manger)** |
+| --------- | ----------------- | ------------------ | ----------------- |
+| Je        | Parle             | Habite             | mange             |
+| Tu        | Parle**s**        | Habite**s**        | mange**s**        |
+| Il/elle   | Parle             | Habite             | mange             |
+| Nous      | parl**ons**       | Habit**ons**       | mange**ons**      |
+| Vous      | parle**z**        | Habite**z**        | mange**z**        |
+| Ils/elles | parle**nt**       | Habite**nt**       | mange**nt**       |
 
-\* Note: that *"parler"* is a regular "*-er*" verb in French.
+=> Note: that ***"parler"*** is a regular **"*-er*"** verb in French.
+=> Note: that ***"habiter"*** is a regular **"*-er*"** verb in French.
+=> Note: ***"manger"*** is an irregular verb in French, and its conjugation ***does not*** follow the regular ***"-er"*** verb pattern.
 
-| Subject   | Verb **(habiter)** |
-| --------- | ------------------ |
-| Je        | Habite             |
-| Tu        | Habite**s**        |
-| Il/elle   | Habite             |
-| Nous      | Habit**ons**       |
-| Vous      | Habite**z**        |
-| Ils/elles | Habite**nt**       |
-
-\* Note: that *"habiter"* is a regular "*-er*" verb in French.
-
-| Subject   | Verb **(manger)** |
-| --------- | ----------------- |
-| Je        | mange             |
-| Tu        | mange**s**        |
-| Il/elle   | mange             |
-| Nous      | mange**ons**      |
-| Vous      | mange**z**        |
-| Ils/elles | mange**nt**       |
-
-\* Note: *"manger"* is an irregular verb in French, and its conjugation ***does not*** follow the regular *"-er"* verb pattern.
-
-| Subject   | Verb **(étudier)** |
-| --------- | ------------------ |
-| Je        | étudie             |
-| Tu        | étudie**s**        |
-| Il/elle   | étudie             |
-| Nous      | étudi**ons**       |
-| Vous      | étudie**z**        |
-| Ils/elles | étudie**nt**       |
-
-
-| Subject   | Verb **(Avoir)** |
-| --------- | ---------------- |
-| Je        | ai               |
-| Tu        | a**s**           |
-| Il/elle   | a                |
-| Nous      | a**vons**        |
-| Vous      | a**vez**         |
-| Ils/elles | **ont**          |
-
-
-| Subject   | Verb **(Être)** |
-| --------- | --------------- |
-| Je        | **suis**        |
-| Tu        | e**s**          |
-| Il/elle   | e**st**         |
-| Nous      | **sommes**      |
-| Vous      | **êtes**        |
-| Ils/elles | **sont**        |
+| Subject   | Verb **(étudier)** | Verb **(Avoir)** | Verb **(Être)** |
+| --------- | ------------------ | ---------------- | --------------- |
+| Je        | étudie             | ai               | **suis**        |
+| Tu        | étudie**s**        | a**s**           | e**s**          |
+| Il/elle   | étudie             | a                | e**st**         |
+| Nous      | étudi**ons**       | a**vons**        | **sommes**      |
+| Vous      | étudie**z**        | a**vez**         | **êtes**        |
+| Ils/elles | étudie**nt**       | **ont**          | **sont**        |
 
 
 
 #### Examples
 | Phrase                 | Meaning           |
 | ---------------------- | ----------------- |
-| **Habitez-vous** ici?* | Do you live here? |
+| **Habitez-vous** ici? | Do you live here? |
 
 
-\* Note: The correct word order for a question in French is typically formed by inverting the subject pronoun and the verb, with a hyphen (-) connecting them. *Habitez-vous* is the correct inversion of *vous habitez*, which means *you live* in English.
+=> Note: The correct word order for a question in French is typically formed by inverting the subject pronoun and the verb, with a hyphen (-) connecting them. ***Habitez-vous*** is the correct inversion of ***vous habitez***, which means ***you live*** in English.
