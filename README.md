@@ -324,7 +324,9 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | Ils/elles | parle**nt**       | Habite**nt**       | mange**nt**       |
 
 => Note: that ***"parler"*** is a regular **"*-er*"** verb in French.
+
 => Note: that ***"habiter"*** is a regular **"*-er*"** verb in French.
+
 => Note: ***"manger"*** is an irregular verb in French, and its conjugation ***does not*** follow the regular ***"-er"*** verb pattern.
 
 | Subject   | Verb **(étudier)** | Verb **(Avoir)** | Verb **(Être)** |
