@@ -6,6 +6,8 @@
 | Masculine | Feminine        | Country        | English    |
 | --------- | --------------- | -------------- | ---------- |
 | Espagnol  | Espagnol**e**   | en Espagne     | in Spain   |
+| Anglais  | Anglais**e**   | en Angleterre     | in England   |
+| Français  | Français**e**   | en France     | in France   |
 | Américain | Américain**e**  | en Amérique    | in America |
 | Canadien  | Canadien**ne**  | **au** Canada* | in Canada  |
 | Chinois   | Chinois**e**    | en Chine       | in China   |
@@ -23,5 +25,6 @@ Note: **"au"** is a contraction of **"à"** + **"le"** used before masculine sin
 | ---------- | ----------------------------- |
 | à Paris    | in Paris (France's capital)   |
 | à Bordeaux | in Bordeaux (France)          |
+| à Londres | in Londres (France)          |
 | à Berlin   | in Berlin (Germany's capital) |
 | à Tijuana  | in Tijuana (Mexico)           |

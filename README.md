@@ -181,6 +181,7 @@ Two words exist for ****in****. We use **à** for cities but **en** with many co
 | un **avion**       | a plane       |
 | un **aéroport**    | an airport    |
 | un **appartement** | an appartment |
+| un **jardin**      | a Garden      |
 
 **Feminine nouns**
 
@@ -216,26 +217,26 @@ If a verb begins with a vowel be sure to change **je** to **j`**
 ### Phrases
 
 
-| Phrase                                  | Pronunciation | English                             |
-| --------------------------------------- | ------------- | ----------------------------------- |
-| Ton **père** habite ici?                |               | Does your **father** live here?     |
-| **Mon père**                            |               | **My father**                       |
-| **Mon mari**                            |               | **My husband**                      |
-| Ma **femme**                            |               | My **wife**                         |
-| **Grand-mère**                          |               | **Grandmother**                     |
-| **Ma famille** habite en France         |               | My family lives in France           |
-| **Le mari de Julia** est mexicain       |               | Julia's **husband** is Mexican      |
-| J'ai **un animal de compagnie**         |               | I have **a pet**                    |
-| **Est-cs que** (est ce)                 |               | **Do you** or **Are you**           |
-| Est-ce que **vous** travailles ici?     |               | Do you work here?                   |
-| Une **chouette**                        |               | An owl                              |
-| **Dans**                                |               | In                                  |
-| **Ètudiant**                            |               | Student                             |
-| Le fils de Louis et Marc s'appelle Paul |               | Louis and Marc's son's name is Paul |
-| La **maison**                           |               | The **house**                       |
-| Le **Jardin**                           |               | The **Garden**                      |
-| L'**appatement**                        |               | The apartment                       |
-| Alice **veut** une chouette             |               | Alice **wants** an owl              |
+| Phrase                                      | Pronunciation | English                             |
+| ------------------------------------------- | ------------- | ----------------------------------- |
+| Ton **père** habite ici?                    |               | Does your **father** live here?     |
+| **Mon père**                                |               | **My father**                       |
+| **Mon mari**                                |               | **My husband**                      |
+| Ma **femme**                                |               | My **wife**                         |
+| **Grand-mère**                              |               | **Grandmother**                     |
+| **Ma famille** habite en France             |               | My family lives in France           |
+| **Le mari de Julia** est mexicain           |               | Julia's **husband** is Mexican      |
+| J'ai **un animal de compagnie**             |               | I have **a pet**                    |
+| **Est-cs que** (est ce)                     |               | **Do you** or **Are you**           |
+| *Est-ce que* **vous** ***travaillez*** ici? |               | Do **you** work here?               |
+| Une **chouette**                            |               | An owl                              |
+| **Dans**                                    |               | In                                  |
+| **Ètudiant**                                |               | Student                             |
+| Le fils de Louis et Marc s'appelle Paul     |               | Louis and Marc's son's name is Paul |
+| La **maison**                               |               | The **house**                       |
+| Le **jardin**                               |               | The **garden**                      |
+| L'**appatement**                            |               | The apartment                       |
+| Alice **veut** une chouette                 |               | Alice **wants** an owl              |
 
 ### Grammar
 The words like **my** and **your** change based on the gender of the word after them.
@@ -266,10 +267,111 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 
 **Feminine nouns**
 
-| French         | Meaning  |
-| -------------- | -------- |
-| **Mère**       | Mother   |
-| **Sœur**       | Sister   |
-| **Fille**      | Daughter |
-| une **Maison** | a house  |
-| une **Chouette**   | an Owl      |
+| French           | Meaning  |
+| ---------------- | -------- |
+| **Mère**         | Mother   |
+| **Sœur**         | Sister   |
+| **Fille**        | Daughter |
+| une **Maison**   | a house  |
+| une **Chouette** | an Owl   |
+
+# Unit 5
+
+## Phrase
+| Verbs and Words      | Pronunciation | English                                                   |
+| ----------- | ------------- | --------------------------------------------------------- |
+| **Aimer**   |               | To like                                                   |
+| **Lire**    |               | To read                                                   |
+| **Habiter** |               | To live                                                   |
+| **Manger**  |               | To eat (not a regular *"-er"* verb)                       |
+| **Étudier** |               | To study                                                  |
+| **Avoir**   |               | To have (not a regular *"-er"*, *"-ir"*, or *"-re"* verb) |
+| **L'école**    |               | The school   |
+| **Le Parc**    |               | The park   |
+| **au** </br> *à (to,at) + le (the)*   |               | At the   |
+| **deux** |               | Two   |
+
+## Grammar
+
+| Subject       | Meaning          | Verb       | Meaning      |
+| ------------- | ---------------- | ---------- | ------------ |
+| Je            | I                | Aime       | I like       |
+| Tu            | You (singular)   | Aime**s**  | You like     |
+| Il/elle       | He/she           | Aime       | He/she likes |
+| **Nous**      | **We**           | aim**ons** | We like      |
+| **Vous**      | **You (plural)** | aime**z**  | You like     |
+| **Ils/elles** | **They**         | aime**nt** | They like    |
+
+\* Note: *"aimer"* is a regular *"-er"* verb in French, so it follows the regular conjugation pattern for verbs ending in *"-er"*.
+
+| Subject   | Verb **(parler)** |
+| --------- | ----------------- |
+| Je        | Parle             |
+| Tu        | Parle**s**        |
+| Il/elle   | Parle             |
+| Nous      | parl**ons**       |
+| Vous      | parle**z**        |
+| Ils/elles | parle**nt**       |
+
+\* Note: that *"parler"* is a regular "*-er*" verb in French.
+
+| Subject   | Verb **(habiter)** |
+| --------- | ------------------ |
+| Je        | Habite             |
+| Tu        | Habite**s**        |
+| Il/elle   | Habite             |
+| Nous      | Habit**ons**       |
+| Vous      | Habite**z**        |
+| Ils/elles | Habite**nt**       |
+
+\* Note: that *"habiter"* is a regular "*-er*" verb in French.
+
+| Subject   | Verb **(manger)** |
+| --------- | ----------------- |
+| Je        | mange             |
+| Tu        | mange**s**        |
+| Il/elle   | mange             |
+| Nous      | mange**ons**      |
+| Vous      | mange**z**        |
+| Ils/elles | mange**nt**       |
+
+\* Note: *"manger"* is an irregular verb in French, and its conjugation ***does not*** follow the regular *"-er"* verb pattern.
+
+| Subject   | Verb **(étudier)** |
+| --------- | ------------------ |
+| Je        | étudie             |
+| Tu        | étudie**s**        |
+| Il/elle   | étudie             |
+| Nous      | étudi**ons**       |
+| Vous      | étudie**z**        |
+| Ils/elles | étudie**nt**       |
+
+
+| Subject   | Verb **(Avoir)** |
+| --------- | ---------------- |
+| Je        | ai               |
+| Tu        | a**s**           |
+| Il/elle   | a                |
+| Nous      | a**vons**        |
+| Vous      | a**vez**         |
+| Ils/elles | **ont**          |
+
+
+| Subject   | Verb **(Être)** |
+| --------- | --------------- |
+| Je        | **suis**        |
+| Tu        | e**s**          |
+| Il/elle   | e**st**         |
+| Nous      | **sommes**      |
+| Vous      | **êtes**        |
+| Ils/elles | **sont**        |
+
+
+
+### Examples
+| Phrase                 | Meaning           |
+| ---------------------- | ----------------- |
+| **Habitez-vous** ici?* | Do you live here? |
+
+
+\* Note: The correct word order for a question in French is typically formed by inverting the subject pronoun and the verb, with a hyphen (-) connecting them. *Habitez-vous* is the correct inversion of *vous habitez*, which means *you live* in English.

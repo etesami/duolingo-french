@@ -17,6 +17,8 @@
 | **Frère**         | Brother     |
 | **Fils**          | Son         |
 | un **professeur** | a professor |
+| un **jardin** | a Garden |
+| un **park** | a park |
 
 ### Feminine Words
 
@@ -34,3 +36,4 @@
 | **Sœur**       | Sister   |
 | **Fille**      | Daughter |
 | une **Maison** | a house  |
+| une **École** | a school  |
