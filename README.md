@@ -345,7 +345,7 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | Je suis **désolé**                  |               | I am sorry                                                |
 | Elle es **désolée**                  |               | She is sorry                                                |
 | Je **l'aime**                  |               | I love **her**                                                |
-| Je **t'**aime **aussi**                 |               | I love **you** **too**                                              |
+| Je **t**'aime **aussi**                 |               | I love **you** **too**                                              |
 
 => Note: ***"pas"*** is used with ***"ne"*** to form negative sentences in French. It is placed after the verb and before other words or phrases in the sentence to create a negative statement. 
 
@@ -360,7 +360,8 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Vous**      | **You (plural)** | aime**z**  | You like     |
 | **Ils/elles** | **They**         | aime**nt** | They like    |
 
-=> Note: ***"aimer"*** is a regular ***"-er"*** verb in French, so it follows the regular conjugation pattern for verbs ending in ***"-er"***.
+=> Note: ***"aimer"*** is a regular ***"-er"*** verb in French, 
+so it follows the regular conjugation pattern for verbs ending in ***"-er"***.
 
 | Subject   | Verb **(Parler)** </br> (to speak) | Verb **(Habiter)** </br> (to live) | Verb **(Manger)** </br> (to eat) |
 | --------- | ---------------------------------- | ---------------------------------- | -------------------------------- |
@@ -371,11 +372,12 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | Vous      | parle**z**                         | Habite**z**                        | mange**z**                       |
 | Ils/elles | parle**nt**                        | Habite**nt**                       | mange**nt**                      |
 
-=> Note: that ***"parler"*** is a regular **"*-er*"** verb in French.
+=> Note: ***"parler"*** is a regular **"*-er*"** verb in French.
 
-=> Note: that ***"habiter"*** is a regular **"*-er*"** verb in French.
+=> Note: ***"habiter"*** is a regular **"*-er*"** verb in French.
 
-=> Note: ***"manger"*** is an irregular verb in French, and its conjugation ***does not*** follow the regular ***"-er"*** verb pattern.
+=> Note: ***"manger"*** is an irregular verb in French, and its conjugation ***does not*** 
+follow the regular ***"-er"*** verb pattern.
 
 | Subject   | Verb **(Avoir)** </br> (to have) | Verb **(Être)** </br> (to be) | Verb **(Vouloir)** </br> (to want) |
 | --------- | -------------------------------- | ----------------------------- | ---------------------------------- |
@@ -416,4 +418,7 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Êtes-vous** médecin? | Are you a doctor? |
 
 
-=> Note: The correct word order for a question in French is typically formed by inverting the subject pronoun and the verb, with a hyphen (-) connecting them. ***Habitez-vous*** is the correct inversion of ***vous habitez***, which means ***you live*** in English.
+=> Note: The correct word order for a question in French is typically formed by 
+inverting the subject pronoun and the verb, with a hyphen (-) connecting them. 
+***Habitez-vous*** is the correct inversion of ***vous habitez***, which 
+means ***you live*** in English.
