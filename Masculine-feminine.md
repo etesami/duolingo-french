@@ -19,6 +19,9 @@
 | un **professeur** | a professor |
 | un **jardin** | a Garden |
 | un **park** | a park |
+| un **amie** | a friend |
+| un **amie** | a friend |
+| Un **pantalon**             | A pants                                          |
 
 ### Feminine Words
 
@@ -37,3 +40,6 @@
 | **Fille**      | Daughter |
 | une **Maison** | a house  |
 | une **École** | a school  |
+| une **famille** | a family  |
+| Une **supermarché** | a supermarket  |
+
