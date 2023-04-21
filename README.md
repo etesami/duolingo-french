@@ -1,28 +1,11 @@
 # Duolingo French Course
 
 - [Duolingo French Course](#duolingo-french-course)
-  - [Unit 1](#unit-1)
-    - [Phrase](#phrase)
-    - [Grammar](#grammar)
-    - [Gender](#gender)
-    - [Accents](#accents)
-  - [Unit 2](#unit-2)
-    - [Phrase](#phrase-1)
-    - [Grammar](#grammar-1)
-    - [Gender](#gender-1)
-  - [Unit 3](#unit-3)
-    - [Phrases](#phrases)
-    - [Grammar](#grammar-2)
-      - [THE: Le, La, l](#the-le-la-l)
-    - [Verbs](#verbs)
-  - [Unit 4](#unit-4)
-    - [Phrases](#phrases-1)
-    - [Grammar](#grammar-3)
-  - [Unit 5](#unit-5)
-    - [Phrase](#phrase-2)
-    - [Grammar](#grammar-4)
-      - [Examples](#examples)
-
+  - [Unit 1: Use basic phrases, greet people](#unit-1)
+  - [Unit 2: Introduce yourself](#unit-2)
+  - [Unit 3: Use the present tense, get around town](#unit-3)
+  - [Unit 4: Refer to family members](#unit-4)
+  - [Unit 5: Use the present tense](#unit-5)
 
 ## Unit 1
 
@@ -101,7 +84,7 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 | bonne nuit | /bawn nwee/   |
 
 
-
+<div style="page-break-after: always;"></div>
 
 ## Unit 2
 
@@ -146,6 +129,9 @@ Feminie adjectives end in **e:**
 | **Elle** est amèricain**e** | She is American    |
 
 Sometimes, the extra little **e** changes the sound a little.
+
+
+<div style="page-break-after: always;"></div>
 
 ## Unit 3
 
@@ -236,6 +222,7 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 | Il/elle **a** | He/she has |
 
 
+<div style="page-break-after: always;"></div>
 
 ## Unit 4
 
@@ -301,6 +288,8 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Fille**        | Daughter |
 | Une **Maison**   | A house  |
 | Une **Chouette** | An Owl   |
+
+<div style="page-break-after: always;"></div>
 
 ## Unit 5
 
