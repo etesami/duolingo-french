@@ -83,9 +83,6 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 | femme      | /fam/         |
 | bonne nuit | /bawn nwee/   |
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
 
 ## Unit 2
 
@@ -132,7 +129,6 @@ Feminie adjectives end in **e:**
 Sometimes, the extra little **e** changes the sound a little.
 
 
-<div style="page-break-after: always;"></div>
 
 ## Unit 3
 
@@ -151,6 +147,10 @@ Sometimes, the extra little **e** changes the sound a little.
 | **Ton** appartement              |               | Your apartment                     |
 | Le **Billet**                    |               | The **Ticket**                     |
 | Il **va bien**                   |               | He is doing well                   |
+| J'**aime** la **couleur**        |               | I like the color                   |
+| Je **veux** **cette** veste      |               | I **want this** jacket             |
+| **À cent euros**                 |               | At one hundred euros               |
+| Ma **meilleure amie**            |               | My **best friend**                 |
 
 | French  | English                 | Example                                                                                                |
 | ------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -223,7 +223,6 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 | Il/elle **a** | He/she has |
 
 
-<div style="page-break-after: always;"></div>
 
 ## Unit 4
 
@@ -252,6 +251,30 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 | Le **jardin**                               |               | The **garden**                      |
 | L'**appatement**                            |               | The apartment                       |
 | Alice **veut** une chouette                 |               | Alice **wants** an owl              |
+| **Ma lune de miel**                         |               | My honeymoon                        |
+| **Votre** </br> (formal of *ton*)           |               | Your                                |
+| Je suis **désolé**                          |               | I am sorry                          |
+| Elle es **désolée**                         |               | She is sorry                        |
+| Je **l'aime**                               |               | I love **her**                      |
+| Je **t**'aime **aussi**                     |               | I love **you** **too**              |
+| **Le médecin**                              |               | The **doctor**                      |
+| Une femme **élégante**                      |               | An elegant women                    |
+| Une **supermarché**                         |               | A supermarket                       |
+| Une **grande** massion                      |               | A big home                          |
+| Un **grand** garçon                         |               | A tall boy                          |
+| Un **pantalon**                             |               | A pants                             |
+| **Coûte** très **cher**                     |               | It is very expensive                |
+| **Mais**                                    |               | But                                 |
+| Un homme **a besoin** d'un mèdecin          |               | A man needs a doctor                |
+| Il est très **malade**                      |               | He is very sick                     |
+| Il parle a une **autre** femme              |               | He speaks to an another women       |
+| J'ai **besoin d'aide**                      |               | I need help                         |
+| Je ne **trouve** pass mon passeport         |               | I cannot find my passport           |
+| Mon **sac**                                 |               | My bag                              |
+| Ma **veste**                                |               | My jacket                           |
+| Ce n'est pass possible                      |               | It's not possible                   |
+| ta **main**                                 |               | Your hand                           |
+| **Bon voyage**                              |               | Wish someone a good trip            |
 
 ### Grammar
 The words like **my** and **your** change based on the gender of the word after them.
@@ -290,17 +313,13 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | Une **Maison**   | A house  |
 | Une **Chouette** | An Owl   |
 
-<div style="page-break-after: always;"></div>
 
 ## Unit 5
 
 ### Phrase
 | Verbs and Words                     | Pronunciation | English                                                   |
 | ----------------------------------- | ------------- | --------------------------------------------------------- |
-| **Voilà**                           |               | Here is/There is                                          |
 | Une **Aime**                        |               | A friend                                                  |
-| Une **chauffeur**                   |               | A driver                                                  |
-| **Maintenant**                      |               | Now                                                       |
 | **Aimer**                           |               | To like                                                   |
 | **Lire**                            |               | To read                                                   |
 | **Habiter**                         |               | To live                                                   |
@@ -312,30 +331,24 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **au** </br> *à (to,at) + le (the)* |               | At the                                                    |
 | **Deux**                            |               | Two                                                       |
 | **Sais** (savoir)                   |               | **know** (to know) </br> (verb)                           |
-| Je **ne** sais **pas**              |               | I **don't** know.                                         |
-| Ce **n'**est **pas** la gare        |               | This is not the train station                             |
-| Une **Hôpital**                     |               | A **hospital**                                            |
-| C'est **difficile**                 |               | It's **difficult**                                        |
-| Ils/elles sont **difficiles**       |               | They're **difficult**                                     |
-| **Ouvre** la **porte**              |               | **Open** the **door**                                     |
-| **Le médecin**                      |               | The **doctor**                                            |
-| Une femme **élégante**              |               | An elegant women                                          |
-| Une **supermarché**                 |               | A supermarket                                             |
-| Une **grande** massion              |               | A big home                                                |
-| Un **grand** garçon                 |               | A tall boy                                                |
-| Un **pantalon**                     |               | A pants                                                   |
-| **Coûte** très **cher**             |               | It is very expensive                                      |
-| **Mais**                            |               | But                                                       |
-| Un homme **a besoin** d'un mèdecin  |               | A man needs a doctor                                      |
-| Il est très **malade**              |               | He is very sick                                           |
-| Il parle a une **autre** femme      |               | He speaks to an another women                             |
-| J'ai **besoin d'aide**              |               | I need help                                               |
-| **Ma lune de miel**                 |               | My honeymoon                                              |
-| **Votre** </br> (formal of *ton*)   |               | Your                                                      |
-| Je suis **désolé**                  |               | I am sorry                                                |
-| Elle es **désolée**                  |               | She is sorry                                                |
-| Je **l'aime**                  |               | I love **her**                                                |
-| Je **t**'aime **aussi**                 |               | I love **you** **too**                                              |
+| Le **nouvel** étudiant              |               | The **new** studient                                      |
+| **Il y** a un éeudiant              |               | **There is** a new studient                               |
+| la **classe**                       |               | The **class**                                             |
+| Il **écrit des livers**             |               | He **writes some books**                                  |
+| Très **intéressant**                |               | Very **interesting**                                      |
+| Il a de **beaux vêtements**         |               | It has beautiful **cloths**                               |
+| **Derrrière**                       |               | **Behind**                                                |
+| Un **magasin**                      |               | A **store**                                               |
+| Vous **préférex** le **sac rouge**  |               | Do you **prefer** the **red bag**?                        |
+| Le sac **blanc**                    |               | The **while** bag                                         |
+| **Beau**                            |               | **Beautifil**                                             |
+| Je **paye** où?                     |               | Where should I pay?                                       |
+
+| possessive adjectives | English                               |
+| --------------------- | ------------------------------------- |
+| Ton livre             | Your book </br> (singular, masculine) |
+| Ta maison             | You house </br> (singular, feminine)  |
+| Tes vêtements         | Your cloths </br> (plural)            |
 
 => Note: ***"pas"*** is used with ***"ne"*** to form negative sentences in French. It is placed after the verb and before other words or phrases in the sentence to create a negative statement. 
 
@@ -371,31 +384,31 @@ follow the regular ***"-er"*** verb pattern.
 
 | Subject   | Verb **(Avoir)** </br> (to have) | Verb **(Être)** </br> (to be) | Verb **(Vouloir)** </br> (to want) |
 | --------- | -------------------------------- | ----------------------------- | ---------------------------------- |
-| Je        | ai                               | **suis**                      | veux                               |
-| Tu        | a**s**                           | e**s**                        | veux                               |
-| Il/elle   | a                                | e**st**                       | veut                               |
-| Nous      | a**vons**                        | **sommes**                    | voulons                            |
-| Vous      | a**vez**                         | **êtes**                      | voulez                             |
-| Ils/elles | **ont**                          | **sont**                      | veulent                            |
+| Je        | ai                               | **suis**                      | **veux**                           |
+| Tu        | a**s**                           | e**s**                        | **veux**                           |
+| Il/elle   | a                                | e**st**                       | veu**t**                           |
+| Nous      | a**vons**                        | **sommes**                    | vou**lons**                        |
+| Vous      | a**vez**                         | **êtes**                      | vou**lez**                         |
+| Ils/elles | **ont**                          | **sont**                      | veu**lent**                        |
 
 
-| Subject   | Verb **(Savoir)** </br> (to know) | Verb **(Conduire)** </br> (to drive) |
-| --------- | --------------------------------- | ------------------------------------ |
-| Je        | sais                              | conduis                              |
-| Tu        | sais                              | conduis                              |
-| Il/elle   | sait                              | conduit                              |
-| Nous      | savons                            | conduisons                           |
-| Vous      | savez                             | conduisez                            |
-| Ils/elles | savent                            | conduisent                           |
+| Subject   | Verb **(Savoir)** </br> (to know) | Verb **(Conduire)** </br> (to drive) | Verb **(Acheter)** </br> (to buy) |
+| --------- | --------------------------------- | ------------------------------------ | --------------------------------- |
+| Je        | **sais**                          | **conduis**                          | **achète**                        |
+| Tu        | **sais**                          | **conduis**                          | achète**s**                       |
+| Il/elle   | sa**it**                          | condui**t**                          | achète                            |
+| Nous      | sa**vons**                        | condui**sons**                       | achèt**ons**                      |
+| Vous      | sa**vez**                         | condui**sez**                        | achète**z**                       |
+| Ils/elles | sa**vent**                        | condui**sent**                       | achète**nt**                      |
 
-| Subject   | Verb **(Voyager)** </br> (to travel) | Verb **(Étudier)** </br> (to study) |
-| --------- | ------------------------------------ | ----------------------------------- |
-| Je        | voyage                               | étudie                              |
-| Tu        | voyages                              | étudie**s**                         |
-| Il/elle   | voyage                               | étudie                              |
-| Nous      | voyageons                            | étudi**ons**                        |
-| Vous      | voyagez                              | étudie**z**                         |
-| Ils/elles | voyagent                             | étudie**nt**                        |
+| Subject   | Verb **(Voyager)** </br> (to travel) | Verb **(Étudier)** </br> (to study) | Verb **(pouvoir)** </br> (can) |
+| --------- | ------------------------------------ | ----------------------------------- | ------------------------------ |
+| Je        | **voyage**                           | étudie                              | **peux**                       |
+| Tu        | voyage**s**                          | étudie**s**                         | peux                           |
+| Il/elle   | voyage                               | étudie                              | peu**t**                       |
+| Nous      | voyage**ons**                        | étudi**ons**                        | pou**vons**                    |
+| Vous      | voyage**z**                          | étudie**z**                         | pou**vez**                     |
+| Ils/elles | voyage**nt**                         | étudie**nt**                        | peu**vent**                    |
 
 
 
@@ -412,3 +425,20 @@ follow the regular ***"-er"*** verb pattern.
 inverting the subject pronoun and the verb, with a hyphen (-) connecting them. 
 ***Habitez-vous*** is the correct inversion of ***vous habitez***, which 
 means ***you live*** in English.
+
+## Unit 6
+
+### Phrases
+
+| Verbs and Words               | Pronunciation | English                       |
+| ----------------------------- | ------------- | ----------------------------- |
+| Une **chauffeur**             |               | A driver                      |
+| **Maintenant**                |               | Now                           |
+| **Conduit** (verb)            |               | **Drive**                     |
+| **Voilà**                     |               | Here is/There is              |
+| Je **ne** sais **pas**        |               | I **don't** know.             |
+| Ce **n'**est **pas** la gare  |               | This is not the train station |
+| Une **Hôpital**               |               | A **hospital**                |
+| C'est **difficile**           |               | It's **difficult**            |
+| Ils/elles sont **difficiles** |               | They're **difficult**         |
+| **Ouvre** la **porte**        |               | **Open** the **door**         |

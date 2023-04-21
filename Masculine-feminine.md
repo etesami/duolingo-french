@@ -22,6 +22,8 @@
 | un **amie** | a friend |
 | un **amie** | a friend |
 | Un **pantalon**             | A pants                                          |
+| Un **sac**             | A bag                                          |
+| Mon **anniversaire** | My birthday | 
 
 ### Feminine Words
 
@@ -42,4 +44,6 @@
 | une **École** | a school  |
 | une **famille** | a family  |
 | Une **supermarché** | a supermarket  |
-
+| Une **veste** |  A jacket |
+| Ta **main** |  Your hand |
+| la **classe** | The **class** | 
