@@ -83,8 +83,9 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 | femme      | /fam/         |
 | bonne nuit | /bawn nwee/   |
 
-
-<div style="page-break-after: always;"></div>
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Unit 2
 
