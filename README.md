@@ -6,6 +6,8 @@
   - [Unit 3: Use the present tense, get around town](#unit-3)
   - [Unit 4: Refer to family members](#unit-4)
   - [Unit 5: Use the present tense](#unit-5)
+  - [Unit 6: Talk about things you do](#unit-6)
+  - [Unit 7: Form the plural](#unit-7)
 
 ## Unit 1
 
@@ -184,25 +186,6 @@ Two words exist for ****in****. We use **à** for cities but **en** with many co
 | **La** goes with feminine nouns                  | la femme  | The woman |
 | **l**`goes with word started a vowel or silent h | l`homme   | The man   |
 
-**Masculine nouns**
-
-| French             | Meaning       |
-| ------------------ | ------------- |
-| un **billet**      | a ticket      |
-| un **passeport**   | a passport    |
-| un **train**       | a train       |
-| un **avion**       | a plane       |
-| un **aéroport**    | an airport    |
-| un **appartement** | an appartment |
-| un **jardin**      | a Garden      |
-
-**Feminine nouns**
-
-| French          | Meaning         |
-| --------------- | --------------- |
-| une **valise**  | a suitcase      |
-| une **gare**    | a train station |
-| une **voiture** | a car           |
 
 ### Verbs
 
@@ -294,26 +277,6 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 
 
 
-**Masculine nouns**
-
-| French            | Meaning     |
-| ----------------- | ----------- |
-| **Père**          | Father      |
-| **Frère**         | Brother     |
-| **Fils**          | Son         |
-| Un **professeur** | A professor |
-
-**Feminine nouns**
-
-| French           | Meaning  |
-| ---------------- | -------- |
-| **Mère**         | Mother   |
-| **Sœur**         | Sister   |
-| **Fille**        | Daughter |
-| Une **Maison**   | A house  |
-| Une **Chouette** | An Owl   |
-
-
 ## Unit 5
 
 ### Phrase
@@ -332,7 +295,8 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Deux**                            |               | Two                                                       |
 | **Sais** (savoir)                   |               | **know** (to know) </br> (verb)                           |
 | Le **nouvel** étudiant              |               | The **new** studient                                      |
-| **Il y** a un éeudiant              |               | **There is** a new studient                               |
+| La nouvel**le** maison              |               | The **new** house                                         |
+| **Il y** a un étudiant              |               | **There is** a studient                                   |
 | la **classe**                       |               | The **class**                                             |
 | Il **écrit des livers**             |               | He **writes some books**                                  |
 | Très **intéressant**                |               | Very **interesting**                                      |
@@ -346,9 +310,9 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 
 | possessive adjectives | English                               |
 | --------------------- | ------------------------------------- |
-| Ton livre             | Your book </br> (singular, masculine) |
-| Ta maison             | You house </br> (singular, feminine)  |
-| Tes vêtements         | Your cloths </br> (plural)            |
+| **Ton** livre         | Your book </br> (singular, masculine) |
+| **Ta** maison         | You house </br> (singular, feminine)  |
+| **Tes** vêtements     | Your cloths </br> (plural)            |
 
 => Note: ***"pas"*** is used with ***"ne"*** to form negative sentences in French. It is placed after the verb and before other words or phrases in the sentence to create a negative statement. 
 
@@ -368,7 +332,7 @@ so it follows the regular conjugation pattern for verbs ending in ***"-er"***.
 
 | Subject   | Verb **(Parler)** </br> (to speak) | Verb **(Habiter)** </br> (to live) | Verb **(Manger)** </br> (to eat) |
 | --------- | ---------------------------------- | ---------------------------------- | -------------------------------- |
-| Je        | Parle                              | Habite                             | mange                            |
+| Je        | **Parle**                          | **Habite**                         | **mange**                        |
 | Tu        | Parle**s**                         | Habite**s**                        | mange**s**                       |
 | Il/elle   | Parle                              | Habite                             | mange                            |
 | Nous      | parl**ons**                        | Habit**ons**                       | mange**ons**                     |
@@ -403,7 +367,7 @@ follow the regular ***"-er"*** verb pattern.
 
 | Subject   | Verb **(Voyager)** </br> (to travel) | Verb **(Étudier)** </br> (to study) | Verb **(pouvoir)** </br> (can) |
 | --------- | ------------------------------------ | ----------------------------------- | ------------------------------ |
-| Je        | **voyage**                           | étudie                              | **peux**                       |
+| Je        | **voyage**                           | **étudie**                          | **peux**                       |
 | Tu        | voyage**s**                          | étudie**s**                         | peux                           |
 | Il/elle   | voyage                               | étudie                              | peu**t**                       |
 | Nous      | voyage**ons**                        | étudi**ons**                        | pou**vons**                    |
@@ -430,15 +394,54 @@ means ***you live*** in English.
 
 ### Phrases
 
-| Verbs and Words               | Pronunciation | English                       |
-| ----------------------------- | ------------- | ----------------------------- |
-| Une **chauffeur**             |               | A driver                      |
-| **Maintenant**                |               | Now                           |
-| **Conduit** (verb)            |               | **Drive**                     |
-| **Voilà**                     |               | Here is/There is              |
-| Je **ne** sais **pas**        |               | I **don't** know.             |
-| Ce **n'**est **pas** la gare  |               | This is not the train station |
-| Une **Hôpital**               |               | A **hospital**                |
-| C'est **difficile**           |               | It's **difficult**            |
-| Ils/elles sont **difficiles** |               | They're **difficult**         |
-| **Ouvre** la **porte**        |               | **Open** the **door**         |
+| Verbs and Words                 | Pronunciation | English                       |
+| ------------------------------- | ------------- | ----------------------------- |
+| Une **chauffeur**               |               | A driver                      |
+| **Maintenant**                  |               | Now                           |
+| **Conduit** (verb)              |               | **Drive**                     |
+| **Voilà**                       |               | Here is/There is              |
+| Je **ne** sais **pas**          |               | I **don't** know.             |
+| Ce **n'** est **pas** la gare   |               | This is not the train station |
+| Une **Hôpital**                 |               | A **hospital**                |
+| C'est **difficile**             |               | It's **difficult**            |
+| Ils/elles sont **difficiles**   |               | They're **difficult**         |
+| **Ouvre** la **porte**          |               | **Open** the **door**         |
+| **Plats végétarien**            |               | **Vegetarian dishes**         |
+| **Viande**                      |               | **Meat**                      |
+| Le porc est délicieux           |               | The pork is delicious         |
+| Une salade et du poisson        |               | A salad and some fishes       |
+| Du pain et du fromage           |               | Some bread and some cheese    |
+| Du jambon                       |               | Some ham                      |
+| Tu as huit ans                  |               | You are eight years old       |
+| Nous avons besoin **d'argent**  |               | We need **the money**         |
+| **Pourquoi?**                   |               | Why?                          |
+| **Notre** maison est **petite** |               | Our house is **small**        |
+| **Plus de place**               |               | More space                    |
+| la **musique**                  |               | The **music**                 |
+| la **banque**                   |               | The **bank**                  |
+| la **boulanerie**                   |               | The **bakery**                  |
+
+### Grammar 
+
+| Subject   | Verb **(Devoir)** </br> (must) |
+| --------- | ------------------------------ |
+| Je        | **dois**                       |
+| Tu        | dois                           |
+| Il/elle   | doit                           |
+| Nous      | d**evons**                     |
+| Vous      | d**evez**                      |
+| Ils/elles | **doivent**                    |
+
+#### Possessive adjectives
+
+| Your    | Our       | Example       |                     |
+| ------- | --------- | ------------- | ------------------- |
+| **Ton** | **Notre** | Ton livre     | singular, masculine |
+| **Ta**  | Notre     | Ta maison     | singular, feminine  |
+| **Tes** | **Nos**   | Tes vêtements | plural              |
+
+| Phrase          | Exampe          |                     |
+| --------------- | --------------- | ------------------- |
+| Le chocolat     | The chocolate   | singular, masculine |
+| La  maison      | The house       | singular, feminine  |
+| Les restaurants | The restaurants | plural              |
