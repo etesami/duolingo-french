@@ -8,6 +8,9 @@
   - [Unit 5: Use the present tense](#unit-5)
   - [Unit 6: Talk about things you do](#unit-6)
   - [Unit 7: Form the plural](#unit-7)
+  - [Unit 8: Describe your family](#unit-8)
+  - [Unit 9: Order food and drink](#unit-9)
+  - [Unit 10: Use gender and number agreement](#unit-10)
 
 ## Unit 1
 
@@ -434,14 +437,120 @@ means ***you live*** in English.
 
 #### Possessive adjectives
 
-| Your    | Our       | Example       |                     |
-| ------- | --------- | ------------- | ------------------- |
+| Your    | Our       | Example           |                     |
+| ------- | --------- | ----------------- | ------------------- |
 | **Ton** | **Notre** | **Ton** livre     | singular, masculine |
 | **Ta**  | Notre     | **Ta** maison     | singular, feminine  |
 | **Tes** | **Nos**   | **Tes** vêtements | plural              |
 
-| Phrase          | Meaning          |                     |
-| --------------- | --------------- | ------------------- |
+| Phrase              | Meaning         |                     |
+| ------------------- | --------------- | ------------------- |
 | **Le** chocolat     | The chocolate   | singular, masculine |
 | **La**  maison      | The house       | singular, feminine  |
 | **Les** restaurants | The restaurants | plural              |
+
+
+
+## Unit 7
+
+### Phrases
+
+| Verbs and Words     | Pronunciation | English         |
+| ------------------- | ------------- | --------------- |
+| Les **professeurs** |               | The professors  |
+| Les femme**s**      |               | The wom**e**n   |
+| Les homme**s**      |               | The m**e**n     |
+| Un, deux, trios     |               | One, two, three |
+| On est ici          |               | We are here     |
+
+
+### Grammar 
+In French, plural names take an extra **s** at the end, however, the plural **s** is usually silent.
+
+| Singular and Plural           | English          |
+| ----------------------------- | ---------------- |
+| **Il** est étudiant           | He is student    |
+| **Elle** est étudiant**e**    | She is student   |
+| **Elles** sont étudiant**es** | They are student |
+
+| French              |
+| ------------------- |
+| **Les** chien**s**  |
+| **Les** chat**s**   |
+| **Les** garçon**s** |
+| **Les** garçon**s** |
+| **Les** maison**s** |
+
+| French    | Meaning                      |
+| --------- | ---------------------------- |
+| **Ils**   | They (group of men or mixed) |
+| **Elles** | They (group of women)        |
+
+**À** followed by le becomes **au** and **À** followed by les becomes **aux**.
+
+| Rule        | Shortened | Example                 |
+| ----------- | --------- | ----------------------- |
+| **À + le**  | **au**    | Ja vais **au** zoo      |
+| **À + les** | **aux**   | Il va **aux** toilettes |
+
+#### Possessive adjectives
+
+| My      | Our       | Your    | Your (plural) | His/Her | Their     |
+| ------- | --------- | ------- | ------------- | ------- | --------- |
+| **Mon** | **Notre** | **Ton** | **Votre**     | **Son** | **Leur**  |
+| **Ma**  | Notre     | **Ta**  | Votre         | **Sa**  | **Leur**  |
+| **Mes** | **Nos**   | **Tes** | **Vos**       | **Ses** | **Leurs** |
+
+
+
+
+## Unit 8
+
+### Phrases
+| Verbs and Words                         | Pronunciation | English                 |
+| --------------------------------------- | ------------- | ----------------------- |
+| Il est **amusant**                      |               | He is **funny**         |
+| Elle est amusant**e**                   |               | She is funny            |
+| Elle est **contente**                   |               | She is happy            |
+| Est-ce que tu aimes **le** français?    |               | Do you like French?     |
+| **Mes** parent**s** sont américain**s** |               | My parents are American |
+| **Mes** sœur**s**                       |               | My sisters              |
+| **Mes** frére**s**                      |               | My brothers             |
+
+
+We use **le**, **la** or **les** when talking about general likes and dislikes:
+| Example                               |
+| ------------------------------------- |
+| La femme est contente                 |
+| **Les** femme**s** sont contente**s** |
+
+
+| Example                          |
+| -------------------------------- |
+| Il aime **le** chocolat          |
+| Tu aimes **les** restaurant**s** |
+
+
+
+
+## Unit 9
+### Phrases
+| Verbs and Words                       | Pronunciation | English                     |
+| ------------------------------------- | ------------- | --------------------------- |
+| Une **biére**                         |               | A beer                      |
+| Je **voudrais**                       |               | I would like                |
+| Un **verre** de **vin**               |               | A **glass** of **wine**     |
+| Une **bouteille d'eau**               |               | A **bottle** of **water**   |
+| Un **fromage d'Italie**               |               | A **cheese** from Italy     |
+| L'addition                            |               | The check                   |
+| Une table **pour** deux **personnes** |               | A table **for** two persons |
+| **Quatre** verre**s** d'eau           |               | Four glasses of water       |
+| La **table**                          |               | The table                   |
+| Le **café**                           |               | The coffee                  |
+| Le **thé**                            |               | The tea                     |
+| Le **jus**                            |               | The juice                   |
+| Le **serveur**                        |               | The **waiter**              |
+| La serveu**se**                       |               | The **waitress**            |
+| **L'eau**                             |               | The **water**               |
+| Une **tasse**                         |               | A **cup**                   |
+| Une café **ou** une bière?            |               | A coffee **or** a beer?     |
