@@ -562,11 +562,14 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 
 ## Unit 11
 ### Phrases
-| Verbs and Words | Pronunciation | English       |
-| --------------- | ------------- | ------------- |
-| Le **Vacance**  |               | Vacation      |
-| Un **pays**     |               | A country     |
-| Je **visite**   |               | I am visiting |
+| Verbs and Words                 | Pronunciation | English                          |
+| ------------------------------- | ------------- | -------------------------------- |
+| Le **Vacance**                  |               | **Vacation**                     |
+| Un **pays**                     |               | A **country**                    |
+| Je **visite**                   |               | I am **visiting**                |
+| Les **États-Unis**              |               | the **United States**            |
+| Pedro **aime beaucoup** voyager |               | Pedro **really likes** traveling |
+| **Musée**                       |               | **Museum**                       |
 
 
 ### Grammer
