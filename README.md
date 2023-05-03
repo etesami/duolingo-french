@@ -11,6 +11,7 @@
   - [Unit 8: Describe your family](#unit-8)
   - [Unit 9: Order food and drink](#unit-9)
   - [Unit 10: Use gender and number agreement](#unit-10)
+  - [Unit 11: Discuss destinations, describe your home](#unit-11)
 
 ## Unit 1
 
@@ -556,21 +557,25 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | Une café **ou** une bière?            |               | A coffee **or** a beer?     |
 
 
+## Unit 10
+[TO BE COMPLETED]
+
 ## Unit 11
 ### Phrases
-| Verbs and Words  | Pronunciation | English  |
-| ---------------- | ------------- | -------- |
-| Les **Vacances** |               | Vacation |
-
+| Verbs and Words | Pronunciation | English       |
+| --------------- | ------------- | ------------- |
+| Le **Vacance**  |               | Vacation      |
+| Un **pays**     |               | A country     |
+| Je **visite**   |               | I am visiting |
 
 
 ### Grammer
 
 | Subject   | Verb **(Aller)** </br> (to go) | Verb **(Visiter)** </br> (to visit) |
-| --------- | ------------------------------ | ------------------------------ |
-| Je        | **vais**                       | **visite**                       |
-| Tu        | va**s**                        | visite**s**                        |
-| Il/elle   | va                             | visite                             |
-| Nous      | **allons**                     | visit**ons**                     |
-| Vous      | all**ez**                      | visite**z**                      |
-| Ils/elles | **vont**                       | visite**nt**                       |
+| --------- | ------------------------------ | ----------------------------------- |
+| Je        | **vais**                       | **visite**                          |
+| Tu        | va**s**                        | visite**s**                         |
+| Il/elle   | va                             | visite                              |
+| Nous      | **allons**                     | visit**ons**                        |
+| Vous      | all**ez**                      | visite**z**                         |
+| Ils/elles | **vont**                       | visite**nt**                        |
