@@ -554,3 +554,23 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | **L'eau**                             |               | The **water**               |
 | Une **tasse**                         |               | A **cup**                   |
 | Une café **ou** une bière?            |               | A coffee **or** a beer?     |
+
+
+## Unit 11
+### Phrases
+| Verbs and Words  | Pronunciation | English  |
+| ---------------- | ------------- | -------- |
+| Les **Vacances** |               | Vacation |
+
+
+
+### Grammer
+
+| Subject   | Verb **(Aller)** </br> (to go) | Verb **(Visiter)** </br> (to visit) |
+| --------- | ------------------------------ | ------------------------------ |
+| Je        | **vais**                       | **visite**                       |
+| Tu        | va**s**                        | visite**s**                        |
+| Il/elle   | va                             | visite                             |
+| Nous      | **allons**                     | visit**ons**                     |
+| Vous      | all**ez**                      | visite**z**                      |
+| Ils/elles | **vont**                       | visite**nt**                       |
