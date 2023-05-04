@@ -570,6 +570,8 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | Les **États-Unis**              |               | the **United States**            |
 | Pedro **aime beaucoup** voyager |               | Pedro **really likes** traveling |
 | **Musée**                       |               | **Museum**                       |
+| La **plage**                    |               | The **beach**                    |
+
 
 
 ### Grammer
