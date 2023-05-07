@@ -12,6 +12,7 @@
   - [Unit 9: Order food and drink](#unit-9)
   - [Unit 10: Use gender and number agreement](#unit-10)
   - [Unit 11: Discuss destinations, describe your home](#unit-11)
+  - [Unit 12: Describe where you work](#unit-12)
 
 ## Unit 1
 
@@ -163,13 +164,13 @@ Sometimes, the extra little **e** changes the sound a little.
 | **Tu**  | You                     |                                                                                                        |
 | **Toi** | You (with **emphasis**) | Je parle à **toi**: I am talking to **you**! </br> **Toi**, tu es intelligent: **You**, you are smart! |
 
-| French                                     | Pronunciation                         | Meaning                             |
-| ------------------------------------------ | ------------------------------------- | ----------------------------------- |
-| Où est le restaurant, **s`il vous plaît**? | Où: you without y </br>/sil voo pleh/ | Where is the restaurant, please?    |
-| Je **vais** à la **gare**                  | /veh/</br>/gahr/                      | I am going to the train station     |
-| Tu as une **valise**?                      |                                       | Do you have a suitcase?             |
-| Je vais à Paris en **voiture**             | /vwah-tewr/                           | I am going to Paris by car          |
-| Je **prends** le train et l`**avion**      | /prahn/                               | I am taking the train and the plane |
+| French                                         | Pronunciation                         | Meaning                              |
+| ---------------------------------------------- | ------------------------------------- | ------------------------------------ |
+| **Où** est le restaurant, **s`il vous plaît**? | Où: you without y </br>/sil voo pleh/ | **Where** is the restaurant, please? |
+| Je **vais** à la **gare**                      | /veh/</br>/gahr/                      | I am going to the train station      |
+| Tu as une **valise**?                          |                                       | Do you have a suitcase?              |
+| Je vais à Paris en **voiture**                 | /vwah-tewr/                           | I am going to Paris by car           |
+| Je **prends** le train et l`**avion**          | /prahn/                               | I am taking the train and the plane  |
 
 ### Grammar
 
@@ -487,7 +488,7 @@ In French, plural names take an extra **s** at the end, however, the plural **s*
 | **Ils**   | They (group of men or mixed) |
 | **Elles** | They (group of women)        |
 
-**À** followed by le becomes **au** and **À** followed by les becomes **aux**.
+**À** followed by le becomes ***au*** and **À** followed by les becomes ***aux***.
 
 | Rule        | Shortened | Example                 |
 | ----------- | --------- | ----------------------- |
@@ -508,15 +509,16 @@ In French, plural names take an extra **s** at the end, however, the plural **s*
 ## Unit 8
 
 ### Phrases
-| Verbs and Words                         | Pronunciation | English                 |
-| --------------------------------------- | ------------- | ----------------------- |
-| Il est **amusant**                      |               | He is **funny**         |
-| Elle est amusant**e**                   |               | She is funny            |
-| Elle est **contente**                   |               | She is happy            |
-| Est-ce que tu aimes **le** français?    |               | Do you like French?     |
-| **Mes** parent**s** sont américain**s** |               | My parents are American |
-| **Mes** sœur**s**                       |               | My sisters              |
-| **Mes** frére**s**                      |               | My brothers             |
+| Verbs and Words                         | Pronunciation | English                    |
+| --------------------------------------- | ------------- | -------------------------- |
+| Il est **amusant**                      |               | He is **funny**            |
+| Elle est amusant**e**                   |               | She is funny               |
+| Elle est **contente**                   |               | She is happy               |
+| Est-ce que tu aimes **le** français?    |               | Do you like French?        |
+| **Mes** parent**s** sont américain**s** |               | My parents are American    |
+| **Mes** sœur**s**                       |               | My sisters                 |
+| **Mes** frére**s**                      |               | My brothers                |
+| **Ce sont** mes filles                  |               | **These are** my doughters |
 
 
 We use **le**, **la** or **les** when talking about general likes and dislikes:
@@ -555,22 +557,58 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | **L'eau**                             |               | The **water**               |
 | Une **tasse**                         |               | A **cup**                   |
 | Une café **ou** une bière?            |               | A coffee **or** a beer?     |
+| Le thé **vert**                       |               | The **green** tea           |
+| **Voulez vous** un thé?               |               | **Do you want** a tea?      |
+
+
+
 
 
 ## Unit 10
-[TO BE COMPLETED]
+Take a llok at [possessive adjectives](#possessive-adjectives-1) one more time.
+| Verbs and Words               | Pronunciation | English                             |
+| ----------------------------- | ------------- | ----------------------------------- |
+| La femme et **ses** bébé**s** |               | The wom**a** and **her** bab**ies** |
+
+### Grammar
+French adjectives usually come after the noun they're describing. 
+
+| French                                 | English                              |
+| -------------------------------------- | ------------------------------------ |
+| un vélo vert                           | a green bike                         |
+| le thé vert                            | the green tea                        |
+| Tu aimes les restaurants **français**  | Do you like **French** restaurants?  |
+| Tu aimes les restaurants **Mexicains** | Do you like **Mexican** restaurants? |
+
+=> In French, adjectives must agree in gender and number with the nouns they describe. The **"français"** is used as an adjective to describe the noun *"restaurants"*, which is plural. So "français" agrees with the plural noun "restaurants", but *it remains in the singular form* because it is ***a singular masculine adjective***. In the other sentence, "mexicain" comes as its plural form for restaurants.
+
 
 ## Unit 11
 ### Phrases
-| Verbs and Words                 | Pronunciation | English                          |
-| ------------------------------- | ------------- | -------------------------------- |
-| Le **Vacance**                  |               | **Vacation**                     |
-| Un **pays**                     |               | A **country**                    |
-| Je **visite**                   |               | I am **visiting**                |
-| Les **États-Unis**              |               | the **United States**            |
-| Pedro **aime beaucoup** voyager |               | Pedro **really likes** traveling |
-| **Musée**                       |               | **Museum**                       |
-| La **plage**                    |               | The **beach**                    |
+| Verbs and Words                          | Pronunciation | English                                 |
+| ---------------------------------------- | ------------- | --------------------------------------- |
+| Le **Vacance**                           |               | **Vacation**                            |
+| Un **pays**                              |               | A **country**                           |
+| Je **visite**                            |               | I am **visiting**                       |
+| Les **États-Unis**                       |               | the **United States**                   |
+| Pedro **aime beaucoup** voyager          |               | Pedro **really likes** traveling        |
+| **Musée**                                |               | **Museum**                              |
+| La **plage**                             |               | The **beach**                           |
+| L'**église**                             |               | The **church**                          |
+| Le **château**                           |               | The **castle**                          |
+| Il **aime beaucoup voyager**             |               | He **really like travelling**           |
+| Une pizza **pour** moi **aussi**         |               | A piiza **for** me **too**              |
+| **également**                            |               | **too** (aussi)                         |
+| **Toilette**                             |               | **Restroom**                            |
+| **Aujourd'hui** et demain                |               | **Today** and tomorrow                  |
+| **Fermé**                                |               | **Close** (not open)                    |
+| **Ouvert**                               |               | **Open** (not close)                    |
+| Le parc est **petit**                    |               | The park is **small**                   |
+| **Quatre piéces**                        |               | **Four rooms**                          |
+| **Il y a** des **fleurs** dans le jardin |               | **There are** **flowers** in the garden |
+| Tes **voisins** sont **gentils**         |               | Your **neighbors** are **kind**         |
+| Un **arbre**                             |               | A **tree**                              |
+| Une **lettre**                           |               | A **letter**                            |
 
 
 
@@ -584,3 +622,20 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | Nous      | **allons**                     | visit**ons**                        |
 | Vous      | all**ez**                      | visite**z**                         |
 | Ils/elles | **vont**                       | visite**nt**                        |
+
+
+**Un** and **une** become ***des*** when you are talking about more than one thing:
+
+| Singular   | Plural      | English |
+| ---------- | ----------- | ------- |
+| Un arbre   | Des arbres  | Tress   |
+| Une lettre | Des lettres | Letters |
+
+
+
+
+
+
+# Unit 12
+| Verbs and Words | Pronunciation | English |
+| --------------- | ------------- | ------- |
