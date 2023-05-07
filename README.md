@@ -27,7 +27,7 @@
 | Tu es Marc?                                |               | Are you Marc?                   |
 | **Non**, Je suis Paul                      |               | No, I am Paul                   |
 
-=> C`est: Ce est
+> C`est: Ce est
 
 | Phrase                       | Pronunciation  | Meaning                          |
 | ---------------------------- | -------------- | -------------------------------- |
@@ -319,7 +319,7 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Ta** maison         | You house </br> (singular, feminine)  |
 | **Tes** vêtements     | Your cloths </br> (plural)            |
 
-=> Note: ***"pas"*** is used with ***"ne"*** to form negative sentences in French. It is placed after the verb and before other words or phrases in the sentence to create a negative statement. 
+> Note: ***"pas"*** is used with ***"ne"*** to form negative sentences in French. It is placed after the verb and before other words or phrases in the sentence to create a negative statement. 
 
 ### Grammar
 
@@ -332,7 +332,7 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 | **Vous**      | **You (plural)** | aime**z**  | You like     |
 | **Ils/elles** | **They**         | aime**nt** | They like    |
 
-=> Note: ***"aimer"*** is a regular ***"-er"*** verb in French, 
+> Note: ***"aimer"*** is a regular ***"-er"*** verb in French, 
 so it follows the regular conjugation pattern for verbs ending in ***"-er"***.
 
 | Subject   | Verb **(Parler)** </br> (to speak) | Verb **(Habiter)** </br> (to live) | Verb **(Manger)** </br> (to eat) |
@@ -344,11 +344,11 @@ so it follows the regular conjugation pattern for verbs ending in ***"-er"***.
 | Vous      | parle**z**                         | Habite**z**                        | mange**z**                       |
 | Ils/elles | parle**nt**                        | Habite**nt**                       | mange**nt**                      |
 
-=> Note: ***"parler"*** is a regular **"*-er*"** verb in French.
+> Note: ***"parler"*** is a regular **"*-er*"** verb in French.
 
-=> Note: ***"habiter"*** is a regular **"*-er*"** verb in French.
+> Note: ***"habiter"*** is a regular **"*-er*"** verb in French.
 
-=> Note: ***"manger"*** is an irregular verb in French, and its conjugation ***does not*** 
+> Note: ***"manger"*** is an irregular verb in French, and its conjugation ***does not*** 
 follow the regular ***"-er"*** verb pattern.
 
 | Subject   | Verb **(Avoir)** </br> (to have) | Verb **(Être)** </br> (to be) | Verb **(Vouloir)** </br> (to want) |
@@ -390,10 +390,14 @@ follow the regular ***"-er"*** verb pattern.
 | **Êtes-vous** médecin? | Are you a doctor? |
 
 
-=> Note: The correct word order for a question in French is typically formed by 
+> Note: The correct word order for a question in French is typically formed by 
 inverting the subject pronoun and the verb, with a hyphen (-) connecting them. 
 ***Habitez-vous*** is the correct inversion of ***vous habitez***, which 
 means ***you live*** in English.
+
+
+
+
 
 ## Unit 6
 
@@ -580,7 +584,7 @@ French adjectives usually come after the noun they're describing.
 | Tu aimes les restaurants **français**  | Do you like **French** restaurants?  |
 | Tu aimes les restaurants **Mexicains** | Do you like **Mexican** restaurants? |
 
-=> In French, adjectives must agree in gender and number with the nouns they describe. The **"français"** is used as an adjective to describe the noun *"restaurants"*, which is plural. So "français" agrees with the plural noun "restaurants", but *it remains in the singular form* because it is ***a singular masculine adjective***. In the other sentence, "mexicain" comes as its plural form for restaurants.
+> In French, adjectives must agree in gender and number with the nouns they describe. The **"français"** is used as an adjective to describe the noun *"restaurants"*, which is plural. So "français" agrees with the plural noun "restaurants", but *it remains in the singular form* because it is ***a singular masculine adjective***. In the other sentence, "mexicain" comes as its plural form for restaurants.
 
 
 ## Unit 11
@@ -626,10 +630,10 @@ French adjectives usually come after the noun they're describing.
 
 **Un** and **une** become ***des*** when you are talking about more than one thing:
 
-| Singular   | Plural      | English |
-| ---------- | ----------- | ------- |
-| Un arbre   | Des arbres  | Tress   |
-| Une lettre | Des lettres | Letters |
+| Singular   | Plural          | English |
+| ---------- | --------------- | ------- |
+| Un arbre   | **Des** arbres  | Tress   |
+| Une lettre | **Des** lettres | Letters |
 
 
 
