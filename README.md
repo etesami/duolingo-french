@@ -18,30 +18,30 @@
 
 ### Phrase
 
-| Phrase                                     | Pronunciation | Meaning                         |
-| ------------------------------------------ | ------------- | ------------------------------- |
-| **Je suis** Marie                          | /ézhuh swee/  | I am Marie                      |
-| **C’est** un **chat**  </br> C`est: Ce est | /say/         | It’s a cat                      |
-| Un chat **manage**                         |               | A cat is eating                 |
-| Paul manage un **croissant**               |               | Paul is easting a **croissant** |
-| Tu es Marc?                                |               | Are you Marc?                   |
-| **Non**, Je suis Paul                      |               | No, I am Paul                   |
+| Phrase                                     | Pronunciation              | Meaning                         |
+| ------------------------------------------ | -------------------------- | ------------------------------- |
+| **Je suis** Marie                          | /ézhuh swee/               | I am Marie                      |
+| **C’est** un **chat**  </br> C`est: Ce est | /say/                      | It’s a cat                      |
+| Un chat **mange**                          | /mãʒ/ </br> /mahzh/        | A cat is eating                 |
+| Paul manage un **croissant**               | /kʁwasɑ̃/ </br> /kwah-sahn/ | Paul is easting a **croissant** |
+| Tu es Marc?                                |                            | Are you Marc?                   |
+| **Non**, Je suis Paul                      |                            | No, I am Paul                   |
 
 > C`est: Ce est
 
-| Phrase                       | Pronunciation  | Meaning                          |
-| ---------------------------- | -------------- | -------------------------------- |
-| Bonjour, **comment çe va**?  |                | Good morning, how are you doing? |
-| **Ça va très bien**, et toi? |                | I am doing very well, and you?   |
-| Ça va                        |                | I am fine                        |
-| **Au revoir**, Marie         | /oh ruh vwahr/ | Good bye, Marie                  |
-| **Bonne journée**            |                | Have a good day                  |
-| **Bonne soirée**             |                | Have a good evening              |
-| **Bienvenue**                |                | Welcome                          |
-| Merci **beaucoup**           |                | Thank you very much              |
-| **Â demain**                 |                | See you tomorrow                 |
-| **Â bientôt**                |                | See you soon                     |
-| **Enchanté**                 |                | Nice to meet you                 |
+| Phrase                       | Pronunciation      | Meaning                          |
+| ---------------------------- | ------------------ | -------------------------------- |
+| Bonjour, **comment çe va**?  |                    | Good morning, how are you doing? |
+| **Ça va très bien**, et toi? | /tʁɛ/ </br> /treh/ | I am doing very well, and you?   |
+| Ça va                        |                    | I am fine                        |
+| **Au revoir**, Marie         | /oh ruh vwahr/     | Good bye, Marie                  |
+| **Bonne journée**            |                    | Have a good day                  |
+| **Bonne soirée**             | /swah-ray/         | Have a good evening              |
+| **Bienvenue**                |                    | Welcome                          |
+| Merci **beaucoup**           |                    | Thank you very much              |
+| **Â demain**                 | /duh-mahn/         | See you tomorrow                 |
+| **Â bientôt**                | /byehn-toh/        | See you soon                     |
+| **Enchanté**                 |                    | Nice to meet you                 |
 
 ### Grammar
 
@@ -95,14 +95,14 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 
 ### Phrase
 
-| Phrase                                  | English                                    |
-| --------------------------------------- | ------------------------------------------ |
-| **Excuse-moi**, tu **parles** français? | Excuse me, do you speak English?           |
-| **Oui**, je suis français               | Yes, I am French                           |
-| Comment **tu** **t**`appelles?          | What is your name?                         |
-| Je **m**`appelle Julia                  | My name is Julia                           |
-| Je **parle** espagnol                   | I speack Spanish                           |
-| Je suis américain**e**                  | I am American (speaker is a woman or girl) |
+| Phrase                                  | Pronunciation                   | English                                    |
+| --------------------------------------- | ------------------------------- | ------------------------------------------ |
+| **Excuse-moi**, tu **parles** français? | /fʁɑ̃sɛ/ </br> /frahn-seh/       | Excuse me, do you speak English?           |
+| **Oui**, je suis français               | /wi/ </br> /wee/                | Yes, I am French                           |
+| Comment **tu** **t**`appelles?          |                                 | What is your name?                         |
+| Je **m**`appelle Julia                  |                                 | My name is Julia                           |
+| Je **parle** espagnol                   | /ɛspaɲɔl/ </br> /ess-pahn-yohl/ | I speack Spanish                           |
+| Je suis américain**e**                  |                                 | I am American (speaker is a woman or girl) |
 
 ### Grammar
 
@@ -143,21 +143,21 @@ Sometimes, the extra little **e** changes the sound a little.
 ### Phrases
 
 
-| Phrase                           | Pronunciation | English                            |
-| -------------------------------- | ------------- | ---------------------------------- |
-| Marie **habite** en Italie       | /ah-beet/     | Marie lives in Italy               |
-| Marie est **journaliste**        |               | Marie is a **journalist**          |
-| J`**étudie** à New York, et toi? | /ay-ty-dee/   | I am studying in New York and you? |
-| Je **travaille** à Paris         | /trah-vay/    | I work in Paris                    |
-| Je suis **en** Europe            |               | I am in Europe                     |
-| J`**habite** avec Marie          | /ah-beet/     | I live with Marie                  |
-| **Ton** appartement              |               | Your apartment                     |
-| Le **Billet**                    |               | The **Ticket**                     |
-| Il **va bien**                   |               | He is doing well                   |
-| J'**aime** la **couleur**        |               | I like the color                   |
-| Je **veux** **cette** veste      |               | I **want this** jacket             |
-| **À cent euros**                 |               | At one hundred euros               |
-| Ma **meilleure amie**            |               | My **best friend**                 |
+| Phrase                           | Pronunciation                                      | English                            |
+| -------------------------------- | -------------------------------------------------- | ---------------------------------- |
+| Marie **habite** en Italie       | /ah-beet/                                          | Marie lives in Italy               |
+| Marie est **journaliste**        | /ʒuʁnalist/ </br> /zhur-nah-leest/                 | Marie is a **journalist**          |
+| J`**étudie** à New York, et toi? | /ay-ty-dee/                                        | I am studying in New York and you? |
+| Je **travaille** à Paris         | /trah-vay/                                         | I work in Paris                    |
+| Je suis **en** Europe            |                                                    | I am in Europe                     |
+| J`**habite** avec Marie          | /ah-beet/                                          | I live with Marie                  |
+| **Ton** appartement              |                                                    | Your apartment                     |
+| Le **Billet**                    |                                                    | The **Ticket**                     |
+| Il **va bien**                   |                                                    | He is doing well                   |
+| J'**aime** la **couleur**        | /kulœʁ/ </br> /koo-luhr/                           | I like the color                   |
+| Je **veux** **cette** veste      | /vø/:/vuh/ </br> /sɛt/:/seht/ </br>  /vɛst/:/vest/ | I **want this** jacket             |
+| **À cent euros**                 |                                                    | At one hundred euros               |
+| Ma **meilleure amie**            | /mɛjœʁ/ </br> /meyeuhr/                            | My **best friend**                 |
 
 | French  | English                 | Example                                                                                                |
 | ------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -218,51 +218,51 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 ### Phrases
 
 
-| Phrase                                      | Pronunciation | English                             |
-| ------------------------------------------- | ------------- | ----------------------------------- |
-| Ton **père** habite ici?                    |               | Does your **father** live here?     |
-| **Mon père**                                |               | **My father**                       |
-| **Mon mari**                                |               | **My husband**                      |
-| **Ma femme**                                |               | **My wife**                         |
-| **Grand-mère**                              |               | **Grandmother**                     |
-| **Ma famille** habite en France             |               | My family lives in France           |
-| **Le mari de Julia** est mexicain           |               | Julia's **husband** is Mexican      |
-| J'ai **un animal de compagnie**             |               | I have **a pet**                    |
-| **Est-cs que** (est ce)                     |               | **Do you** or **Are you**           |
-| *Est-ce que* **vous** ***travaillez*** ici? |               | Do **you** work here?               |
-| Mon ***travail***                           |               | My **job/work**                     |
-| Une **chouette**                            |               | An owl                              |
-| **Dans**                                    |               | In                                  |
-| **Ètudiant**                                |               | Student                             |
-| Le fils de Louis et Marc s'appelle Paul     |               | Louis and Marc's son's name is Paul |
-| La **maison**                               |               | The **house**                       |
-| Le **jardin**                               |               | The **garden**                      |
-| L'**appatement**                            |               | The apartment                       |
-| Alice **veut** une chouette                 |               | Alice **wants** an owl              |
-| **Ma lune de miel**                         |               | My honeymoon                        |
-| **Votre** </br> (formal of *ton*)           |               | Your                                |
-| Je suis **désolé**                          |               | I am sorry                          |
-| Elle es **désolée**                         |               | She is sorry                        |
-| Je **l'aime**                               |               | I love **her**                      |
-| Je **t**'aime **aussi**                     |               | I love **you** **too**              |
-| **Le médecin**                              |               | The **doctor**                      |
-| Une femme **élégante**                      |               | An elegant women                    |
-| Une **supermarché**                         |               | A supermarket                       |
-| Une **grande** massion                      |               | A big home                          |
-| Un **grand** garçon                         |               | A tall boy                          |
-| Un **pantalon**                             |               | A pants                             |
-| **Coûte** très **cher**                     |               | It is very expensive                |
-| **Mais**                                    |               | But                                 |
-| Un homme **a besoin** d'un mèdecin          |               | A man needs a doctor                |
-| Il est très **malade**                      |               | He is very sick                     |
-| Il parle a une **autre** femme              |               | He speaks to an another women       |
-| J'ai **besoin d'aide**                      |               | I need help                         |
-| Je ne **trouve** pass mon passeport         |               | I cannot find my passport           |
-| Mon **sac**                                 |               | My bag                              |
-| Ma **veste**                                |               | My jacket                           |
-| Ce n'est pass possible                      |               | It's not possible                   |
-| ta **main**                                 |               | Your hand                           |
-| **Bon voyage**                              |               | Wish someone a good trip            |
+| Phrase                                      | Pronunciation                      | English                             |
+| ------------------------------------------- | ---------------------------------- | ----------------------------------- |
+| Ton **père** habite ici?                    | /pɛʁ/ </br> /pehr/                 | Does your **father** live here?     |
+| **Mon père**                                |                                    | **My father**                       |
+| **Mon mari**                                | /maʁi/ </br> /mah-ree/             | **My husband**                      |
+| **Ma femme**                                |                                    | **My wife**                         |
+| **Grand-mère**                              | /ɡʁɑ̃ mɛʁ/ </br> /grahn mehr/       | **Grandmother**                     |
+| **Ma famille** habite en France             |                                    | My family lives in France           |
+| **Le mari de Julia** est mexicain           |                                    | Julia's **husband** is Mexican      |
+| J'ai **un animal de compagnie**             | /kɔ̃paɲi/ </br> /kohm-pah-nyee/     | I have **a pet**                    |
+| **Est-cs que** (est ce)                     | /ɛskə/ </br> /ess-kuh/             | **Do you** or **Are you**           |
+| *Est-ce que* **vous** ***travaillez*** ici? | /tʁavaje/ </br> /trah-vah-yeh/     | Do **you** work here?               |
+| Mon ***travail***                           | /tʁavaj/ </br> /trah-vahy/         | My **job/work**                     |
+| Une **chouette**                            | /ʃwɛt/ </br> /shwet/               | An owl                              |
+| **Dans**                                    |                                    | In                                  |
+| **Ètudiant**                                |                                    | Student                             |
+| Le fils de Louis et Marc s'appelle Paul     |                                    | Louis and Marc's son's name is Paul |
+| La **maison**                               | /mɛzɔ̃/ </br> /meh-zohn/            | The **house**                       |
+| Le **jardin**                               | /ʒaʁdɛ̃/ </br> /zhahr-danh/         | The **garden**                      |
+| L'**appatement**                            |                                    | The apartment                       |
+| Alice **veut** une chouette                 | /vœ/ </br> /vuh/                   | Alice **wants** an owl              |
+| **Ma lune de miel**                         | /lyn/:/leen/ </br>  /mjɛl/:/myell/ | My honeymoon                        |
+| **Votre** </br> (formal of *ton*)           | /vɔtʁ/ </br> /vohtr/               | Your                                |
+| Je suis **désolé**                          | /dezɔle/ </br> /day-zohl-ay/       | I am sorry                          |
+| Elle es **désolée**                         |                                    | She is sorry                        |
+| Je **l'aime**                               | /lɛm/ </br> /leh-m/                | I love **her**                      |
+| Je **t**'aime **aussi**                     |                                    | I love **you** **too**              |
+| **Le médecin**                              |                                    | The **doctor**                      |
+| Une femme **élégante**                      | /eleɡɑ̃t/ </br> /eh-leh-gahnt/      | An elegant women                    |
+| Une **supermarché**                         | /soo-pehr-mahr-shay/               | A supermarket                       |
+| Une **grande** massion                      |                                    | A big home                          |
+| Un **grand** garçon                         | /ɡʁɑ̃d/ </br> /grahnd/              | A tall boy                          |
+| Un **pantalon**                             | /pɑ̃talɔ̃/ </br> /pahn-tah-loh/      | A pants                             |
+| **Coûte** très **cher**                     | /kut/ </br> /koot/                 | It is very expensive                |
+| **Mais**                                    | /mɛ/ </br> /meh/                   | But                                 |
+| Un homme **a besoin** d'un mèdecin          | /bəzwɛ̃/ </br> /buh-zwahn/          | A man needs a doctor                |
+| Il est très **malade**                      | /malad/ </br> /mah-lahd/           | He is very sick                     |
+| Il parle a une **autre** femme              | /otʁ/ </br> /ohtr/                 | He speaks to an another women       |
+| J'ai **besoin d'aide**                      |                                    | I need help                         |
+| Je ne **trouve** pass mon passeport         | /tʁuv/ </br> /troov/               | I cannot find my passport           |
+| Mon **sac**                                 |                                    | My bag                              |
+| Ma **veste**                                |                                    | My jacket                           |
+| Ce n'est pass possible                      |                                    | It's not possible                   |
+| ta **main**                                 | /mɛ̃/ </br> /meh~(nasal)/           | Your hand                           |
+| **Bon voyage**                              |                                    | Wish someone a good trip            |
 
 ### Grammar
 The words like **my** and **your** change based on the gender of the word after them.
@@ -434,8 +434,9 @@ means ***you live*** in English.
 > "**Du**" is a partitive article that is used to indicate an unspecified or undefined quantity
 >  of a mass or uncountable noun.
 >
-> "**De**" comes before femenine nouns
+> "**De**" comes before femenine nouns </br>
 > "**Du**" comes before masculine nouns
+> 
 > **Example:** **Du** lait et **du** sucre et **de** la glace
 
 ### Grammar 
@@ -643,19 +644,19 @@ In general, when forming a yes-no question in French, the verb and subject prono
 However, when using a question word such as "**quoi**" (what) or "**qui**" (who), the word order 
 remains the same as in a statement, and the question word is simply added at the end to indicate that it is a question.
 
-> Statement: Je suis fatigué. (I am tired.)
+> Statement: Je suis fatigué. (I am tired.) </br>
 > Question: Suis-je fatigué? (Am I tired?)
 
-> Statement: Il parle français. (He speaks French.)
+> Statement: Il parle français. (He speaks French.)</br>
 > Question: Parle-t-il français? (Does he speak French?)
 
-> Statement: Nous avons un chat. (We have a cat.)
+> Statement: Nous avons un chat. (We have a cat.)</br>
 > Question: Avons-nous un chat? (Do we have a cat?)
 
-> Statement: Tu aimes le chocolat. (You like chocolate.)
+> Statement: Tu aimes le chocolat. (You like chocolate.)</br>
 > Question: Aimes-tu le chocolat? (Do you like chocolate?)
 
-> Statement: Elle habite à Paris. (She lives in Paris.)
+> Statement: Elle habite à Paris. (She lives in Paris.)</br>
 > Question: Habite-elle à Paris? (Does she live in Paris?)
 
 ## Unit 10
