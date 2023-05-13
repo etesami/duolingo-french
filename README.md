@@ -563,9 +563,29 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | Une café **ou** une bière?            |               | A coffee **or** a beer?     |
 | Le thé **vert**                       |               | The **green** tea           |
 | **Voulez vous** un thé?               |               | **Do you want** a tea?      |
+| Je suis très contente **d'aller** en Espagne! |       | I  am very happy **to go** to Spain! </br> *(d'aller: de aller)*  |
+| C'est **joli** |      |It's beautiful  |
+| Ton voyage est **quand**? |      | **When** is your trip?  |
+| Dans deux **semaines** |      | In two **weeks**  |
+| Tu es **prête**? |      | Are you **ready**?  |
+| **Tous** les **jours** |      | Every day, **all** the **days**  |
+| **Génial**! |      | **Great**!  |
+| **Sur** les **musées** |      | **About** the **museum**  |
+| **Quelque chose**      | /kelk shoz/   | **Something** | 
+| De **l'argent**    |    | Some **money** | 
+| La **petite amie**   |    | The **girlfriend** | 
+| **Parfaite**   |    | **Perfect** | 
+| **Pas de problème**   |    | **No problem** | 
 
 
-
+| Subject   | Verb **(voir)** </br> (to see)    | 
+| --------- | --------------------------------- |
+| Je        | **Vois**                          |
+| Tu        | Vois                              |
+| Il/elle   | Voi**t**                          |
+| Nous      | Vo**yons**                        |
+| Vous      | Vo**yez**                         |
+| Ils/elles | Vo**ient**                        |
 
 
 ## Unit 10
