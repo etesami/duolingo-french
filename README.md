@@ -32,7 +32,7 @@
 | Phrase                       | Pronunciation      | Meaning                          |
 | ---------------------------- | ------------------ | -------------------------------- |
 | Bonjour, **comment çe va**?  |                    | Good morning, how are you doing? |
-| **Ça va très bien**, et toi? | /tʁɛ/ </br> /treh/ | I am doing very well, and you?   |
+| **Ça va très bien**, et toi? | /tʁɛ/:/treh/ | I am doing very well, and you?   |
 | Ça va                        |                    | I am fine                        |
 | **Au revoir**, Marie         | /oh ruh vwahr/     | Good bye, Marie                  |
 | **Bonne journée**            |                    | Have a good day                  |
@@ -98,7 +98,7 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 | Phrase                                  | Pronunciation                   | English                                    |
 | --------------------------------------- | ------------------------------- | ------------------------------------------ |
 | **Excuse-moi**, tu **parles** français? | /fʁɑ̃sɛ/ </br> /frahn-seh/       | Excuse me, do you speak English?           |
-| **Oui**, je suis français               | /wi/ </br> /wee/                | Yes, I am French                           |
+| **Oui**, je suis français               | /wi/:/wee/                | Yes, I am French                           |
 | Comment **tu** **t**`appelles?          |                                 | What is your name?                         |
 | Je **m**`appelle Julia                  |                                 | My name is Julia                           |
 | Je **parle** espagnol                   | /ɛspaɲɔl/ </br> /ess-pahn-yohl/ | I speack Spanish                           |
@@ -167,7 +167,7 @@ Sometimes, the extra little **e** changes the sound a little.
 | French                                         | Pronunciation                         | Meaning                              |
 | ---------------------------------------------- | ------------------------------------- | ------------------------------------ |
 | **Où** est le restaurant, **s`il vous plaît**? | Où: you without y </br>/sil voo pleh/ | **Where** is the restaurant, please? |
-| Je **vais** à la **gare**                      | /veh/</br>/gahr/                      | I am going to the train station      |
+| Je **vais** à la **gare**                      | /veh/:/gahr/                      | I am going to the train station      |
 | Tu as une **valise**?                          |                                       | Do you have a suitcase?              |
 | Je vais à Paris en **voiture**                 | /vwah-tewr/                           | I am going to Paris by car           |
 | Je **prends** le train et l`**avion**          | /prahn/                               | I am taking the train and the plane  |
@@ -220,9 +220,9 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 
 | Phrase                                      | Pronunciation                      | English                             |
 | ------------------------------------------- | ---------------------------------- | ----------------------------------- |
-| Ton **père** habite ici?                    | /pɛʁ/ </br> /pehr/                 | Does your **father** live here?     |
+| Ton **père** habite ici?                    | /pɛʁ/:/pehr/                 | Does your **father** live here?     |
 | **Mon père**                                |                                    | **My father**                       |
-| **Mon mari**                                | /maʁi/ </br> /mah-ree/             | **My husband**                      |
+| **Mon mari**                                | /maʁi/:/mah-ree/             | **My husband**                      |
 | **Ma femme**                                |                                    | **My wife**                         |
 | **Grand-mère**                              | /ɡʁɑ̃ mɛʁ/ </br> /grahn mehr/       | **Grandmother**                     |
 | **Ma famille** habite en France             |                                    | My family lives in France           |
@@ -231,33 +231,33 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 | **Est-cs que** (est ce)                     | /ɛskə/ </br> /ess-kuh/             | **Do you** or **Are you**           |
 | *Est-ce que* **vous** ***travaillez*** ici? | /tʁavaje/ </br> /trah-vah-yeh/     | Do **you** work here?               |
 | Mon ***travail***                           | /tʁavaj/ </br> /trah-vahy/         | My **job/work**                     |
-| Une **chouette**                            | /ʃwɛt/ </br> /shwet/               | An owl                              |
+| Une **chouette**                            | /ʃwɛt/:/shwet/               | An owl                              |
 | **Dans**                                    |                                    | In                                  |
 | **Ètudiant**                                |                                    | Student                             |
 | Le fils de Louis et Marc s'appelle Paul     |                                    | Louis and Marc's son's name is Paul |
 | La **maison**                               | /mɛzɔ̃/ </br> /meh-zohn/            | The **house**                       |
 | Le **jardin**                               | /ʒaʁdɛ̃/ </br> /zhahr-danh/         | The **garden**                      |
 | L'**appatement**                            |                                    | The apartment                       |
-| Alice **veut** une chouette                 | /vœ/ </br> /vuh/                   | Alice **wants** an owl              |
+| Alice **veut** une chouette                 | /vœ/:/vuh/                   | Alice **wants** an owl              |
 | **Ma lune de miel**                         | /lyn/:/leen/ </br>  /mjɛl/:/myell/ | My honeymoon                        |
 | **Votre** </br> (formal of *ton*)           | /vɔtʁ/ </br> /vohtr/               | Your                                |
 | Je suis **désolé**                          | /dezɔle/ </br> /day-zohl-ay/       | I am sorry                          |
 | Elle es **désolée**                         |                                    | She is sorry                        |
-| Je **l'aime**                               | /lɛm/ </br> /leh-m/                | I love **her**                      |
+| Je **l'aime**                               | /lɛm/:/leh-m/                | I love **her**                      |
 | Je **t**'aime **aussi**                     |                                    | I love **you** **too**              |
 | **Le médecin**                              |                                    | The **doctor**                      |
 | Une femme **élégante**                      | /eleɡɑ̃t/ </br> /eh-leh-gahnt/      | An elegant women                    |
 | Une **supermarché**                         | /soo-pehr-mahr-shay/               | A supermarket                       |
 | Une **grande** massion                      |                                    | A big home                          |
-| Un **grand** garçon                         | /ɡʁɑ̃d/ </br> /grahnd/              | A tall boy                          |
+| Un **grand** garçon                         | /ɡʁɑ̃d/:/grahnd/              | A tall boy                          |
 | Un **pantalon**                             | /pɑ̃talɔ̃/ </br> /pahn-tah-loh/      | A pants                             |
-| **Coûte** très **cher**                     | /kut/ </br> /koot/                 | It is very expensive                |
-| **Mais**                                    | /mɛ/ </br> /meh/                   | But                                 |
+| **Coûte** très **cher**                     | /kut/:/koot/                 | It is very expensive                |
+| **Mais**                                    | /mɛ/:/meh/                   | But                                 |
 | Un homme **a besoin** d'un mèdecin          | /bəzwɛ̃/ </br> /buh-zwahn/          | A man needs a doctor                |
 | Il est très **malade**                      | /malad/ </br> /mah-lahd/           | He is very sick                     |
-| Il parle a une **autre** femme              | /otʁ/ </br> /ohtr/                 | He speaks to an another women       |
+| Il parle a une **autre** femme              | /otʁ/:/ohtr/                 | He speaks to an another women       |
 | J'ai **besoin d'aide**                      |                                    | I need help                         |
-| Je ne **trouve** pass mon passeport         | /tʁuv/ </br> /troov/               | I cannot find my passport           |
+| Je ne **trouve** pass mon passeport         | /tʁuv/:/troov/               | I cannot find my passport           |
 | Mon **sac**                                 |                                    | My bag                              |
 | Ma **veste**                                |                                    | My jacket                           |
 | Ce n'est pass possible                      |                                    | It's not possible                   |
