@@ -542,51 +542,85 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 
 ## Unit 9
 ### Phrases
-| Verbs and Words                       | Pronunciation | English                     |
-| ------------------------------------- | ------------- | --------------------------- |
-| Une **biére**                         |               | A beer                      |
-| Je **voudrais**                       |               | I would like                |
-| Un **verre** de **vin**               |               | A **glass** of **wine**     |
-| Une **bouteille d'eau**               |               | A **bottle** of **water**   |
-| Un **fromage d'Italie**               |               | A **cheese** from Italy     |
-| L'addition                            |               | The check                   |
-| Une table **pour** deux **personnes** |               | A table **for** two persons |
-| **Quatre** verre**s** d'eau           |               | Four glasses of water       |
-| La **table**                          |               | The table                   |
-| Le **café**                           |               | The coffee                  |
-| Le **thé**                            |               | The tea                     |
-| Le **jus**                            |               | The juice                   |
-| Le **serveur**                        |               | The **waiter**              |
-| La serveu**se**                       |               | The **waitress**            |
-| **L'eau**                             |               | The **water**               |
-| Une **tasse**                         |               | A **cup**                   |
-| Une café **ou** une bière?            |               | A coffee **or** a beer?     |
-| Le thé **vert**                       |               | The **green** tea           |
-| **Voulez vous** un thé?               |               | **Do you want** a tea?      |
-| Je suis très contente **d'aller** en Espagne! |       | I  am very happy **to go** to Spain! </br> *(d'aller: de aller)*  |
-| C'est **joli** |      |It's beautiful  |
-| Ton voyage est **quand**? |      | **When** is your trip?  |
-| Dans deux **semaines** |      | In two **weeks**  |
-| Tu es **prête**? |      | Are you **ready**?  |
-| **Tous** les **jours** |      | Every day, **all** the **days**  |
-| **Génial**! |      | **Great**!  |
-| **Sur** les **musées** |      | **About** the **museum**  |
-| **Quelque chose**      | /kelk shoz/   | **Something** | 
-| De **l'argent**    |    | Some **money** | 
-| La **petite amie**   |    | The **girlfriend** | 
-| **Parfaite**   |    | **Perfect** | 
-| **Pas de problème**   |    | **No problem** | 
+| Verbs and Words                               | Pronunciation | English                                                          |
+| --------------------------------------------- | ------------- | ---------------------------------------------------------------- |
+| Une **biére**                                 |               | A beer                                                           |
+| Je **voudrais**                               |               | I would like                                                     |
+| Un **verre** de **vin**                       |               | A **glass** of **wine**                                          |
+| Une **bouteille d'eau**                       |               | A **bottle** of **water**                                        |
+| Un **fromage d'Italie**                       |               | A **cheese** from Italy                                          |
+| L'addition                                    |               | The check                                                        |
+| Une table **pour** deux **personnes**         |               | A table **for** two persons                                      |
+| **Quatre** verre**s** d'eau                   |               | Four glasses of water                                            |
+| La **table**                                  |               | The table                                                        |
+| Le **café**                                   |               | The coffee                                                       |
+| Le **thé**                                    |               | The tea                                                          |
+| Le **jus**                                    |               | The juice                                                        |
+| Le **serveur**                                |               | The **waiter**                                                   |
+| La serveu**se**                               |               | The **waitress**                                                 |
+| **L'eau**                                     |               | The **water**                                                    |
+| Une **tasse**                                 |               | A **cup**                                                        |
+| Une café **ou** une bière?                    |               | A coffee **or** a beer?                                          |
+| Le thé **vert**                               |               | The **green** tea                                                |
+| **Voulez vous** un thé?                       |               | **Do you want** a tea?                                           |
+| Je suis très contente **d'aller** en Espagne! |               | I  am very happy **to go** to Spain! </br> *(d'aller: de aller)* |
+| C'est **joli**                                |               | It's beautiful                                                   |
+| Ton voyage est **quand**?                     |               | **When** is your trip?                                           |
+| Dans deux **semaines**                        |               | In two **weeks**                                                 |
+| Tu es **prête**?                              |               | Are you **ready**?                                               |
+| **Tous** les **jours**                        |               | Every day, **all** the **days**                                  |
+| **Génial**!                                   |               | **Great**!                                                       |
+| **Sur** les **musées**                        |               | **About** the **museum**                                         |
+| **Quelque chose**                             | /kelk shoz/   | **Something**                                                    |
+| Je **cherche** un **chose**                   |               | I am looking for a **thing**                                     |
+| De **l'argent**                               |               | Some **money**                                                   |
+| La **petite amie**                            |               | The **girlfriend**                                               |
+| **Parfaite**                                  |               | **Perfect**                                                      |
+| **Pas de problème**                           |               | **No problem**                                                   |
+| Je ne veux pas cuisiner                       |               | I don want to cook                                               |
+| Je suis **fatiguée**                          |               | I am **tired**                                                   |
+| Nous **avons** besoin de **quoi**?            |               | **What** do we **have** a need for?                              |
+| Fruit                                         |               | **Fruit**                                                        |
 
 
-| Subject   | Verb **(voir)** </br> (to see)    | 
-| --------- | --------------------------------- |
-| Je        | **Vois**                          |
-| Tu        | Vois                              |
-| Il/elle   | Voi**t**                          |
-| Nous      | Vo**yons**                        |
-| Vous      | Vo**yez**                         |
-| Ils/elles | Vo**ient**                        |
+### Grammar
 
+| Subject   | Verb **(voir)** </br> (to see) | Verb **(Cuisiner)** </br> (to cook) | Verb **(Chercher)** </br> (to look for) |
+| --------- | ------------------------------ | ----------------------------------- | --------------------------------------- |
+| Je        | **Vois**                       | **Cuisine**                         | **Cherche**                             |
+| Tu        | Vois                           | Cuisine**s**                        | Cherche**s**                            |
+| Il/elle   | Voi**t**                       | Cuisine                             | Cherche                                 |
+| Nous      | Vo**yons**                     | Cuisin**ons**                       | Cherch**ons**                           |
+| Vous      | Vo**yez**                      | Cuisine**z**                        | Cherch**ez**                            |
+| Ils/elles | Vo**ient**                     | Cuisin**ent**                       | Cherch**ent**                           |
+
+**Yes/No Questions**
+
+> Nous avons besoin de quoi?
+> What do we have a need for? (What do we need?)
+
+It is common to use the word "**quoi**" (what) at the end of a sentence to turn a statement into a question. 
+This type of question is called a "yes-no question" or a "closed question" because it usually 
+requires a simple "yes" or "no" answer.
+
+In general, when forming a yes-no question in French, the verb and subject pronoun are inverted. 
+However, when using a question word such as "**quoi**" (what) or "**qui**" (who), the word order 
+remains the same as in a statement, and the question word is simply added at the end to indicate that it is a question.
+
+> Statement: Je suis fatigué. (I am tired.)
+> Question: Suis-je fatigué? (Am I tired?)
+
+> Statement: Il parle français. (He speaks French.)
+> Question: Parle-t-il français? (Does he speak French?)
+
+> Statement: Nous avons un chat. (We have a cat.)
+> Question: Avons-nous un chat? (Do we have a cat?)
+
+> Statement: Tu aimes le chocolat. (You like chocolate.)
+> Question: Aimes-tu le chocolat? (Do you like chocolate?)
+
+> Statement: Elle habite à Paris. (She lives in Paris.)
+> Question: Habite-elle à Paris? (Does she live in Paris?)
 
 ## Unit 10
 Take a llok at [possessive adjectives](#possessive-adjectives-1) one more time.

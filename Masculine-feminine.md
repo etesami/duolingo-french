@@ -29,9 +29,10 @@
 | Une **bébe**         | A baby         |
 | Le **chocolat**      | The chocolate  |
 | Le **sandwich**      | The sandwich   |
-| Le **café**       | The cofee   |
-| Une **verre**       | A glass   |
-| Le **dessert**       | The dessert   |
+| Le **café**          | The cofee      |
+| Une **verre**        | A glass        |
+| Le **dessert**       | The dessert    |
+| Le **salade**        | The salad      |
 
 ### Feminine Words
 
@@ -60,8 +61,8 @@
 | la **banque**       | The **bank**    |
 | la **boulanerie**   | The **bakery**  |
 | la **bouteille**    | The **bottle**  |
-| La **salade**      | The **salad**   |
-| Une **tasse**      | A **cup**   |
-| Une **table**      | A **table**   |
+| La **salade**       | The **salad**   |
+| Une **tasse**       | A **cup**       |
+| Une **table**       | A **table**     |
 | La **bière**        | The **beer**    |
-| **L'eau**        | The **wather**    |
+| **L'eau**           | The **wather**  |
