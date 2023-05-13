@@ -421,6 +421,7 @@ means ***you live*** in English.
 | Une **salade** et du **poisson** |               | A **salad** and some **fishes**    |
 | Du **pain** et du **fromage**    |               | Some **bread** and some **cheese** |
 | Du **jambon**                    |               | Some **ham**                       |
+| De la **glace**                  |               | Some **ice**                       |
 | Tu as **huit ans **              |               | You are **eight years old**        |
 | Nous avons besoin **d'argent**   |               | We need **the money**              |
 | **Pourquoi?**                    |               | Why?                               |
@@ -429,6 +430,13 @@ means ***you live*** in English.
 | la **musique**                   |               | The **music**                      |
 | la **banque**                    |               | The **bank**                       |
 | la **boulanerie**                |               | The **bakery**                     |
+
+> "**Du**" is a partitive article that is used to indicate an unspecified or undefined quantity
+>  of a mass or uncountable noun.
+>
+> "**De**" comes before femenine nouns
+> "**Du**" comes before masculine nouns
+> **Example:** **Du** lait et **du** sucre et **de** la glace
 
 ### Grammar 
 
@@ -513,16 +521,28 @@ In French, plural names take an extra **s** at the end, however, the plural **s*
 ## Unit 8
 
 ### Phrases
-| Verbs and Words                         | Pronunciation | English                    |
-| --------------------------------------- | ------------- | -------------------------- |
-| Il est **amusant**                      |               | He is **funny**            |
-| Elle est amusant**e**                   |               | She is funny               |
-| Elle est **contente**                   |               | She is happy               |
-| Est-ce que tu aimes **le** français?    |               | Do you like French?        |
-| **Mes** parent**s** sont américain**s** |               | My parents are American    |
-| **Mes** sœur**s**                       |               | My sisters                 |
-| **Mes** frére**s**                      |               | My brothers                |
-| **Ce sont** mes filles                  |               | **These are** my doughters |
+| Verbs and Words                         | Pronunciation | English                                       |
+| --------------------------------------- | ------------- | --------------------------------------------- |
+| Il est **amusant**                      |               | He is **funny**                               |
+| Elle est amusant**e**                   |               | She is funny                                  |
+| Elle est **contente**                   |               | She is happy                                  |
+| Est-ce que tu aimes **le** français?    |               | Do you like French?                           |
+| **Qu'est-ce que** vous **voulez** ?     |               | What do you want? </br> *Qu'est-ce que: what* |
+| Vous voulez **quelque chose** ?         | /kelk shoz/   | You need **something**?                       |
+| **Mes** parent**s** sont américain**s** |               | My parents are American                       |
+| **Mes** sœur**s**                       |               | My sisters                                    |
+| **Mes** frére**s**                      |               | My brothers                                   |
+| **Ce sont** mes filles                  |               | **These are** my doughters                    |
+| Tu as beaucoup de **vêtements** violets |               | You have a lot of purple **Clothes**          |
+| **Regarder**                            |               | **To look/watch** (verb)                      |
+| **Veste**                               |               | **Jacket**                                    |
+| **Chapeaux**                            |               | **Hat**                                       |
+| Le **soleil**                           |               | The **sun**                                   |
+| Des **lunettle** de soleil **rouges**   |               | **Red Sunglasses**                            |
+| **Ville**                               |               | **Town**                                      |
+| Je n'aime pas                           |               | I don't like                                  |
+| **Où** sont les toilettes ?             |               | **Where** is the restrooms?                   |
+| du **sucre** et du **lait**             |               | **Some suger** and some **milk**              |
 
 
 We use **le**, **la** or **les** when talking about general likes and dislikes:
@@ -580,7 +600,7 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | Je ne veux pas cuisiner                       |               | I don want to cook                                               |
 | Je suis **fatiguée**                          |               | I am **tired**                                                   |
 | Nous **avons** besoin de **quoi**?            |               | **What** do we **have** a need for?                              |
-| Fruit                                         |               | **Fruit**                                                        |
+| **Fruit**                                     |               | **Fruit**                                                        |
 
 
 ### Grammar
