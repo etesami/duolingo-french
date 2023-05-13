@@ -32,12 +32,12 @@
 | Le **café**          | The cofee      |
 | Une **verre**        | A glass        |
 | Le **dessert**       | The dessert    |
-| Le **salade**        | The salad      |
 
 ### Feminine Words
 
 | French              | Meaning         |
 | ------------------- | --------------- |
+| La **salade**       | The salad       |
 | une **fille**       | a girl          |
 | une **femme**       | a woman         |
 | une **pizza**       | a pizza         |

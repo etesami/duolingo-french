@@ -469,13 +469,21 @@ means ***you live*** in English.
 
 ### Phrases
 
-| Verbs and Words     | Pronunciation | English         |
-| ------------------- | ------------- | --------------- |
-| Les **professeurs** |               | The professors  |
-| Les femme**s**      |               | The wom**e**n   |
-| Les homme**s**      |               | The m**e**n     |
-| Un, deux, trios     |               | One, two, three |
-| On est ici          |               | We are here     |
+| Verbs and Words                               | Pronunciation | English                                                      |
+| --------------------------------------------- | ------------- | ------------------------------------------------------------ |
+| Les **professeurs**                           |               | The professors                                               |
+| Les femme**s**                                |               | The wom**e**n                                                |
+| Les homme**s**                                |               | The m**e**n                                                  |
+| Un, deux, trios                               |               | One, two, three                                              |
+| On est ici                                    |               | We are here                                                  |
+| **Faciles**                                   |               | **Easy**                                                     |
+| Les chiens **ont besoin** de marcher beaucoup |               | Dogs **need to walk** a lot                                  |
+| La **nourriture** est **chére**               |               | **Food** is **expensive**                                    |
+| C'est joli ici                                |               | It's lovely here                                             |
+| Bon **anniversaire**                          |               | Happy **birthday**                                           |
+| **Votre prénom**                              |               | **Your name**                                                |
+| J'ai très **faim**                            |               | I am very **hungry** </br> *(it's said: I have very hunger)* |
+| Le **short** et des **bottes**                |               | The **short** and **boots**                                  |
 
 
 ### Grammar 
@@ -516,6 +524,14 @@ In French, plural names take an extra **s** at the end, however, the plural **s*
 | **Mes** | **Nos**   | **Tes** | **Vos**       | **Ses** | **Leurs** |
 
 
+| Subject   | Verb **(marcher)** </br> (to walk) | Verb **(jouer)** </br> (to play) |
+| --------- | ---------------------------------- | -------------------------------- |
+| Je        | **Marche**                         | **Joue**                         |
+| Tu        | Marche**s**                        | Joue**s**                        |
+| Il/elle   | Marche                             | Joue                             |
+| Nous      | March**ons**                       | Jou**ons**                       |
+| Vous      | March**ez**                        | Jou**ez**                        |
+| Ils/elles | March**ent**                       | Jou**ent**                       |
 
 
 ## Unit 8
@@ -571,7 +587,7 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | Un **fromage d'Italie**                       |               | A **cheese** from Italy                                          |
 | L'addition                                    |               | The check                                                        |
 | Une table **pour** deux **personnes**         |               | A table **for** two persons                                      |
-| **Quatre** verre**s** d'eau                   |               | Four glasses of water                                            |
+| **Quatre** verre**s** d'eau                   | /ver d'o/     | Four glasses of water                                            |
 | La **table**                                  |               | The table                                                        |
 | Le **café**                                   |               | The coffee                                                       |
 | Le **thé**                                    |               | The tea                                                          |
@@ -595,7 +611,7 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | Je **cherche** un **chose**                   |               | I am looking for a **thing**                                     |
 | De **l'argent**                               |               | Some **money**                                                   |
 | La **petite amie**                            |               | The **girlfriend**                                               |
-| **Parfaite**                                  |               | **Perfect**                                                      |
+| **Parfaite**                                  | /paʁ.fɛt/     | **Perfect**                                                      |
 | **Pas de problème**                           |               | **No problem**                                                   |
 | Je ne veux pas cuisiner                       |               | I don want to cook                                               |
 | Je suis **fatiguée**                          |               | I am **tired**                                                   |
