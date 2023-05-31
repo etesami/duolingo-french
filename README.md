@@ -13,6 +13,9 @@
   - [Unit 10: Use gender and number agreement](#unit-10)
   - [Unit 11: Discuss destinations, describe your home](#unit-11)
   - [Unit 12: Describe where you work](#unit-12)
+  - [Unit 13: Use gender and number agreement, talk about food](#unit-13)
+  - [Unit 14: Use the present tense, shop for clothes](#unit-14)
+  - [Unit 15: Exchange personal information](#unit-15)
 
 ## Unit 1
 
@@ -29,19 +32,19 @@
 
 > C`est: Ce est
 
-| Phrase                       | Pronunciation      | Meaning                          |
-| ---------------------------- | ------------------ | -------------------------------- |
-| Bonjour, **comment çe va**?  |                    | Good morning, how are you doing? |
-| **Ça va très bien**, et toi? | /tʁɛ/:/treh/ | I am doing very well, and you?   |
-| Ça va                        |                    | I am fine                        |
-| **Au revoir**, Marie         | /oh ruh vwahr/     | Good bye, Marie                  |
-| **Bonne journée**            |                    | Have a good day                  |
-| **Bonne soirée**             | /swah-ray/         | Have a good evening              |
-| **Bienvenue**                |                    | Welcome                          |
-| Merci **beaucoup**           |                    | Thank you very much              |
-| **Â demain**                 | /duh-mahn/         | See you tomorrow                 |
-| **Â bientôt**                | /byehn-toh/        | See you soon                     |
-| **Enchanté**                 |                    | Nice to meet you                 |
+| Phrase                       | Pronunciation  | Meaning                          |
+| ---------------------------- | -------------- | -------------------------------- |
+| Bonjour, **comment çe va**?  |                | Good morning, how are you doing? |
+| **Ça va très bien**, et toi? | /tʁɛ/:/treh/   | I am doing very well, and you?   |
+| Ça va                        |                | I am fine                        |
+| **Au revoir**, Marie         | /oh ruh vwahr/ | Good bye, Marie                  |
+| **Bonne journée**            |                | Have a good day                  |
+| **Bonne soirée**             | /swah-ray/     | Have a good evening              |
+| **Bienvenue**                |                | Welcome                          |
+| Merci **beaucoup**           |                | Thank you very much              |
+| **Â demain**                 | /duh-mahn/     | See you tomorrow                 |
+| **Â bientôt**                | /byehn-toh/    | See you soon                     |
+| **Enchanté**                 |                | Nice to meet you                 |
 
 ### Grammar
 
@@ -98,7 +101,7 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 | Phrase                                  | Pronunciation                   | English                                    |
 | --------------------------------------- | ------------------------------- | ------------------------------------------ |
 | **Excuse-moi**, tu **parles** français? | /fʁɑ̃sɛ/ </br> /frahn-seh/       | Excuse me, do you speak English?           |
-| **Oui**, je suis français               | /wi/:/wee/                | Yes, I am French                           |
+| **Oui**, je suis français               | /wi/:/wee/                      | Yes, I am French                           |
 | Comment **tu** **t**`appelles?          |                                 | What is your name?                         |
 | Je **m**`appelle Julia                  |                                 | My name is Julia                           |
 | Je **parle** espagnol                   | /ɛspaɲɔl/ </br> /ess-pahn-yohl/ | I speack Spanish                           |
@@ -167,7 +170,7 @@ Sometimes, the extra little **e** changes the sound a little.
 | French                                         | Pronunciation                         | Meaning                              |
 | ---------------------------------------------- | ------------------------------------- | ------------------------------------ |
 | **Où** est le restaurant, **s`il vous plaît**? | Où: you without y </br>/sil voo pleh/ | **Where** is the restaurant, please? |
-| Je **vais** à la **gare**                      | /veh/:/gahr/                      | I am going to the train station      |
+| Je **vais** à la **gare**                      | /veh/:/gahr/                          | I am going to the train station      |
 | Tu as une **valise**?                          |                                       | Do you have a suitcase?              |
 | Je vais à Paris en **voiture**                 | /vwah-tewr/                           | I am going to Paris by car           |
 | Je **prends** le train et l`**avion**          | /prahn/                               | I am taking the train and the plane  |
@@ -220,9 +223,9 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 
 | Phrase                                      | Pronunciation                      | English                             |
 | ------------------------------------------- | ---------------------------------- | ----------------------------------- |
-| Ton **père** habite ici?                    | /pɛʁ/:/pehr/                 | Does your **father** live here?     |
+| Ton **père** habite ici?                    | /pɛʁ/:/pehr/                       | Does your **father** live here?     |
 | **Mon père**                                |                                    | **My father**                       |
-| **Mon mari**                                | /maʁi/:/mah-ree/             | **My husband**                      |
+| **Mon mari**                                | /maʁi/:/mah-ree/                   | **My husband**                      |
 | **Ma femme**                                |                                    | **My wife**                         |
 | **Grand-mère**                              | /ɡʁɑ̃ mɛʁ/ </br> /grahn mehr/       | **Grandmother**                     |
 | **Ma famille** habite en France             |                                    | My family lives in France           |
@@ -231,33 +234,33 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 | **Est-cs que** (est ce)                     | /ɛskə/ </br> /ess-kuh/             | **Do you** or **Are you**           |
 | *Est-ce que* **vous** ***travaillez*** ici? | /tʁavaje/ </br> /trah-vah-yeh/     | Do **you** work here?               |
 | Mon ***travail***                           | /tʁavaj/ </br> /trah-vahy/         | My **job/work**                     |
-| Une **chouette**                            | /ʃwɛt/:/shwet/               | An owl                              |
+| Une **chouette**                            | /ʃwɛt/:/shwet/                     | An owl                              |
 | **Dans**                                    |                                    | In                                  |
 | **Ètudiant**                                |                                    | Student                             |
 | Le fils de Louis et Marc s'appelle Paul     |                                    | Louis and Marc's son's name is Paul |
 | La **maison**                               | /mɛzɔ̃/ </br> /meh-zohn/            | The **house**                       |
 | Le **jardin**                               | /ʒaʁdɛ̃/ </br> /zhahr-danh/         | The **garden**                      |
 | L'**appatement**                            |                                    | The apartment                       |
-| Alice **veut** une chouette                 | /vœ/:/vuh/                   | Alice **wants** an owl              |
+| Alice **veut** une chouette                 | /vœ/:/vuh/                         | Alice **wants** an owl              |
 | **Ma lune de miel**                         | /lyn/:/leen/ </br>  /mjɛl/:/myell/ | My honeymoon                        |
 | **Votre** </br> (formal of *ton*)           | /vɔtʁ/ </br> /vohtr/               | Your                                |
 | Je suis **désolé**                          | /dezɔle/ </br> /day-zohl-ay/       | I am sorry                          |
 | Elle es **désolée**                         |                                    | She is sorry                        |
-| Je **l'aime**                               | /lɛm/:/leh-m/                | I love **her**                      |
+| Je **l'aime**                               | /lɛm/:/leh-m/                      | I love **her**                      |
 | Je **t**'aime **aussi**                     |                                    | I love **you** **too**              |
 | **Le médecin**                              |                                    | The **doctor**                      |
 | Une femme **élégante**                      | /eleɡɑ̃t/ </br> /eh-leh-gahnt/      | An elegant women                    |
 | Une **supermarché**                         | /soo-pehr-mahr-shay/               | A supermarket                       |
 | Une **grande** massion                      |                                    | A big home                          |
-| Un **grand** garçon                         | /ɡʁɑ̃d/:/grahnd/              | A tall boy                          |
+| Un **grand** garçon                         | /ɡʁɑ̃d/:/grahnd/                    | A tall boy                          |
 | Un **pantalon**                             | /pɑ̃talɔ̃/ </br> /pahn-tah-loh/      | A pants                             |
-| **Coûte** très **cher**                     | /kut/:/koot/                 | It is very expensive                |
-| **Mais**                                    | /mɛ/:/meh/                   | But                                 |
+| **Coûte** très **cher**                     | /kut/:/koot/                       | It is very expensive                |
+| **Mais**                                    | /mɛ/:/meh/                         | But                                 |
 | Un homme **a besoin** d'un mèdecin          | /bəzwɛ̃/ </br> /buh-zwahn/          | A man needs a doctor                |
 | Il est très **malade**                      | /malad/ </br> /mah-lahd/           | He is very sick                     |
-| Il parle a une **autre** femme              | /otʁ/:/ohtr/                 | He speaks to an another women       |
+| Il parle a une **autre** femme              | /otʁ/:/ohtr/                       | He speaks to an another women       |
 | J'ai **besoin d'aide**                      |                                    | I need help                         |
-| Je ne **trouve** pass mon passeport         | /tʁuv/:/troov/               | I cannot find my passport           |
+| Je ne **trouve** pass mon passeport         | /tʁuv/:/troov/                     | I cannot find my passport           |
 | Mon **sac**                                 |                                    | My bag                              |
 | Ma **veste**                                |                                    | My jacket                           |
 | Ce n'est pass possible                      |                                    | It's not possible                   |
@@ -511,10 +514,10 @@ In French, plural names take an extra **s** at the end, however, the plural **s*
 
 **À** followed by le becomes ***au*** and **À** followed by les becomes ***aux***.
 
-| Rule        | Shortened | Example                 |
-| ----------- | --------- | ----------------------- |
-| **À + le**  | **au**    | Ja vais **au** zoo      |
-| **À + les** | **aux**   | Il va **aux** toilettes |
+| Rule        | Shortened | Example                                                |
+| ----------- | --------- | ------------------------------------------------------ |
+| **à + le**  | **au**    | Ja vais **au** zoo </br> I am going **to the** zoo     |
+| **à + les** | **aux**   | Il va **aux** toilettes </br> Je parle **aux** enfants |
 
 #### Possessive adjectives
 
@@ -608,6 +611,7 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | **Tous** les **jours**                        |               | Every day, **all** the **days**                                  |
 | **Génial**!                                   |               | **Great**!                                                       |
 | **Sur** les **musées**                        |               | **About** the **museum**                                         |
+| **Sur** le table                              |               | **On** the table                                                 |
 | **Quelque chose**                             | /kelk shoz/   | **Something**                                                    |
 | Je **cherche** un **chose**                   |               | I am looking for a **thing**                                     |
 | De **l'argent**                               |               | Some **money**                                                   |
@@ -660,7 +664,7 @@ remains the same as in a statement, and the question word is simply added at the
 > Question: Habite-elle à Paris? (Does she live in Paris?)
 
 ## Unit 10
-Take a llok at [possessive adjectives](#possessive-adjectives-1) one more time.
+Take a look at [possessive adjectives](#possessive-adjectives-1) one more time.
 | Verbs and Words               | Pronunciation | English                             |
 | ----------------------------- | ------------- | ----------------------------------- |
 | La femme et **ses** bébé**s** |               | The wom**a** and **her** bab**ies** |
@@ -679,6 +683,7 @@ French adjectives usually come after the noun they're describing.
 
 
 ## Unit 11
+
 ### Phrases
 | Verbs and Words                          | Pronunciation | English                                 |
 | ---------------------------------------- | ------------- | --------------------------------------- |
@@ -731,6 +736,103 @@ French adjectives usually come after the noun they're describing.
 
 
 
-# Unit 12
-| Verbs and Words | Pronunciation | English |
-| --------------- | ------------- | ------- |
+## Unit 12
+
+| Verbs and Words                | Pronunciation | English                            |
+| ------------------------------ | ------------- | ---------------------------------- |
+| L'**usine**                    |               | The **factory**                    |
+| Un **métier**                  |               | An **occupation**                  |
+| Ma **collègue**                |               | My **colleague**                   |
+| Le **bureau**                  | /byuh-roh/    | The **office**                     |
+| Un **chauffeur**               | /shoh-feur/   | A **driver**                       |
+| Tu es **au** travail?          |               | Are you **at (the)** work?         |
+| Elle habite **aux** États-unis |               | She lives **in the** United States |
+| Un **stylo**                   |               | A **pen**                          |
+| L`**ordinateur**               |               | The **computer**                   |
+| Le **portable**                |               | The **cell phone**                 |
+| Le **téléphone**               |               | The **telephone**                  |
+| Le **numéro** de portable      |               | The cell phone **number**          |
+| **Venir**                      |               | **To come**                        |
+| **Utilise**                    |               | **To use**                         |
+
+### Grammer
+
+| Subject   | Verb **(écris)** </br> (to write) |
+| --------- | --------------------------------- |
+| Je        | **écris**                         |
+| Tu        | écris                             |
+| Il/elle   | écri**t**                         |
+| Nous      | écri**vons**                      |
+| Vous      | écri**vez**                       |
+| Ils/elles | écri**vent**                      |
+
+
+## Unit 13
+
+| Verbs and Words | Pronunciation | English       |
+| --------------- | ------------- | ------------- |
+| **Lundi**       |               | **Monday**    |
+| **Mardi**       |               | **Tuesday**   |
+| **Mercredi**    |               | **Wednesday** |
+| **Jeudi**       |               | **Thursday**  |
+| **Vendredi**    |               | **Friday**    |
+| **Samedi**      |               | **Saturday**  |
+| **Dimanche**    |               | **Sunday**    |
+
+### Grammer
+| Demonstrative </br> adjective | Type               | Meaning     | Example                 |
+| ----------------------------- | ------------------ | ----------- | ----------------------- |
+| Ce                            | Masculine          | This/that   | Ce livre </br> Ce homme |
+| Cette                         | Femenine           | This/that   | Cette maison            |
+| Ces                           | Masculine/Femenine | These/those | Ces livres              |
+
+## Unit 14
+
+### Phrases
+
+| Verbs and Words               | Pronunciation | English                       |
+| ----------------------------- | ------------- | ----------------------------- |
+| Une **robe**                  |               | A **dress**                   |
+| Une **jope**                  |               | A **skirt**                   |
+| **Coûte**                     | /koot/        | To cost                       |
+| La maison **du** voisin       |               | The home **of the** neighbour |
+| **Le soir** et **la nuit**    |               | The evening and the night     |
+| **Ça coûte combien**?         |               | How much does it cost?        |
+| La robe coûte cinq euros      |               | The dess costs five euros     |
+| Tu **achétes** des vêtements? |               | Are you buying clothes?       |
+
+### Grammer
+
+| Subject   | Verb **(Lire)** </br> (to read) | Verb **(Écouter)** </br> (to listen) | Verb **(Achéte)** </br> (to buy) | Verb **(Coûte)** </br> (to cost) |
+| --------- | ------------------------------- | ------------------------------------ | -------------------------------- | -------------------------------- |
+| Je        | **lis**                         | **écoute**                           | **achéte**                       | **coûte**                        |
+| Tu        | lis                             | écoute**s**                          | achéte**s**                      | coûte**s**                       |
+| Il/elle   | li**t**                         | écoute                               | achéte                           | coûte                            |
+| Nous      | lis**ons**                      | écout**ons**                         | achét**ons**                     | coût**ons**                      |
+| Vous      | lis**ez**                       | écout**ez**                          | achét**ez**                      | coût**ez**                       |
+| Ils/elles | lis**ent**                      | écout**ent**                         | achét**ent**                     | coût**ent**                      |
+
+
+In French, make sure you include the **le**, **la** , or **l'** when talking about the time of day or meals!
+
+| French                 | English        |
+| ---------------------- | -------------- |
+| C'est **l'après‑midi** | It's afternoon |
+| Après **le dessert**   | After dessert  |
+| Après **le dîner**     | After dinner   |
+
+
+| French             | Example                 | Meaning                      |
+| ------------------ | ----------------------- | ---------------------------- |
+| à + le = **au**    |                         |                              |
+| de + le = **du**   | le prix **du** sac      | The price **of the** bag     |
+| de + les = **des** | le prix **des** oranges | The price **of the** oranges |
+
+> **à + l = à + l** (it does not follow the above rule):
+> **Example**: Il travaille **à l**'usine
+
+
+> **des** could be used to indicate **some** quantity of something: 
+> **Example:** Paul écrit **des** messages: Paul is writing **some** messages
+
+## Unit 15
