@@ -434,13 +434,14 @@ means ***you live*** in English.
 | la **banque**                    |               | The **bank**                       |
 | la **boulanerie**                |               | The **bakery**                     |
 
-> "**Du**" is a partitive article that is used to indicate an unspecified or undefined quantity
+> "**du**" is a partitive article that is used to indicate an unspecified or undefined quantity
 >  of a mass or uncountable noun.
 >
-> "**De**" comes before femenine nouns </br>
-> "**Du**" comes before masculine nouns
+> "**de**" comes before femenine nouns </br>
+> "**du**" comes before masculine nouns
+> "**des**" comes before plural nouns
 > 
-> **Example:** **Du** lait et **du** sucre et **de** la glace
+> **Example:** **du** lait et **du** sucre et **de** la glace. Paul écrit **des** messages.
 
 ### Grammar 
 
@@ -682,6 +683,20 @@ French adjectives usually come after the noun they're describing.
 > In French, adjectives must agree in gender and number with the nouns they describe. The **"français"** is used as an adjective to describe the noun *"restaurants"*, which is plural. So "français" agrees with the plural noun "restaurants", but *it remains in the singular form* because it is ***a singular masculine adjective***. In the other sentence, "mexicain" comes as its plural form for restaurants.
 
 
+> When talking about countries in French, the preposition "**à**" is used to indicate someone's residence or location. However, when a **masculine singular country name** is preceded by the preposition "à," it combines with the definite article "**le**" to form the contraction "**au**"
+>
+> When talking about a **feminine singular noun** like "maison" (house), the preposition "**à**" is followed by the feminine singular definite article "**la**".
+>
+> When referring to **a city** of a country, the preposition "à" is used without any contraction. 
+
+| French                               | English                               |
+| ------------------------------------ | ------------------------------------- |
+| Elle habit **au** Japon, **à** Tokyo | She lives **in** Japon, **in** Tokyo. |
+| Elle est **à la** maison | She is **in** at home  |
+| Elle travaille **au** bureau | She works **at** office  |
+| Elle habit **aux** États-Unis        | She lives **in** United States.       |
+
+
 ## Unit 11
 
 ### Phrases
@@ -757,27 +772,40 @@ French adjectives usually come after the noun they're describing.
 
 ### Grammer
 
-| Subject   | Verb **(écris)** </br> (to write) |
-| --------- | --------------------------------- |
-| Je        | **écris**                         |
-| Tu        | écris                             |
-| Il/elle   | écri**t**                         |
-| Nous      | écri**vons**                      |
-| Vous      | écri**vez**                       |
-| Ils/elles | écri**vent**                      |
+| Subject   | Verb **(écris)** </br> (to write) | Verb **(Travailler)** </br> (to work) |
+| --------- | --------------------------------- | ------------------------------------- |
+| Je        | **écris**                         | **travaille**                         |
+| Tu        | écris                             | travaille**s**                        |
+| Il/elle   | écri**t**                         | travaille                             |
+| Nous      | écri**vons**                      | travaill**ons**                       |
+| Vous      | écri**vez**                       | travaill**ez**                        |
+| Ils/elles | écri**vent**                      | travaill**ent**                       |
 
 
 ## Unit 13
 
-| Verbs and Words | Pronunciation | English       |
-| --------------- | ------------- | ------------- |
-| **Lundi**       |               | **Monday**    |
-| **Mardi**       |               | **Tuesday**   |
-| **Mercredi**    |               | **Wednesday** |
-| **Jeudi**       |               | **Thursday**  |
-| **Vendredi**    |               | **Friday**    |
-| **Samedi**      |               | **Saturday**  |
-| **Dimanche**    |               | **Sunday**    |
+| Verbs and Words               | Pronunciation          | English                         |
+| ----------------------------- | ---------------------- | ------------------------------- |
+| **Lundi**                     |                        | **Monday**                      |
+| **Mardi**                     |                        | **Tuesday**                     |
+| **Mercredi**                  |                        | **Wednesday**                   |
+| **Jeudi**                     |                        | **Thursday**                    |
+| **Vendredi**                  |                        | **Friday**                      |
+| **Samedi**                    |                        | **Saturday**                    |
+| **Dimanche**                  |                        | **Sunday**                      |
+| *Le croissant* est **bon**    |                        | The **croissant** is **good**   |
+| *Les croissants* est **bons** |                        | The croissant**s** are **good** |
+| *La banane* est **bonne**     |                        | The **banana** is **good**      |
+| *Les bananes* est **bonnes**  |                        | The banana**s** are **good**    |
+| Le **petit déjeuner**         | /puh-tee day-zhuh-nay/ | The **breakfast**               |
+| Le **déjeuner**               |                        | The **lunch**                   |
+| Le **dîner**                  |                        | The **dinner**                  |
+| L'**œuf**                     | /uhf/                  | The **egg**                     |
+| Ce **matin**                  |                        | This **morning**                |
+| Ce **gâteau**                 | /ga-toh/               | This **cake**                   |
+| Ce **repas**                  | /ruh-pah/              | This **meal**                   |
+| Le **fruit**                  |                        | The **fruit**                   |
+| Le **légume**                 | /leh-gyoom/            | The **vegetable**               |
 
 ### Grammer
 | Demonstrative </br> adjective | Type               | Meaning     | Example                 |
@@ -785,6 +813,16 @@ French adjectives usually come after the noun they're describing.
 | Ce                            | Masculine          | This/that   | Ce livre </br> Ce homme |
 | Cette                         | Femenine           | This/that   | Cette maison            |
 | Ces                           | Masculine/Femenine | These/those | Ces livres              |
+
+
+| Subject   | Verb **(Prendre)** </br> (to have/to take) |
+| --------- | ------------------------------------------ |
+| Je        | **prends**                                 |
+| Tu        | prends                                     |
+| Il/elle   | prend                                      |
+| Nous      | pren**ons**                                |
+| Vous      | pren**ez**                                 |
+| Ils/elles | pren**nent**                               |
 
 ## Unit 14
 
@@ -822,17 +860,18 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 | Après **le dîner**     | After dinner   |
 
 
-| French             | Example                 | Meaning                      |
-| ------------------ | ----------------------- | ---------------------------- |
-| à + le = **au**    |                         |                              |
-| de + le = **du**   | le prix **du** sac      | The price **of the** bag     |
-| de + les = **des** | le prix **des** oranges | The price **of the** oranges |
+| French              | Example                 | Meaning                      |
+| ------------------- | ----------------------- | ---------------------------- |
+| à + l' = **à + l'** |                         |                              |
+| à + le = **au**     |                         |                              |
+| de + le = **du**    | le prix **du** sac      | The price **of the** bag     |
+| de + les = **des**  | le prix **des** oranges | The price **of the** oranges |
 
 > **à + l = à + l** (it does not follow the above rule):
 > **Example**: Il travaille **à l**'usine
 
 
-> **des** could be used to indicate **some** quantity of something: 
+> **des** could be used to indicate **some** quantity of something (see also [unit 6](#unit-6)): 
 > **Example:** Paul écrit **des** messages: Paul is writing **some** messages
 
 ## Unit 15
