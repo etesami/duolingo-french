@@ -16,6 +16,7 @@
   - [Unit 13: Use gender and number agreement, talk about food](#unit-13)
   - [Unit 14: Use the present tense, shop for clothes](#unit-14)
   - [Unit 15: Exchange personal information](#unit-15)
+  - [Unit 16: Use the infinitive, ask people about themselves](#unit-16)
 
 ## Unit 1
 
@@ -387,11 +388,15 @@ follow the regular ***"-er"*** verb pattern.
 
 
 #### Examples
-| Phrase                 | Meaning           |
-| ---------------------- | ----------------- |
-| **Habitez-vous** ici?  | Do you live here? |
-| **Êtes-vous** médecin? | Are you a doctor? |
+| Phrase                            | Meaning           |
+| --------------------------------- | ----------------- |
+| **Habitez-vous** ici?             | Do you live here? |
+| **Êtes-vous** médecin?            | Are you a doctor? |
+| **Est-ce que vous êtez** médecin? | Are you a doctor? |
 
+> "**Est-ce que**": This phrase is used to introduce a question and can be translated as "Is it that" or "Do"
+> 
+> "**vous êtes**": This means "you are". "**Vous**" is the second-person plural pronoun for "you," and "**êtes**" is the conjugated form of the verb "être" (to be).
 
 > Note: The correct word order for a question in French is typically formed by 
 inverting the subject pronoun and the verb, with a hyphen (-) connecting them. 
@@ -555,7 +560,7 @@ In French, plural names take an extra **s** at the end, however, the plural **s*
 | **Mes** frére**s**                      |               | My brothers                                   |
 | **Ce sont** mes filles                  |               | **These are** my doughters                    |
 | Tu as beaucoup de **vêtements** violets |               | You have a lot of purple **Clothes**          |
-| **Regarder**                            |               | **To look/watch** (verb)                      |
+| **Regarder**, regarde                   |               | **To look/watch** (verb), watche              |
 | **Veste**                               |               | **Jacket**                                    |
 | **Chapeaux**                            |               | **Hat**                                       |
 | Le **soleil**                           |               | The **sun**                                   |
@@ -692,8 +697,8 @@ French adjectives usually come after the noun they're describing.
 | French                               | English                               |
 | ------------------------------------ | ------------------------------------- |
 | Elle habit **au** Japon, **à** Tokyo | She lives **in** Japon, **in** Tokyo. |
-| Elle est **à la** maison | She is **in** at home  |
-| Elle travaille **au** bureau | She works **at** office  |
+| Elle est **à la** maison             | She is **in** at home                 |
+| Elle travaille **au** bureau         | She works **at** office               |
 | Elle habit **aux** États-Unis        | She lives **in** United States.       |
 
 
@@ -806,6 +811,7 @@ French adjectives usually come after the noun they're describing.
 | Ce **repas**                  | /ruh-pah/              | This **meal**                   |
 | Le **fruit**                  |                        | The **fruit**                   |
 | Le **légume**                 | /leh-gyoom/            | The **vegetable**               |
+| La **vache**                  | /vahsh/                | The **cow**                     |
 
 ### Grammer
 | Demonstrative </br> adjective | Type               | Meaning     | Example                 |
@@ -828,27 +834,36 @@ French adjectives usually come after the noun they're describing.
 
 ### Phrases
 
-| Verbs and Words               | Pronunciation | English                       |
-| ----------------------------- | ------------- | ----------------------------- |
-| Une **robe**                  |               | A **dress**                   |
-| Une **jope**                  |               | A **skirt**                   |
-| **Coûte**                     | /koot/        | To cost                       |
-| La maison **du** voisin       |               | The home **of the** neighbour |
-| **Le soir** et **la nuit**    |               | The evening and the night     |
-| **Ça coûte combien**?         |               | How much does it cost?        |
-| La robe coûte cinq euros      |               | The dess costs five euros     |
-| Tu **achétes** des vêtements? |               | Are you buying clothes?       |
+| Verbs and Words               | Pronunciation | English                           |
+| ----------------------------- | ------------- | --------------------------------- |
+| Une **robe**                  |               | A **dress**                       |
+| Une **jope**                  |               | A **skirt**                       |
+| **Coûte**                     | /koot/        | To cost                           |
+| La maison **du** voisin       |               | The home **of the** neighbour     |
+| **Le soir** et **la nuit**    |               | The **evening** and the **night** |
+| **Ce soir**                   |               | **Tonight**                       |
+| **Ça coûte combien**?         |               | **How much does it cost**?        |
+| La robe coûte cinq euros      |               | The dess costs five euros         |
+| Tu **achétes** des vêtements? |               | Are you **buying** clothes?       |
+| La **télé**                   |               | The **TV**                        |
+| **Chaque matin**              |               | **Every morning**                 |
+| **Chaque jour**               |               | **Every day**                     |
+| L'**enfant**                  |               | The **child**                     |
+| Le **journal**                |               | The **newspaper**                 |
+| Trés **souvent**              |               | Very **often**                    |
+| Le **lit**                    |               | The **bed**                       |
+| **Parfois**                   |               | **Sometimes**                     |
 
 ### Grammer
 
-| Subject   | Verb **(Lire)** </br> (to read) | Verb **(Écouter)** </br> (to listen) | Verb **(Achéte)** </br> (to buy) | Verb **(Coûte)** </br> (to cost) |
-| --------- | ------------------------------- | ------------------------------------ | -------------------------------- | -------------------------------- |
-| Je        | **lis**                         | **écoute**                           | **achéte**                       | **coûte**                        |
-| Tu        | lis                             | écoute**s**                          | achéte**s**                      | coûte**s**                       |
-| Il/elle   | li**t**                         | écoute                               | achéte                           | coûte                            |
-| Nous      | lis**ons**                      | écout**ons**                         | achét**ons**                     | coût**ons**                      |
-| Vous      | lis**ez**                       | écout**ez**                          | achét**ez**                      | coût**ez**                       |
-| Ils/elles | lis**ent**                      | écout**ent**                         | achét**ent**                     | coût**ent**                      |
+| Subject   | Verb **(Lire)** </br> (to read) | Verb **(Écouter)** </br> (to listen) | Verb **(Achéte)** </br> (to buy) | Verb **(Coûte)** </br> (to cost) | Verb **(Dormir)** </br> (to sleep) |
+| --------- | ------------------------------- | ------------------------------------ | -------------------------------- | -------------------------------- | ---------------------------------- |
+| Je        | **lis**                         | **écoute**                           | **achéte**                       | **coûte**                        | **dors**                           |
+| Tu        | lis                             | écoute**s**                          | achéte**s**                      | coûte**s**                       | dors                               |
+| Il/elle   | li**t**                         | écoute                               | achéte                           | coûte                            | dor**t**                           |
+| Nous      | lis**ons**                      | écout**ons**                         | achét**ons**                     | coût**ons**                      | dor**mons**                        |
+| Vous      | lis**ez**                       | écout**ez**                          | achét**ez**                      | coût**ez**                       | dor**mez**                         |
+| Ils/elles | lis**ent**                      | écout**ent**                         | achét**ent**                     | coût**ent**                      | dor**ment**                        |
 
 
 In French, make sure you include the **le**, **la** , or **l'** when talking about the time of day or meals!
