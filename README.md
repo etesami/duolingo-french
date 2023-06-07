@@ -842,12 +842,15 @@ French adjectives usually come after the noun they're describing.
 | La maison **du** voisin       |               | The home **of the** neighbour     |
 | **Le soir** et **la nuit**    |               | The **evening** and the **night** |
 | **Ce soir**                   |               | **Tonight**                       |
+| **Vendredi soir**             |               | **Friday evening**                |
 | **Ça coûte combien**?         |               | **How much does it cost**?        |
+| **C'est combien**?            |               | **How much is it**?               |
 | La robe coûte cinq euros      |               | The dess costs five euros         |
 | Tu **achétes** des vêtements? |               | Are you **buying** clothes?       |
 | La **télé**                   |               | The **TV**                        |
 | **Chaque matin**              |               | **Every morning**                 |
 | **Chaque jour**               |               | **Every day**                     |
+| Un **après midi**             |               | An **afternoon**                  |
 | L'**enfant**                  |               | The **child**                     |
 | Le **journal**                |               | The **newspaper**                 |
 | Trés **souvent**              |               | Very **often**                    |
