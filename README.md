@@ -881,6 +881,7 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 | French              | Example                 | Meaning                      |
 | ------------------- | ----------------------- | ---------------------------- |
 | à + l' = **à + l'** |                         |                              |
+| à + la = **à + la** |                         |                              |
 | à + le = **au**     |                         |                              |
 | de + le = **du**    | le prix **du** sac      | The price **of the** bag     |
 | de + les = **des**  | le prix **des** oranges | The price **of the** oranges |
@@ -893,3 +894,40 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 > **Example:** Paul écrit **des** messages: Paul is writing **some** messages
 
 ## Unit 15
+
+
+| Verbs and Words                | Pronunciation | English                          |
+| ------------------------------ | ------------- | -------------------------------- |
+| Il sont **jeune**              |               | They are **young**               |
+| **Blond**                      |               | **Blond**                        |
+| Il **vient du Canada**         |               | He **comes from** the Canada     |
+| **autre** magasin              |               | **Another** store                |
+| C'est **près** de la maison    |               | It's **close** to the house      |
+| C'est **loin d'ici**           |               | It's **far from** here           |
+| Tu ne peux pas **tourner** ici |               | You cannot **turn** here.        |
+| La troisième **rue**           |               | The third **street**             |
+| Tu marches sur la **route**    |               | Do you walk on the **road**?     |
+| **Le pont** de Paris           |               | The **bridge** of Paris          |
+| **L'immeuble**                 |               | The **apartment building**       |
+| La première rue **à gauche**   |               | The first streen **on the left** |
+| **à droite**                   |               | **to the right**                 |
+
+### Grammar
+
+| Subject   | Verb **(venir)** </br> (to come) | Verb **(tourner)** </br> (to turn) | Verb **(trouver)** </br> (to find) |
+| --------- | -------------------------------- | ---------------------------------- | ---------------------------------- |
+| Je        | **viens**                        | **tourne**                         | **trouve**                         |
+| Tu        | viens                            | tourne**s**                        | trouve**s**                        |
+| Il/elle   | vien**t**                        | tourne                             | trouve                             |
+| Nous      | ve**nons**                       | tourn**ons**                       | trouv**ons**                       |
+| Vous      | ve**nez**                        | tourne**z**                        | trouv**ez**                        |
+| Ils/elles | vie**nnent**                     | tourne**nt**                       | trouv**ent**                       |
+
+
+## Unit 16
+
+
+| Verbs and Words        | Pronunciation | English                          |
+| ---------------------- | ------------- | -------------------------------- |
+| Tu **as** onze **ans** |               | You **are** eleven **years old** |
+| **Quel âge as-tu**?    |               | **How old are you?**             |

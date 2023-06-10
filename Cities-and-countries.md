@@ -3,20 +3,20 @@
 
 
 ### Countries
-| Masculine | Feminine        | Country        | English    |
-| --------- | --------------- | -------------- | ---------- |
-| Espagnol  | Espagnol**e**   | en Espagne     | in Spain   |
-| Anglais  | Anglais**e**   | en Angleterre     | in England   |
-| Français  | Français**e**   | en France     | in France   |
-| Américain | Américain**e**  | en Amérique    | in America |
-| Canadien  | Canadien**ne**  | **au** Canada* | in Canada  |
-| Chinois   | Chinois**e**    | en Chine       | in China   |
-| Allemand  | Allemand**e**   | Allemagne      | in Germany |
-| Italien   | Italien**ne**   | en Italie      | in Italy   |
-| Iranien   | Iranien**ne**   | en Iran        | in Iran    |
-| Brésilien | Brésilien**ne** | en Brésil      | in Brazil  |
-| Indien    | Indien**ne**    | en Inde        | in India   |
-| Japonais  | Japonais**e**   | **au** Japon*  | in Janpon  |
+| Masculine | Feminine        | Country        | Lanuage                |
+| --------- | --------------- | -------------- | ---------------------- |
+| Espagnol  | Espagnol**e**   | en Espagne     | Espagnol (Spanish)     |
+| Anglais   | Anglais**e**    | en Angleterre  | Anglais (English)      |
+| Français  | Français**e**   | en France      | Français (French)      |
+| Américain | Américain**e**  | en Amérique    | Anglais (English)      |
+| Canadien  | Canadien**ne**  | **au** Canada* |                        |
+| Chinois   | Chinois**e**    | en Chine       | Chinois (Chinese)      |
+| Allemand  | Allemand**e**   | Allemagne      | Allemand (German)      |
+| Italien   | Italien**ne**   | en Italie      | Italien (Italian)      |
+| Iranien   | Iranien**ne**   | en Iran        | Persan (Persian)       |
+| Brésilien | Brésilien**ne** | en Brésil      | Portugais (Portuguese) |
+| Indien    | Indien**ne**    | en Inde        | Hindi (Hindi)          |
+| Japonais  | Japonais**e**   | **au** Japon*  | Japonais (Japanese)    |
 
 Note: **"au"** is a contraction of **"à"** + **"le"** used before masculine singular countries, like Canada.
 
@@ -25,6 +25,6 @@ Note: **"au"** is a contraction of **"à"** + **"le"** used before masculine sin
 | ---------- | ----------------------------- |
 | à Paris    | in Paris (France's capital)   |
 | à Bordeaux | in Bordeaux (France)          |
-| à Londres | in Londres (France)          |
+| à Londres  | in Londres (France)           |
 | à Berlin   | in Berlin (Germany's capital) |
 | à Tijuana  | in Tijuana (Mexico)           |

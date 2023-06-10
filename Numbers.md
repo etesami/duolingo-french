@@ -26,13 +26,13 @@
 
 | French   | English  |
 | --------- | ------- |
-| premier   | First   |
-| deuxième  | Second  |
-| troisième | Third   |
-| quatrième | Fourth  |
-| cinquième | Fifth   |
-| sixième   | Sixth   |
-| septième  | Seventh |
-| huitième  | Eighth  |
-| neuvième  | Ninth   |
-| dixième   | Tenth   |
+| Premier   | First   |
+| Deuxième  | Second  |
+| Troisième | Third   |
+| Quatrième | Fourth  |
+| Cinquième | Fifth   |
+| Sixième   | Sixth   |
+| Septième  | Seventh |
+| Huitième  | Eighth  |
+| Neuvième  | Ninth   |
+| Dixième   | Tenth   |
