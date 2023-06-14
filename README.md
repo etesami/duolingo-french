@@ -937,28 +937,34 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 
 ## Unit 17
 
-- Anna et Martin, **vous cuisinez**?
-  - Anna and Martin, do you cook?
-- Alice et Paul, **vous dansez**?
 
-- Qui **tu es** cette semaine?
-  - Where are you this week?
+> - Anna et Martin, **vous cuisinez**?
+>   - Anna and Martin, do you cook?
+> - Alice et Paul, **vous dansez**?
 
-- **Est-ce que** tu as un chat?
-  - Do you have a cat?
-- Qu **est-ce que** tu habites?
-  - Where do you live?
-- Qu **est-tu**?
-  - Where are you?
 
-- Avec qui **parlent-ils**?
-  - Whom are they speaking with?
-- Pourquoi **est-il** dans notre lit?
-  - Why is he in our bed?
-- Comment **vas-tu**?
-  - How are you?
-- Quand **vas-tu** à New York?
-  - When do you go to the New York?
+> - Qui **tu es** cette semaine?
+>   - Where are you this week?
+
+
+> - **Est-ce que** tu as un chat?
+>   - Do you have a cat?
+> - Qu **est-ce que** tu habites?
+>   - Where do you live?
+> - Qu **est-tu**?
+>   - Where are you?
+
+
+> - Avec qui **parlent-ils**?
+>   - Whom are they speaking with?
+> - Pourquoi **est-il** dans notre lit?
+>   - Why is he in our bed?
+> - Comment **vas-tu**?
+>   - How are you?
+> - Quand **vas-tu** à New York?
+>   - When do you go to the New York?
+
+
 
 
 | Verbs and Words | Pronunciation | English   |
