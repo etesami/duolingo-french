@@ -17,6 +17,8 @@
   - [Unit 14: Use the present tense, shop for clothes](#unit-14)
   - [Unit 15: Exchange personal information](#unit-15)
   - [Unit 16: Use the infinitive, ask people about themselves](#unit-16)
+  - [Unit 17: Ask questions](#unit-17)
+  - [Unit 18: Form the present tense, tell time](#unit-18)
 
 ## Unit 1
 
@@ -613,6 +615,7 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | C'est **joli**                                |               | It's beautiful                                                   |
 | Ton voyage est **quand**?                     |               | **When** is your trip?                                           |
 | Dans deux **semaines**                        |               | In two **weeks**                                                 |
+| Cette **semaine**                             |               | This **week**                                                    |
 | Tu es **prête**?                              |               | Are you **ready**?                                               |
 | **Tous** les **jours**                        |               | Every day, **all** the **days**                                  |
 | **Génial**!                                   |               | **Great**!                                                       |
@@ -926,8 +929,45 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 
 ## Unit 16
 
-
 | Verbs and Words        | Pronunciation | English                          |
 | ---------------------- | ------------- | -------------------------------- |
 | Tu **as** onze **ans** |               | You **are** eleven **years old** |
 | **Quel âge as-tu**?    |               | **How old are you?**             |
+
+
+## Unit 17
+
+- Anna et Martin, **vous cuisinez**?
+  - Anna and Martin, do you cook?
+- Alice et Paul, **vous dansez**?
+
+- Qui **tu es** cette semaine?
+  - Where are you this week?
+
+- **Est-ce que** tu as un chat?
+  - Do you have a cat?
+- Qu **est-ce que** tu habites?
+  - Where do you live?
+- Qu **est-tu**?
+  - Where are you?
+
+- Avec qui **parlent-ils**?
+  - Whom are they speaking with?
+- Pourquoi **est-il** dans notre lit?
+  - Why is he in our bed?
+- Comment **vas-tu**?
+  - How are you?
+- Quand **vas-tu** à New York?
+  - When do you go to the New York?
+
+
+| Verbs and Words | Pronunciation | English   |
+| --------------- | ------------- | --------- |
+| Un **problème** |               | A problem |
+
+
+## Unit 18
+
+| Verbs and Words | Pronunciation | English |
+| --------------- | ------------- | ------- |
+|                 |               |         |
