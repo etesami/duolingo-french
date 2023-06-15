@@ -20,6 +20,12 @@
 
 Note: **"au"** is a contraction of **"à"** + **"le"** used before masculine singular countries, like Canada.
 
+Note: Words for nationalities change form, but words for a **language** never change:
+
+> Elle est **française**
+>
+> Elle parle **français**
+
 ### Cities
 | Phrase     | Meaning                       |
 | ---------- | ----------------------------- |
