@@ -26,6 +26,10 @@ Note: Words for nationalities change form, but words for a **language** never ch
 >
 > Elle parle **français**
 
+In the following example **"The French"** represents a group of people, when the gender is not important we may go with masculine plural format. It is possible to use the feminine form of **"les françaises"** to specifically refer to a group of French females.
+> **The French** go to the bakery every day: **Les français** vont à la boulangerie tous les jours
+
+
 ### Cities
 | Phrase     | Meaning                       |
 | ---------- | ----------------------------- |

@@ -929,11 +929,22 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 
 ## Unit 16
 
-| Verbs and Words        | Pronunciation | English                          |
-| ---------------------- | ------------- | -------------------------------- |
-| Tu **as** onze **ans** |               | You **are** eleven **years old** |
-| **Quel âge as-tu**?    |               | **How old are you?**             |
+| Verbs and Words            | Pronunciation | English                          |
+| -------------------------- | ------------- | -------------------------------- |
+| Tu **as** onze **ans**     |               | You **are** eleven **years old** |
+| **Quel âge as-tu**?        |               | **How old are you?**             |
+| Ce **lieu**                |               | This **place**                   |
+| Je suis **devant** l'hôtel |               | I am **in front of** the hotel   |
+| Une route **dangereuse**   |               | A **dangerous** route            |
+| Un lieu **dangereux**      |               | A **dangerous** place            |
 
+
+### Grammar
+Use infinit verbs:
+
+- J'aime **habiter** à Paris
+- Je veux **visiter** ce lieu
+- Je dois **tourner** à gauche
 
 ## Unit 17
 
