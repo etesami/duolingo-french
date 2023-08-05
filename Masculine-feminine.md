@@ -1,68 +1,39 @@
 
 # Masculine & Feminine Words
 
-### Masculine Words
-| French               | Meaning        |
-| -------------------- | -------------- |
-| un **garçon**        | a boy          |
-| un **homme**         | a man          |
-| un **chien**         | a dog          |
-| un **billet**        | a ticket       |
-| un **passeport**     | a passport     |
-| un **train**         | a train        |
-| un **avion**         | a plane        |
-| un **aéroport**      | an airport     |
-| un **appartement**   | an appartment  |
-| **Père**             | Father         |
-| **Frère**            | Brother        |
-| **Fils**             | Son            |
-| un **professeur**    | a professor    |
-| un **jardin**        | a Garden       |
-| un **park**          | a park         |
-| un **ami**           | a friend       |
-| Un **pantalon**      | A pants        |
-| Un **sac**           | A bag          |
-| Mon **anniversaire** | My birthday    |
-| Le **végétarien**    | The vegetarian |
-| Une **restaurant**   | A restaurant   |
-| Une **salade**       | A salad        |
-| Une **bébe**         | A baby         |
-| Le **chocolat**      | The chocolate  |
-| Le **sandwich**      | The sandwich   |
-| Le **café**          | The cofee      |
-| Une **verre**        | A glass        |
-| Le **dessert**       | The dessert    |
+### Masculine & Feminine Words
 
-### Feminine Words
+| French               | Meaning        |     | French              | Meaning         |
+| -------------------- | -------------- | --- | ------------------- | --------------- |
+| un **garçon**        | a boy          |     | La **salade**       | The salad       |
+| un **homme**         | a man          |     | une **fille**       | a girl          |
+| un **chien**         | a dog          |     | une **femme**       | a woman         |
+| un **billet**        | a ticket       |     | une **pizza**       | a pizza         |
+| un **passeport**     | a passport     |     | une **orange**      | an orange       |
+| un **train**         | a train        |     | une **valise**      | a suitcase      |
+| un **avion**         | a plane        |     | une **gare**        | a train station |
+| un **aéroport**      | an airport     |     | une **voiture**     | a car           |
+| un **appartement**   | an appartment  |     | une **Chouette**    | an Owl          |
+| **Père**             | Father         |     | **Mère**            | Mother          |
+| **Frère**            | Brother        |     | **Sœur**            | Sister          |
+| **Fils**             | Son            |     | **Fille**           | Daughter        |
+| un **professeur**    | a professor    |     | une **Maison**      | a house         |
+| un **jardin**        | a Garden       |     | une **École**       | a school        |
+| un **park**          | a park         |     | une **famille**     | a family        |
+| un **ami**           | a friend       |     | une **amie**        | a friend        |
+| Un **pantalon**      | A pants        |     | Une **supermarché** | a supermarket   |
+| Un **sac**           | A bag          |     | Une **veste**       | A jacket        |
+| Mon **anniversaire** | My birthday    |     | Ta **main**         | Your hand       |
+| Le **végétarien**    | The vegetarian |     | la **classe**       | The **class**   |
+| Une **restaurant**   | A restaurant   |     | la **musique**      | The **music**   |
+| Une **salade**       | A salad        |     | la **banque**       | The **bank**    |
+| Une **bébe**         | A baby         |     | la **boulanerie**   | The **bakery**  |
+| Le **chocolat**      | The chocolate  |     | la **bouteille**    | The **bottle**  |
+| Le **sandwich**      | The sandwich   |     | La **salade**       | The **salad**   |
+| Le **café**          | The cofee      |     | Une **tasse**       | A **cup**       |
+| Une **verre**        | A glass        |     | Une **table**       | A **table**     |
+| Le **dessert**       | The dessert    |     | La **bière**        | The **beer**    |
+|                      |                |     | **L'eau**           | The **wather**  |
 
-| French              | Meaning         |
-| ------------------- | --------------- |
-| La **salade**       | The salad       |
-| une **fille**       | a girl          |
-| une **femme**       | a woman         |
-| une **pizza**       | a pizza         |
-| une **orange**      | an orange       |
-| une **valise**      | a suitcase      |
-| une **gare**        | a train station |
-| une **voiture**     | a car           |
-| une **Chouette**    | an Owl          |
-| **Mère**            | Mother          |
-| **Sœur**            | Sister          |
-| **Fille**           | Daughter        |
-| une **Maison**      | a house         |
-| une **École**       | a school        |
-| une **famille**     | a family        |
-| une **amie**        | a friend        |
-| Une **supermarché** | a supermarket   |
-| Une **veste**       | A jacket        |
-| Ta **main**         | Your hand       |
-| la **classe**       | The **class**   |
-| la **musique**      | The **music**   |
-| la **banque**       | The **bank**    |
-| la **boulanerie**   | The **bakery**  |
-| la **bouteille**    | The **bottle**  |
-| La **salade**       | The **salad**   |
-| Une **tasse**       | A **cup**       |
-| Une **table**       | A **table**     |
-| La **bière**        | The **beer**    |
-| **L'eau**           | The **wather**  |
+
+

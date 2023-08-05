@@ -341,14 +341,14 @@ Instead of **Marie's cat**, we would switch the word oder and say **le chat de M
 > Note: ***"aimer"*** is a regular ***"-er"*** verb in French, 
 so it follows the regular conjugation pattern for verbs ending in ***"-er"***.
 
-| Subject   | Verb **(Parler)** </br> (to speak) | Verb **(Habiter)** </br> (to live) | Verb **(Manger)** </br> (to eat) |
-| --------- | ---------------------------------- | ---------------------------------- | -------------------------------- |
-| Je        | **Parle**                          | **Habite**                         | **mange**                        |
-| Tu        | Parle**s**                         | Habite**s**                        | mange**s**                       |
-| Il/elle   | Parle                              | Habite                             | mange                            |
-| Nous      | parl**ons**                        | Habit**ons**                       | mange**ons**                     |
-| Vous      | parle**z**                         | Habite**z**                        | mange**z**                       |
-| Ils/elles | parle**nt**                        | Habite**nt**                       | mange**nt**                      |
+| Subject   | **(Parler)** </br> (to speak) | **(Habiter)** </br> (to live) | **(Manger)** </br> (to eat) |
+| --------- | ----------------------------- | ----------------------------- | --------------------------- |
+| Je        | **Parle**                     | **Habite**                    | **mange**                   |
+| Tu        | Parle**s**                    | Habite**s**                   | mange**s**                  |
+| Il/elle   | Parle                         | Habite                        | mange                       |
+| Nous      | parl**ons**                   | Habit**ons**                  | mange**ons**                |
+| Vous      | parle**z**                    | Habite**z**                   | mange**z**                  |
+| Ils/elles | parle**nt**                   | Habite**nt**                  | mange**nt**                 |
 
 > Note: ***"parler"*** is a regular **"*-er*"** verb in French.
 
@@ -357,33 +357,33 @@ so it follows the regular conjugation pattern for verbs ending in ***"-er"***.
 > Note: ***"manger"*** is an irregular verb in French, and its conjugation ***does not*** 
 follow the regular ***"-er"*** verb pattern.
 
-| Subject   | Verb **(Avoir)** </br> (to have) | Verb **(Être)** </br> (to be) | Verb **(Vouloir)** </br> (to want) |
-| --------- | -------------------------------- | ----------------------------- | ---------------------------------- |
-| Je        | ai                               | **suis**                      | **veux**                           |
-| Tu        | a**s**                           | e**s**                        | **veux**                           |
-| Il/elle   | a                                | e**st**                       | veu**t**                           |
-| Nous      | a**vons**                        | **sommes**                    | vou**lons**                        |
-| Vous      | a**vez**                         | **êtes**                      | vou**lez**                         |
-| Ils/elles | **ont**                          | **sont**                      | veu**lent**                        |
+| Subject   | **(Avoir)** </br> (to have) | **(Être)** </br> (to be) | **(Vouloir)** </br> (to want) |
+| --------- | --------------------------- | ------------------------ | ----------------------------- |
+| Je        | ai                          | **suis**                 | **veux**                      |
+| Tu        | a**s**                      | e**s**                   | **veux**                      |
+| Il/elle   | a                           | e**st**                  | veu**t**                      |
+| Nous      | a**vons**                   | **sommes**               | vou**lons**                   |
+| Vous      | a**vez**                    | **êtes**                 | vou**lez**                    |
+| Ils/elles | **ont**                     | **sont**                 | veu**lent**                   |
 
 
-| Subject   | Verb **(Savoir)** </br> (to know) | Verb **(Conduire)** </br> (to drive) | Verb **(Acheter)** </br> (to buy) |
-| --------- | --------------------------------- | ------------------------------------ | --------------------------------- |
-| Je        | **sais**                          | **conduis**                          | **achète**                        |
-| Tu        | **sais**                          | **conduis**                          | achète**s**                       |
-| Il/elle   | sa**it**                          | condui**t**                          | achète                            |
-| Nous      | sa**vons**                        | condui**sons**                       | achèt**ons**                      |
-| Vous      | sa**vez**                         | condui**sez**                        | achète**z**                       |
-| Ils/elles | sa**vent**                        | condui**sent**                       | achète**nt**                      |
+| Subject   | **(Savoir)** </br> (to know) | **(Conduire)** </br> (to drive) | **(Acheter)** </br> (to buy) |
+| --------- | ---------------------------- | ------------------------------- | ---------------------------- |
+| Je        | **sais**                     | **conduis**                     | **achète**                   |
+| Tu        | **sais**                     | **conduis**                     | achète**s**                  |
+| Il/elle   | sa**it**                     | condui**t**                     | achète                       |
+| Nous      | sa**vons**                   | condui**sons**                  | achèt**ons**                 |
+| Vous      | sa**vez**                    | condui**sez**                   | achète**z**                  |
+| Ils/elles | sa**vent**                   | condui**sent**                  | achète**nt**                 |
 
-| Subject   | Verb **(Voyager)** </br> (to travel) | Verb **(Étudier)** </br> (to study) | Verb **(pouvoir)** </br> (can) |
-| --------- | ------------------------------------ | ----------------------------------- | ------------------------------ |
-| Je        | **voyage**                           | **étudie**                          | **peux**                       |
-| Tu        | voyage**s**                          | étudie**s**                         | peux                           |
-| Il/elle   | voyage                               | étudie                              | peu**t**                       |
-| Nous      | voyage**ons**                        | étudi**ons**                        | pou**vons**                    |
-| Vous      | voyage**z**                          | étudie**z**                         | pou**vez**                     |
-| Ils/elles | voyage**nt**                         | étudie**nt**                        | peu**vent**                    |
+| Subject   | **(Voyager)** </br> (to travel) | **(Étudier)** </br> (to study) | **(pouvoir)** </br> (can) |
+| --------- | ------------------------------- | ------------------------------ | ------------------------- |
+| Je        | **voyage**                      | **étudie**                     | **peux**                  |
+| Tu        | voyage**s**                     | étudie**s**                    | peux                      |
+| Il/elle   | voyage                          | étudie                         | peu**t**                  |
+| Nous      | voyage**ons**                   | étudi**ons**                   | pou**vons**               |
+| Vous      | voyage**z**                     | étudie**z**                    | pou**vez**                |
+| Ils/elles | voyage**nt**                    | étudie**nt**                   | peu**vent**               |
 
 
 
@@ -452,14 +452,14 @@ means ***you live*** in English.
 
 ### Grammar 
 
-| Subject   | Verb **(Devoir)** </br> (must) |
-| --------- | ------------------------------ |
-| Je        | **dois**                       |
-| Tu        | dois                           |
-| Il/elle   | doit                           |
-| Nous      | d**evons**                     |
-| Vous      | d**evez**                      |
-| Ils/elles | **doivent**                    |
+| Subject   | **(Devoir)** </br> (must) |
+| --------- | ------------------------- |
+| Je        | **dois**                  |
+| Tu        | dois                      |
+| Il/elle   | doit                      |
+| Nous      | d**evons**                |
+| Vous      | d**evez**                 |
+| Ils/elles | **doivent**               |
 
 #### Possessive adjectives
 
@@ -536,14 +536,14 @@ In French, plural names take an extra **s** at the end, however, the plural **s*
 | **Mes** | **Nos**   | **Tes** | **Vos**       | **Ses** | **Leurs** |
 
 
-| Subject   | Verb **(marcher)** </br> (to walk) | Verb **(jouer)** </br> (to play) |
-| --------- | ---------------------------------- | -------------------------------- |
-| Je        | **Marche**                         | **Joue**                         |
-| Tu        | Marche**s**                        | Joue**s**                        |
-| Il/elle   | Marche                             | Joue                             |
-| Nous      | March**ons**                       | Jou**ons**                       |
-| Vous      | March**ez**                        | Jou**ez**                        |
-| Ils/elles | March**ent**                       | Jou**ent**                       |
+| Subject   | **(marcher)** </br> (to walk) | **(jouer)** </br> (to play) |
+| --------- | ----------------------------- | --------------------------- |
+| Je        | **Marche**                    | **Joue**                    |
+| Tu        | Marche**s**                   | Joue**s**                   |
+| Il/elle   | Marche                        | Joue                        |
+| Nous      | March**ons**                  | Jou**ons**                  |
+| Vous      | March**ez**                   | Jou**ez**                   |
+| Ils/elles | March**ent**                  | Jou**ent**                  |
 
 
 ## Unit 8
@@ -635,14 +635,14 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 
 ### Grammar
 
-| Subject   | Verb **(voir)** </br> (to see) | Verb **(Cuisiner)** </br> (to cook) | Verb **(Chercher)** </br> (to look for) |
-| --------- | ------------------------------ | ----------------------------------- | --------------------------------------- |
-| Je        | **Vois**                       | **Cuisine**                         | **Cherche**                             |
-| Tu        | Vois                           | Cuisine**s**                        | Cherche**s**                            |
-| Il/elle   | Voi**t**                       | Cuisine                             | Cherche                                 |
-| Nous      | Vo**yons**                     | Cuisin**ons**                       | Cherch**ons**                           |
-| Vous      | Vo**yez**                      | Cuisine**z**                        | Cherch**ez**                            |
-| Ils/elles | Vo**ient**                     | Cuisin**ent**                       | Cherch**ent**                           |
+| Subject   | **(voir)** </br> (to see) | **(Cuisiner)** </br> (to cook) | **(Chercher)** </br> (to look for) |
+| --------- | ------------------------- | ------------------------------ | ---------------------------------- |
+| Je        | **Vois**                  | **Cuisine**                    | **Cherche**                        |
+| Tu        | Vois                      | Cuisine**s**                   | Cherche**s**                       |
+| Il/elle   | Voi**t**                  | Cuisine                        | Cherche                            |
+| Nous      | Vo**yons**                | Cuisin**ons**                  | Cherch**ons**                      |
+| Vous      | Vo**yez**                 | Cuisine**z**                   | Cherch**ez**                       |
+| Ils/elles | Vo**ient**                | Cuisin**ent**                  | Cherch**ent**                      |
 
 **Yes/No Questions**
 
@@ -737,14 +737,14 @@ French adjectives usually come after the noun they're describing.
 
 ### Grammer
 
-| Subject   | Verb **(Aller)** </br> (to go) | Verb **(Visiter)** </br> (to visit) |
-| --------- | ------------------------------ | ----------------------------------- |
-| Je        | **vais**                       | **visite**                          |
-| Tu        | va**s**                        | visite**s**                         |
-| Il/elle   | va                             | visite                              |
-| Nous      | **allons**                     | visit**ons**                        |
-| Vous      | all**ez**                      | visite**z**                         |
-| Ils/elles | **vont**                       | visite**nt**                        |
+| Subject   | **(Aller)** </br> (to go) | **(Visiter)** </br> (to visit) |
+| --------- | ------------------------- | ------------------------------ |
+| Je        | **vais**                  | **visite**                     |
+| Tu        | va**s**                   | visite**s**                    |
+| Il/elle   | va                        | visite                         |
+| Nous      | **allons**                | visit**ons**                   |
+| Vous      | all**ez**                 | visite**z**                    |
+| Ils/elles | **vont**                  | visite**nt**                   |
 
 
 **Un** and **une** become ***des*** when you are talking about more than one thing:
@@ -760,6 +760,8 @@ French adjectives usually come after the noun they're describing.
 
 
 ## Unit 12
+
+### Phrases
 
 | Verbs and Words                | Pronunciation | English                            |
 | ------------------------------ | ------------- | ---------------------------------- |
@@ -780,17 +782,19 @@ French adjectives usually come after the noun they're describing.
 
 ### Grammer
 
-| Subject   | Verb **(écris)** </br> (to write) | Verb **(Travailler)** </br> (to work) |
-| --------- | --------------------------------- | ------------------------------------- |
-| Je        | **écris**                         | **travaille**                         |
-| Tu        | écris                             | travaille**s**                        |
-| Il/elle   | écri**t**                         | travaille                             |
-| Nous      | écri**vons**                      | travaill**ons**                       |
-| Vous      | écri**vez**                       | travaill**ez**                        |
-| Ils/elles | écri**vent**                      | travaill**ent**                       |
+| Subject   | **(écris)** </br> (to write) | **(Travailler)** </br> (to work) |
+| --------- | ---------------------------- | -------------------------------- |
+| Je        | **écris**                    | **travaille**                    |
+| Tu        | écris                        | travaille**s**                   |
+| Il/elle   | écri**t**                    | travaille                        |
+| Nous      | écri**vons**                 | travaill**ons**                  |
+| Vous      | écri**vez**                  | travaill**ez**                   |
+| Ils/elles | écri**vent**                 | travaill**ent**                  |
 
 
 ## Unit 13
+
+### Phrases
 
 | Verbs and Words               | Pronunciation          | English                         |
 | ----------------------------- | ---------------------- | ------------------------------- |
@@ -824,14 +828,14 @@ French adjectives usually come after the noun they're describing.
 | Ces                           | Masculine/Femenine | These/those | Ces livres              |
 
 
-| Subject   | Verb **(Prendre)** </br> (to have/to take) |
-| --------- | ------------------------------------------ |
-| Je        | **prends**                                 |
-| Tu        | prends                                     |
-| Il/elle   | prend                                      |
-| Nous      | pren**ons**                                |
-| Vous      | pren**ez**                                 |
-| Ils/elles | pren**nent**                               |
+| Subject   | **(Prendre)** </br> (to have/to take) |
+| --------- | ------------------------------------- |
+| Je        | **prends**                            |
+| Tu        | prends                                |
+| Il/elle   | prend                                 |
+| Nous      | pren**ons**                           |
+| Vous      | pren**ez**                            |
+| Ils/elles | pren**nent**                          |
 
 ## Unit 14
 
@@ -862,14 +866,14 @@ French adjectives usually come after the noun they're describing.
 
 ### Grammer
 
-| Subject   | Verb **(Lire)** </br> (to read) | Verb **(Écouter)** </br> (to listen) | Verb **(Achéte)** </br> (to buy) | Verb **(Coûte)** </br> (to cost) | Verb **(Dormir)** </br> (to sleep) |
-| --------- | ------------------------------- | ------------------------------------ | -------------------------------- | -------------------------------- | ---------------------------------- |
-| Je        | **lis**                         | **écoute**                           | **achéte**                       | **coûte**                        | **dors**                           |
-| Tu        | lis                             | écoute**s**                          | achéte**s**                      | coûte**s**                       | dors                               |
-| Il/elle   | li**t**                         | écoute                               | achéte                           | coûte                            | dor**t**                           |
-| Nous      | lis**ons**                      | écout**ons**                         | achét**ons**                     | coût**ons**                      | dor**mons**                        |
-| Vous      | lis**ez**                       | écout**ez**                          | achét**ez**                      | coût**ez**                       | dor**mez**                         |
-| Ils/elles | lis**ent**                      | écout**ent**                         | achét**ent**                     | coût**ent**                      | dor**ment**                        |
+| Subject   | **(Lire)** </br> (to read) | **(Écouter)** </br> (to listen) | **(Achéte)** </br> (to buy) | **(Coûte)** </br> (to cost) | **(Dormir)** </br> (to sleep) |
+| --------- | -------------------------- | ------------------------------- | --------------------------- | --------------------------- | ----------------------------- |
+| Je        | **lis**                    | **écoute**                      | **achéte**                  | **coûte**                   | **dors**                      |
+| Tu        | lis                        | écoute**s**                     | achéte**s**                 | coûte**s**                  | dors                          |
+| Il/elle   | li**t**                    | écoute                          | achéte                      | coûte                       | dor**t**                      |
+| Nous      | lis**ons**                 | écout**ons**                    | achét**ons**                | coût**ons**                 | dor**mons**                   |
+| Vous      | lis**ez**                  | écout**ez**                     | achét**ez**                 | coût**ez**                  | dor**mez**                    |
+| Ils/elles | lis**ent**                 | écout**ent**                    | achét**ent**                | coût**ent**                 | dor**ment**                   |
 
 
 In French, make sure you include the **le**, **la** , or **l'** when talking about the time of day or meals!
@@ -898,6 +902,7 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 
 ## Unit 15
 
+### Phrases
 
 | Verbs and Words                | Pronunciation | English                          |
 | ------------------------------ | ------------- | -------------------------------- |
@@ -917,18 +922,19 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 
 ### Grammar
 
-| Subject   | Verb **(venir)** </br> (to come) | Verb **(tourner)** </br> (to turn) | Verb **(trouver)** </br> (to find) |
-| --------- | -------------------------------- | ---------------------------------- | ---------------------------------- |
-| Je        | **viens**                        | **tourne**                         | **trouve**                         |
-| Tu        | viens                            | tourne**s**                        | trouve**s**                        |
-| Il/elle   | vien**t**                        | tourne                             | trouve                             |
-| Nous      | ve**nons**                       | tourn**ons**                       | trouv**ons**                       |
-| Vous      | ve**nez**                        | tourne**z**                        | trouv**ez**                        |
-| Ils/elles | vie**nnent**                     | tourne**nt**                       | trouv**ent**                       |
+| Subject   | **(Venir)** </br> (to come) | **(Tourner)** </br> (to turn) | **(Trouver)** </br> (to find) |
+| --------- | --------------------------- | ----------------------------- | ----------------------------- |
+| Je        | **viens**                   | **tourne**                    | **trouve**                    |
+| Tu        | viens                       | tourne**s**                   | trouve**s**                   |
+| Il/elle   | vien**t**                   | tourne                        | trouve                        |
+| Nous      | ve**nons**                  | tourn**ons**                  | trouv**ons**                  |
+| Vous      | ve**nez**                   | tourne**z**                   | trouv**ez**                   |
+| Ils/elles | vie**nnent**                | tourne**nt**                  | trouv**ent**                  |
 
 
 ## Unit 16
 
+### Phrases
 | Verbs and Words            | Pronunciation | English                          |
 | -------------------------- | ------------- | -------------------------------- |
 | Tu **as** onze **ans**     |               | You **are** eleven **years old** |
@@ -948,6 +954,13 @@ Use infinit verbs:
 
 ## Unit 17
 
+### Phrases
+
+| Verbs and Words | Pronunciation | English   |
+| --------------- | ------------- | --------- |
+| Un **problème** |               | A problem |
+
+### Grammar
 
 > - Anna et Martin, **vous cuisinez**?
 >   - Anna and Martin, do you cook?
@@ -977,13 +990,26 @@ Use infinit verbs:
 
 
 
+In English we say **I Underestand you**. In French, we say **I you underestand**.
+> - Vous **me** comprenez?
+> - Il **lui** écrit
+>
+> Note: **me** and **lui** are indirect object pronouns.
 
-| Verbs and Words | Pronunciation | English   |
-| --------------- | ------------- | --------- |
-| Un **problème** |               | A problem |
+**Indirect object pronouns**
+
+The indirect object pronouns are used to replace the indirect object of a verb, which indicates the person or thing to whom/what an action is done indirectly. 
+
+
+| Person        | Singular             | Plural             |
+| ------------- | -------------------- | ------------------ |
+| First Person  | **me** (to me)       | **nous** (to us)   |
+| Second Person | **te** (to you)      | **vous** (to you)  |
+| Third Person  | **lui** (to him/her) | **leur** (to them) |
 
 
 ## Unit 18
+### Phrases
 
 | Verbs and Words | Pronunciation | English |
 | --------------- | ------------- | ------- |
