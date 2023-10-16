@@ -385,8 +385,8 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 | Je dois prendre des **cours d'anglais**   |               | I have to take **English class**    |
 | **Disctionnaire**                         |               | Dictionary                          |
 | **Est-ce que tu** aimes le français?      |               | Do you like French?                 |
-| **Est-ce qu'**elle étudie à l'université? |               | Is she studying at the university?  |
-| **Est-ce qu'**il comprend?                |               | Does he underestand?                |
+| **Est-ce qu'elle** étudie à l'université? |               | Is she studying at the university?  |
+| **Est-ce qu'il** comprend?                |               | Does he underestand?                |
 | **Disctionnaire**                         |               | Dictionary                          |
 | Ils apprennent **lentement**              |               | They are **learning slowly**        |
 | La **salle de classe**                    |               | **The classroom**                   |
