@@ -354,23 +354,42 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 | Third Person  | **lui** (to him/her) | **leur** (to them) |
 
 ## Unit 7
+*Tell time, form the present tense*
+
 ## Unit 8
+*Talk to someone formally, talk about hobbies*
+
+
 ## Unit 9
+*Describe your breakfast, discuss travel plans*
+### Phrases
+
+| Verbs and Words | Pronunciation | English       |
+| --------------- | ------------- | ------------- |
+|    |               |  |
+
 
 ## Unit 10
 *Talk about school, share work schedules*
 ### Phrases
 
-| Verbs and Words                           | Pronunciation | English                            |
-| ----------------------------------------- | ------------- | ---------------------------------- |
-| Je dois prendre des **cours d'anglais**   |               | I have to take **English class**   |
-| **Disctionnaire**                         |               | Dictionary                         |
-| **Est-ce que tu** aimes le français?      |               | Do you like French?                |
-| **Est-ce qu'**elle étudie à l'université? |               | Is she studying at the university? |
-| **Est-ce qu'**il comprend?                |               | Does he underestand?               |
-| **Disctionnaire**                         |               | Dictionary                         |
-| Ils **apprennent lentement**              |               | They are **learning slowly**       |
-| La **salle de classe**                    |               | **The classroom**                  |
-| **Plus** souvent                          |               | **More** often                     |
-| Le **sac à dos**                          |               | The **backpack**                   |
-| **L'élève**                               |               | The **student**                    |
+| Verbs and Words                           | Pronunciation | English                             |
+| ----------------------------------------- | ------------- | ----------------------------------- |
+| Tu dois **comprendre**.                   |               | You have to **underestand**         |
+| Je dois **apprendre** l'anglais.          |               | I have to **learn** English         |
+| Les **leçons** sont **difficiles**        |               | These **lessons** are **difficult** |
+| **Septembre**                             |               | **September**                       |
+| Une **matière**                           |               | a **subject**                       |
+| **Tout** est **facile**                   |               | **Everything** is **easy**          |
+| Les **examens**                           |               | The **exams**                       |
+| Je dois prendre des **cours d'anglais**   |               | I have to take **English class**    |
+| **Disctionnaire**                         |               | Dictionary                          |
+| **Est-ce que tu** aimes le français?      |               | Do you like French?                 |
+| **Est-ce qu'**elle étudie à l'université? |               | Is she studying at the university?  |
+| **Est-ce qu'**il comprend?                |               | Does he underestand?                |
+| **Disctionnaire**                         |               | Dictionary                          |
+| Ils apprennent **lentement**              |               | They are **learning slowly**        |
+| La **salle de classe**                    |               | **The classroom**                   |
+| **Plus** souvent                          |               | **More** often                      |
+| Le **sac à dos**                          |               | The **backpack**                    |
+| **L'élève**                               |               | The **student**                     |
