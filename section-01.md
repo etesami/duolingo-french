@@ -1,7 +1,7 @@
 # Duolingo French Course
 
-Duolingo changed the order of courses after I finished this section. 
-Thus, I keep the original version and the new changes are reflected from section 2.
+> :warning: Duolingo changed the order of courses after I finished this section. 
+Thus, I keep the original version and the new changes are reflected from [section 2](./section-02.md).
 
 - [Duolingo French Course, Section 1](#duolingo-french-course)
   - [Unit 1: Use basic phrases, greet people](#unit-1)

@@ -1,6 +1,6 @@
 # Duolingo French Course
 
-Duolingo changed the order of courses when I was at **unit 17**. 
+> :warning: Duolingo changed the order of courses when I was at the middle of this section (**unit 17**). 
 Thus, I keep the original structure for now and follow the new style, starting from **unit 7**.
 
 - [Duolingo French Course, Section 2](#duolingo-french-course)
