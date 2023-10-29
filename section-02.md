@@ -4,6 +4,14 @@ Duolingo changed the order of courses when I was at **unit 17**.
 Thus, I keep the original structure for now and follow the new style, starting from **unit 7**.
 
 - [Duolingo French Course, Section 2](#duolingo-french-course)
+  <!-- 
+  - [Unit 1: Use gender and number agreement, Discuss destinations](#unit-1)
+  - [Unit 2: Describe your home, Describe where you work](#unit-2)
+  - [Unit 3: Talk about food, Use gender and number agreement](#unit-3)
+  - [Unit 4: Use the present tense, Shop for clothes](#unit-4)
+  - [Unit 5: Exchange personal information, Use the infinitive](#unit-5)
+  - [Unit 6: Ask people about themselves, Ask questions](#unit-6)
+  -->
   - [Unit 10: Use gender and number agreement](#unit-10)
   - [Unit 11: Discuss destinations, describe your home](#unit-11)
   - [Unit 12: Describe where you work](#unit-12)
@@ -281,14 +289,15 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 ## Unit 16
 
 ### Phrases
-| Verbs and Words            | Pronunciation | English                          |
-| -------------------------- | ------------- | -------------------------------- |
-| Tu **as** onze **ans**     |               | You **are** eleven **years old** |
-| **Quel âge as-tu**?        |               | **How old are you?**             |
-| Ce **lieu**                |               | This **place**                   |
-| Je suis **devant** l'hôtel |               | I am **in front of** the hotel   |
-| Une route **dangereuse**   |               | A **dangerous** route            |
-| Un lieu **dangereux**      |               | A **dangerous** place            |
+| Verbs and Words              | Pronunciation | English                           |
+| ---------------------------- | ------------- | --------------------------------- |
+| Tu **as** onze **ans**       |               | You **are** eleven **years old**  |
+| **Quel âge as-tu**?          |               | **How old are you?**              |
+| Ce **lieu**                  |               | This **place**                    |
+| Je suis **devant** l'hôtel   |               | I am **in front of** the hotel    |
+| Une route **dangereuse**     |               | A **dangerous** route             |
+| Un lieu **dangereux**        |               | A **dangerous** place             |
+| Tu dois **rentrer** chez toi |               | You have to go back to your place |
 
 
 ### Grammar
@@ -297,6 +306,15 @@ Use infinit verbs:
 - J'aime **habiter** à Paris
 - Je veux **visiter** ce lieu
 - Je dois **tourner** à gauche
+
+| Subject   | **(Rentrer)** </br> (to go back) |
+| --------- | -------------------------------- |
+| Je        | **rentre**                       |
+| Tu        | rentres                          |
+| Il/elle   | rentre                           |
+| Nous      | rentre**ons**                    |
+| Vous      | rentre**z**                      |
+| Ils/elles | rentre**nt**                     |
 
 ## Unit 17
 
@@ -364,9 +382,9 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 *Describe your breakfast, discuss travel plans*
 ### Phrases
 
-| Verbs and Words | Pronunciation | English       |
-| --------------- | ------------- | ------------- |
-|    |               |  |
+| Verbs and Words | Pronunciation | English |
+| --------------- | ------------- | ------- |
+|                 |               |         |
 
 
 ## Unit 10
