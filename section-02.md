@@ -289,19 +289,19 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 ## Unit 16
 
 ### Phrases
-| Verbs and Words                  | Pronunciation | English                              |
-| -------------------------------- | ------------- | ------------------------------------ |
-| Tu **as** onze **ans**           |               | You **are** eleven **years old**     |
-| **Quel âge as-tu**?              |               | **How old are you?**                 |
-| Ce **lieu**                      |               | This **place**                       |
-| Je suis **devant** l'hôtel       |               | I am **in front of** the hotel       |
-| Une route **dangereuse**         |               | A **dangerous** route                |
-| Un lieu **dangereux**            |               | A **dangerous** place                |
+| Verbs and Words                  | Pronunciation | English                                   |
+| -------------------------------- | ------------- | ----------------------------------------- |
+| Tu **as** onze **ans**           |               | You **are** eleven **years old**          |
+| **Quel âge as-tu**?              |               | **How old are you?**                      |
+| Ce **lieu**                      |               | This **place**                            |
+| Je suis **devant** l'hôtel       |               | I am **in front of** the hotel            |
+| Une route **dangereuse**         |               | A **dangerous** route                     |
+| Un lieu **dangereux**            |               | A **dangerous** place                     |
 | Tu dois **rentrer** **chez** toi |               | You have to **go back** to your **place** |
-| Tu dois **rentrer**              |               | I have to **go home**                |
-| Je **sors** de chez moi          |               | I am **leaving** of my place      |
-| Je veux **sortir**               |               | I want to **leave**                 |
-| Deux **chambres**                |               | Two **bedrooms**                     |
+| Tu dois **rentrer**              |               | I have to **go home**                     |
+| Je **sors** de chez moi          |               | I am **leaving** of my place              |
+| Je veux **sortir**               |               | I want to **leave**                       |
+| Deux **chambres**                |               | Two **bedrooms**                          |
 
 
 ### Grammar
@@ -381,15 +381,17 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 ## Unit 7
 *Tell time, form the present tense*
 
-| Verbs and Words                | Pronunciation | English                              |
-| ------------------------------ | ------------- | ------------------------------------ |
-| **Avant** ou **après**?        |               | **Before** or **after**?             |
-| Il est dix **heures** du soir. |               | It's ten o'clock at night.           |
-| l'horloge                      |               | The clock                            |
-| Je sors três **tôt**.          |               | I am leaving very **early**. |
-| Je rentre **tard**.            |               | I am going home **late**.            |
-| Tu puex **sortir**.            |               | You can leave.                        |
-| Avant dix heures.              |               | Before ten o'clock.                  |
+### Phrases
+| Verbs and Words                       | Pronunciation | English                                          |
+| ------------------------------------- | ------------- | ------------------------------------------------ |
+| **Avant** ou **après**?               |               | **Before** or **after**?                         |
+| Il est dix **heures** du soir.        |               | It's ten o'clock at night.                       |
+| l'horloge                             |               | The clock                                        |
+| Je sors três **tôt**.                 |               | I am leaving very **early**.                     |
+| Je rentre **tard**.                   |               | I am going home **late**.                        |
+| Tu puex **sortir**.                   |               | You can leave.                                   |
+| Avant dix heures.                     |               | Before ten o'clock.                              |
+| Il rentre **à sept heures du matin**. |               | He goes home **at seven o'clock in the morning** |
 
 ## Unit 8
 *Talk to someone formally, talk about hobbies*
@@ -397,11 +399,20 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 
 ## Unit 9
 *Describe your breakfast, discuss travel plans*
+
 ### Phrases
 
-| Verbs and Words | Pronunciation | English |
-| --------------- | ------------- | ------- |
-|                 |               |         |
+| Verbs and Words    | Pronunciation | English             |
+| ------------------ | ------------- | ------------------- |
+| Le **frigo**       |               | The **fridge**      |
+| Le **lait**        |               | The **milk**        |
+| Le **sucre**       |               | The **sugar**       |
+| Un **peu** de café |               | A **little** coffee |
+| Beaucoup de café   |               | A **lot of** coffee |
+| Sel                |               | **Salt**            |
+| Trop de sel        |               | **Too much salt**   |
+| La salle de bain   |               | The **bathroom**    |
+| Le **cuisine**     |               | The **kitchen**     |
 
 
 ## Unit 10
