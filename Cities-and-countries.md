@@ -29,7 +29,11 @@ Note: Words for nationalities change form, but words for a **language** never ch
 In the following example **"The French"** represents a group of people, when the gender is not important we may go with masculine plural format. It is possible to use the feminine form of **"les françaises"** to specifically refer to a group of French females.
 > **The French** go to the bakery every day: **Les français** vont à la boulangerie tous les jours
 
+Generally we put **le**, **la**, **les** before **countries** and **continents**.
+> Le Mexique est un pays.
+> Je visite les Êtats-Unis.
 
+ 
 ### Cities
 | Phrase     | Meaning                       |
 | ---------- | ----------------------------- |

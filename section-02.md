@@ -289,15 +289,18 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 ## Unit 16
 
 ### Phrases
-| Verbs and Words              | Pronunciation | English                           |
-| ---------------------------- | ------------- | --------------------------------- |
-| Tu **as** onze **ans**       |               | You **are** eleven **years old**  |
-| **Quel âge as-tu**?          |               | **How old are you?**              |
-| Ce **lieu**                  |               | This **place**                    |
-| Je suis **devant** l'hôtel   |               | I am **in front of** the hotel    |
-| Une route **dangereuse**     |               | A **dangerous** route             |
-| Un lieu **dangereux**        |               | A **dangerous** place             |
-| Tu dois **rentrer** chez toi |               | You have to go back to your place |
+| Verbs and Words                  | Pronunciation | English                                   |
+| -------------------------------- | ------------- | ----------------------------------------- |
+| Tu **as** onze **ans**           |               | You **are** eleven **years old**          |
+| **Quel âge as-tu**?              |               | **How old are you?**                      |
+| Ce **lieu**                      |               | This **place**                            |
+| Je suis **devant** l'hôtel       |               | I am **in front of** the hotel            |
+| Une route **dangereuse**         |               | A **dangerous** route                     |
+| Un lieu **dangereux**            |               | A **dangerous** place                     |
+| Tu dois **rentrer** **chez** toi |               | You have to **go back** to your **place** |
+| Je **sors** de chez moi          |               | I am **coming out** of my place           |
+| Je veux **sortir**               |               | I want to **go out**                      |
+| Deux **chambres**                |               | Two **bedrooms**                          |
 
 
 ### Grammar
@@ -307,14 +310,14 @@ Use infinit verbs:
 - Je veux **visiter** ce lieu
 - Je dois **tourner** à gauche
 
-| Subject   | **(Rentrer)** </br> (to go back) |
-| --------- | -------------------------------- |
-| Je        | **rentre**                       |
-| Tu        | rentres                          |
-| Il/elle   | rentre                           |
-| Nous      | rentre**ons**                    |
-| Vous      | rentre**z**                      |
-| Ils/elles | rentre**nt**                     |
+| Subject   | **(Rentrer)** </br> (to go back) | **(Sortir)** </br> (to go out) |
+| --------- | -------------------------------- | ------------------------------ |
+| Je        | **rentre**                       | **sors**                       |
+| Tu        | rentres                          | sors                           |
+| Il/elle   | rentre                           | sort                           |
+| Nous      | rentre**ons**                    | sort**ons**                    |
+| Vous      | rentre**z**                      | sort**ez**                     |
+| Ils/elles | rentre**nt**                     | sort**ent**                    |
 
 ## Unit 17
 
@@ -333,6 +336,8 @@ Use infinit verbs:
 
 > - Qui **tu es** cette semaine?
 >   - Where are you this week?
+> - Qui **êtes-vous**?
+>   - Who are you?
 
 
 > - **Est-ce que** tu as un chat?
@@ -352,7 +357,8 @@ Use infinit verbs:
 > - Quand **vas-tu** à New York?
 >   - When do you go to the New York?
 
-
+> - **Travaillez-vo** us ensemble?
+>   - Do you work together?
 
 In English we say **I underestand you**. In French, we say **I you underestand**.
 > - Vous **me** comprenez?
