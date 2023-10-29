@@ -1,8 +1,8 @@
 # Duolingo French Course
 
-- [Duolingo French Course](#duolingo-french-course)
-  - [Section 1: Rookie](./section-01.md)
-  - [Section 1: Explorer](./section-02.md)
+- Duolingo French Course
+  - [Section 01: Rookie](./section-01.md)
+  - [Section 02: Explorer](./section-02.md)
   
 ## Unit 1: Rookie
   - [Unit 1: Use basic phrases, greet people](./section-01.md#unit-1)
