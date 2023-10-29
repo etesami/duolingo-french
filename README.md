@@ -956,9 +956,10 @@ Use infinit verbs:
 
 ### Phrases
 
-| Verbs and Words | Pronunciation | English   |
-| --------------- | ------------- | --------- |
-| Un **problème** |               | A problem |
+| Verbs and Words              | Pronunciation | English                               |
+| ---------------------------- | ------------- | ------------------------------------- |
+| Un **problème**              |               | A problem                             |
+| Tu dois **rentrer chez** toi |               | You have to **go back to your** place |
 
 ### Grammar
 
@@ -1000,12 +1001,6 @@ In English we say **I Underestand you**. In French, we say **I you underestand**
 
 The indirect object pronouns are used to replace the indirect object of a verb, which indicates the person or thing to whom/what an action is done indirectly. 
 
-
-| Person        | Singular             | Plural             |
-| ------------- | -------------------- | ------------------ |
-| First Person  | **me** (to me)       | **nous** (to us)   |
-| Second Person | **te** (to you)      | **vous** (to you)  |
-| Third Person  | **lui** (to him/her) | **leur** (to them) |
 
 
 ## Unit 18
