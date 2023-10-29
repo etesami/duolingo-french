@@ -28,6 +28,7 @@ Thus, I keep the original structure for now and follow the new style, starting f
 
 ## Unit 10
 Take a look at [possessive adjectives](#possessive-adjectives-1) one more time.
+
 | Verbs and Words               | Pronunciation | English                             |
 | ----------------------------- | ------------- | ----------------------------------- |
 | La femme et **ses** bébé**s** |               | The wom**a** and **her** bab**ies** |
@@ -258,21 +259,24 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 
 ### Phrases
 
-| Verbs and Words                | Pronunciation | English                          |
-| ------------------------------ | ------------- | -------------------------------- |
-| Il sont **jeune**              |               | They are **young**               |
-| **Blond**                      |               | **Blond**                        |
-| Il **vient du Canada**         |               | He **comes from** the Canada     |
-| **autre** magasin              |               | **Another** store                |
-| C'est **près** de la maison    |               | It's **close** to the house      |
-| C'est **loin d'ici**           |               | It's **far from** here           |
-| Tu ne peux pas **tourner** ici |               | You cannot **turn** here.        |
-| La troisième **rue**           |               | The third **street**             |
-| Tu marches sur la **route**    |               | Do you walk on the **road**?     |
-| **Le pont** de Paris           |               | The **bridge** of Paris          |
-| **L'immeuble**                 |               | The **apartment building**       |
-| La première rue **à gauche**   |               | The first streen **on the left** |
-| **à droite**                   |               | **to the right**                 |
+| Verbs and Words                        | Pronunciation | English                                            |
+| -------------------------------------- | ------------- | -------------------------------------------------- |
+| Il sont **jeune**                      |               | They are **young**                                 |
+| **Blond**                              |               | **Blond**                                          |
+| Elle est **Brune**                     |               | **Brown** (hair color)                             |
+| Il **vient du Canada**                 |               | He **comes from** the Canada                       |
+| **autre** magasin                      |               | **Another** store                                  |
+| C'est **près** de la maison            |               | It's **close** to the house                        |
+| C'est **loin d'ici**                   |               | It's **far from** here                             |
+| Tu ne peux pas **tourner** ici         |               | You cannot **turn** here.                          |
+| La troisième **rue**                   |               | The third **street**                               |
+| Tu marches sur la **route**            |               | Do you walk on the **road**?                       |
+| **Le pont** de Paris                   |               | The **bridge** of Paris                            |
+| **L'immeuble**                         |               | The **apartment building**                         |
+| C'est **très un immeuble intéressant** |               | This is **a very interesting apartment building**. |
+| La première rue **à gauche**           |               | The first streen **on the left**                   |
+| **à droite**                           |               | **to the right**                                   |
+| Un homme **mariè**                     |               | A **married** man                                  |
 
 ### Grammar
 
@@ -285,6 +289,8 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 | Vous      | ve**nez**                   | tourne**z**                   | trouv**ez**                   |
 | Ils/elles | vie**nnent**                | tourne**nt**                  | trouv**ent**                  |
 
+> - **Quel** âge **as-tu**?
+>   - How old are you? 
 
 ## Unit 16
 
@@ -357,11 +363,14 @@ Use infinit verbs:
 >   - How are you?
 > - Quand **vas-tu** à New York?
 >   - When do you go to the New York?
+> - Wuand travaillez-vous?
+>   - When do you work?
 
 > - **Travaillez-vo** us ensemble?
 >   - Do you work together?
 
 In English we say **I underestand you**. In French, we say **I you underestand**.
+
 > - Vous **me** comprenez?
 > - Il **lui** écrit
 >
@@ -402,18 +411,31 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 
 ### Phrases
 
-| Verbs and Words    | Pronunciation | English             |
-| ------------------ | ------------- | ------------------- |
-| Le **frigo**       |               | The **fridge**      |
-| Le **lait**        |               | The **milk**        |
-| Le **sucre**       |               | The **sugar**       |
-| Un **peu** de café |               | A **little** coffee |
-| Beaucoup de café   |               | A **lot of** coffee |
-| Sel                |               | **Salt**            |
-| Trop de sel        |               | **Too much salt**   |
-| La salle de bain   |               | The **bathroom**    |
-| Le **cuisine**     |               | The **kitchen**     |
+| Verbs and Words      | Pronunciation | English             |
+| -------------------- | ------------- | ------------------- |
+| Le **frigo**         |               | The **fridge**      |
+| Le **lait**          |               | The **milk**        |
+| Le **sucre**         |               | The **sugar**       |
+| Un **peu** de café   |               | A **little** coffee |
+| Beaucoup de café     |               | A **lot of** coffee |
+| Sel                  |               | **Salt**            |
+| **Trop de sel**      |               | **Too much salt**   |
+| La **salle de bain** |               | The **bathroom**    |
+| Le **cuisine**       |               | The **kitchen**     |
+| Le **beurre**        |               | The **butter**      |
+| Le **miel**          |               | The **honey**       |
+| Le **baguette**      |               | The **baguette**    |
 
+
+### Grammer
+| Subject   | **(Cuisiner)** </br> (to cook) |
+| --------- | ------------------------------ |
+| Je        | **cuisine**                    |
+| Tu        | cuisine                        |
+| Il/elle   | cuisine                        |
+| Nous      | Cuisin**ons**                  |
+| Vous      | Cuisin**ez**                   |
+| Ils/elles | Cuisin**ez**                   |
 
 ## Unit 10
 *Talk about school, share work schedules*
@@ -439,3 +461,6 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 | **Plus** souvent                          |               | **More** often                      |
 | Le **sac à dos**                          |               | The **backpack**                    |
 | **L'élève**                               |               | The **student**                     |
+| C'est **lion de** mon hôtel               |               | It's **far from** my hotel          |
+| **Tous les jours**                        |               | **Every day**                       |
+
