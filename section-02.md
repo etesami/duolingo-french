@@ -118,22 +118,23 @@ French adjectives usually come after the noun they're describing.
 
 ### Phrases
 
-| Verbs and Words                | Pronunciation | English                            |
-| ------------------------------ | ------------- | ---------------------------------- |
-| L'**usine**                    |               | The **factory**                    |
-| Un **métier**                  |               | An **occupation**                  |
-| Ma **collègue**                |               | My **colleague**                   |
-| Le **bureau**                  | /byuh-roh/    | The **office**                     |
-| Un **chauffeur**               | /shoh-feur/   | A **driver**                       |
-| Tu es **au** travail?          |               | Are you **at (the)** work?         |
-| Elle habite **aux** États-unis |               | She lives **in the** United States |
-| Un **stylo**                   |               | A **pen**                          |
-| L`**ordinateur**               |               | The **computer**                   |
-| Le **portable**                |               | The **cell phone**                 |
-| Le **téléphone**               |               | The **telephone**                  |
-| Le **numéro** de portable      |               | The cell phone **number**          |
-| **Venir**                      |               | **To come**                        |
-| **Utilise**                    |               | **To use**                         |
+| Verbs and Words                 | Pronunciation | English                            |
+| ------------------------------- | ------------- | ---------------------------------- |
+| L'**usine**                     |               | The **factory**                    |
+| Elles **travaillent à** l'usine |               | They **work at** the factory       |
+| Un **métier**                   |               | An **occupation**                  |
+| Ma **collègue**                 |               | My **colleague**                   |
+| Le **bureau**                   | /byuh-roh/    | The **office**                     |
+| Un **chauffeur**                | /shoh-feur/   | A **driver**                       |
+| Tu es **au** travail?           |               | Are you **at (the)** work?         |
+| Elle habite **aux** États-unis  |               | She lives **in the** United States |
+| Un **stylo**                    |               | A **pen**                          |
+| L`**ordinateur**                |               | The **computer**                   |
+| Le **portable**                 |               | The **cell phone**                 |
+| Le **téléphone**                |               | The **telephone**                  |
+| Le **numéro** de portable       |               | The cell phone **number**          |
+| **Venir**                       |               | **To come**                        |
+| **Utilise**                     |               | **To use**                         |
 
 ### Grammer
 
@@ -182,6 +183,7 @@ French adjectives usually come after the noun they're describing.
 | Cette                         | Femenine           | This/that   | Cette maison            |
 | Ces                           | Masculine/Femenine | These/those | Ces livres              |
 
+> **Ces** *bananes* et **cette** *orange* sont bonnes.
 
 | Subject   | **(Prendre)** </br> (to have/to take) |
 | --------- | ------------------------------------- |
@@ -196,28 +198,35 @@ French adjectives usually come after the noun they're describing.
 
 ### Phrases
 
-| Verbs and Words               | Pronunciation | English                           |
-| ----------------------------- | ------------- | --------------------------------- |
-| Une **robe**                  |               | A **dress**                       |
-| Une **jope**                  |               | A **skirt**                       |
-| **Coûte**                     | /koot/        | To cost                           |
-| La maison **du** voisin       |               | The home **of the** neighbour     |
-| **Le soir** et **la nuit**    |               | The **evening** and the **night** |
-| **Ce soir**                   |               | **Tonight**                       |
-| **Vendredi soir**             |               | **Friday evening**                |
-| **Ça coûte combien**?         |               | **How much does it cost**?        |
-| **C'est combien**?            |               | **How much is it**?               |
-| La robe coûte cinq euros      |               | The dess costs five euros         |
-| Tu **achétes** des vêtements? |               | Are you **buying** clothes?       |
-| La **télé**                   |               | The **TV**                        |
-| **Chaque matin**              |               | **Every morning**                 |
-| **Chaque jour**               |               | **Every day**                     |
-| Un **après midi**             |               | An **afternoon**                  |
-| L'**enfant**                  |               | The **child**                     |
-| Le **journal**                |               | The **newspaper**                 |
-| Trés **souvent**              |               | Very **often**                    |
-| Le **lit**                    |               | The **bed**                       |
-| **Parfois**                   |               | **Sometimes**                     |
+| Verbs and Words                 | Pronunciation | English                                |
+| ------------------------------- | ------------- | -------------------------------------- |
+| Une **robe**                    |               | A **dress**                            |
+| Une **jope**                    |               | A **skirt**                            |
+| **Coûte**                       | /koot/        | To cost                                |
+| Je **dors** beaucoup.           |               | I sleep a lot.                         |
+| La maison **du** voisin         |               | The home **of the** neighbour          |
+| **Le soir** et **la nuit**      |               | The **evening** and the **night**      |
+| **Ce soir**                     |               | **Tonight**                            |
+| **Vendredi soir**               |               | **Friday evening**                     |
+| **Ça coûte combien**?           |               | **How much does it cost**?             |
+| **C'est combien**?              |               | **How much is it**?                    |
+| **Combien coûte** cette veste?  |               | **How much** does this jacket cost?    |
+| Ce sac coûte sept euros.        |               | This bag costs seven euros.            |
+| La robe coûte cinq euros        |               | The dess costs five euros              |
+| Tu **achétes** des vêtements?   |               | Are you **buying** clothes?            |
+| La **télé**                     |               | The **TV**                             |
+| **Chaque matin**                |               | **Every morning**                      |
+| **Chaque jour**                 |               | **Every day**                          |
+| Un **après midi**               |               | An **afternoon**                       |
+| L'**enfant**                    |               | The **child**                          |
+| Le **journal**                  |               | The **newspaper**                      |
+| Trés **souvent**                |               | Very **often**                         |
+| Le **lit**                      |               | The **bed**                            |
+| **Parfois**                     |               | **Sometimes**                          |
+| **Parfois** il écoute la radio. |               | **Sometimes** he listens to the radio. |
+| Je **écoute** la radio.         |               | I **listen** to the radio.             |
+| Ma femme **lit toute** la nuit. |               | My wife **reads all** night.           |
+| Le **week-end**                 |               | The **weekend**                        |
 
 ### Grammer
 
@@ -270,7 +279,8 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 | C'est **loin d'ici**                   |               | It's **far from** here                             |
 | Tu ne peux pas **tourner** ici         |               | You cannot **turn** here.                          |
 | La troisième **rue**                   |               | The third **street**                               |
-| Tu marches sur la **route**            |               | Do you walk on the **road**?                       |
+| Tu marches **sur** la **route**        |               | Do you walk **on** the **road**?                   |
+| Le chat est **sur** le lit.            |               | The cat is **on the** bed.                         |
 | **Le pont** de Paris                   |               | The **bridge** of Paris                            |
 | **L'immeuble**                         |               | The **apartment building**                         |
 | C'est **très un immeuble intéressant** |               | This is **a very interesting apartment building**. |
@@ -349,6 +359,8 @@ Use infinit verbs:
 
 > - **Est-ce que** tu as un chat?
 >   - Do you have a cat?
+> - **Est-ce que** vous êtes prêts?
+>   - Are you ready?
 > - Qu **est-ce que** tu habites?
 >   - Where do you live?
 > - Qu **est-tu**?

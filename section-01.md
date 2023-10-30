@@ -612,6 +612,7 @@ We use **le**, **la** or **les** when talking about general likes and dislikes:
 | Cette **semaine**                             |               | This **week**                                                    |
 | Tu es **prête**?                              |               | Are you **ready**?                                               |
 | **Tous** les **jours**                        |               | Every day, **all** the **days**                                  |
+| Trois **jours**                               |               | Three days                                                       |
 | **Génial**!                                   |               | **Great**!                                                       |
 | **Sur** les **musées**                        |               | **About** the **museum**                                         |
 | **Sur** le table                              |               | **On** the table                                                 |
