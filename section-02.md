@@ -154,13 +154,6 @@ French adjectives usually come after the noun they're describing.
 
 | Verbs and Words               | Pronunciation          | English                         |
 | ----------------------------- | ---------------------- | ------------------------------- |
-| **Lundi**                     |                        | **Monday**                      |
-| **Mardi**                     |                        | **Tuesday**                     |
-| **Mercredi**                  |                        | **Wednesday**                   |
-| **Jeudi**                     |                        | **Thursday**                    |
-| **Vendredi**                  |                        | **Friday**                      |
-| **Samedi**                    |                        | **Saturday**                    |
-| **Dimanche**                  |                        | **Sunday**                      |
 | *Le croissant* est **bon**    |                        | The **croissant** is **good**   |
 | *Les croissants* est **bons** |                        | The croissant**s** are **good** |
 | *La banane* est **bonne**     |                        | The **banana** is **good**      |
@@ -177,11 +170,12 @@ French adjectives usually come after the noun they're describing.
 | La **vache**                  | /vahsh/                | The **cow**                     |
 
 ### Grammer
-| Demonstrative </br> adjective | Type               | Meaning     | Example                 |
-| ----------------------------- | ------------------ | ----------- | ----------------------- |
-| Ce                            | Masculine          | This/that   | Ce livre </br> Ce homme |
-| Cette                         | Femenine           | This/that   | Cette maison            |
-| Ces                           | Masculine/Femenine | These/those | Ces livres              |
+| Demonstrative </br> adjective | Type                                          | Meaning     | Example                     |
+| ----------------------------- | --------------------------------------------- | ----------- | --------------------------- |
+| Ce                            | Masculine singular                            | This/that   | **Ce** livre </br> Ce homme |
+| Cet                           | Masculine singular being with (a, e, i, o, u) | This/that   | **Cet** **h**ôtel           |
+| Cette                         | Femenine singular                             | This/that   | **Cette** maison            |
+| Ces                           | Masculine/Femenine plural                     | These/those | **Ces** livres              |
 
 > **Ces** *bananes* et **cette** *orange* sont bonnes.
 
@@ -361,6 +355,8 @@ Use infinit verbs:
 >   - Do you have a cat?
 > - **Est-ce que** vous êtes prêts?
 >   - Are you ready?
+> - **Est-ce que** c'est ton valise?
+>   - Is this your car?
 > - Qu **est-ce que** tu habites?
 >   - Where do you live?
 > - Qu **est-tu**?
@@ -399,6 +395,10 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 | Second Person | **te** (to you)      | **vous** (to you)  |
 | Third Person  | **lui** (to him/her) | **leur** (to them) |
 
+**Note:**
+> Leur livre: Their book
+> Leur**s** livre**s**: Their book**s**
+
 ## Unit 7
 *Tell time, form the present tense*
 
@@ -417,29 +417,52 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 ## Unit 8
 *Talk to someone formally, talk about hobbies*
 
+| Verbs and Words         | Pronunciation | English                 |
+| ----------------------- | ------------- | ----------------------- |
+| **Faire de la plongée** |               | **to go scuba diving**? |
+
+### Grammer
+**To do something**
+> **Faire du vélo**: To go biking
+> **Faire la cuisine**: To go cooking
+> **Faire un gàteau**: To go make a cake
+> **Faire du sport**: To do sports
+> **Faire de la plongée**: To go scuba diving
+
 
 ## Unit 9
 *Describe your breakfast, discuss travel plans*
 
 ### Phrases
 
-| Verbs and Words      | Pronunciation | English             |
-| -------------------- | ------------- | ------------------- |
-| Le **frigo**         |               | The **fridge**      |
-| Le **lait**          |               | The **milk**        |
-| Le **sucre**         |               | The **sugar**       |
-| Un **peu** de café   |               | A **little** coffee |
-| Beaucoup de café     |               | A **lot of** coffee |
-| Sel                  |               | **Salt**            |
-| **Trop de sel**      |               | **Too much salt**   |
-| La **salle de bain** |               | The **bathroom**    |
-| Le **cuisine**       |               | The **kitchen**     |
-| Le **beurre**        |               | The **butter**      |
-| Le **miel**          |               | The **honey**       |
-| Le **baguette**      |               | The **baguette**    |
+| Verbs and Words          | Pronunciation | English             |
+| ------------------------ | ------------- | ------------------- |
+| Le **frigo**             |               | The **fridge**      |
+| Le **lait**              |               | The **milk**        |
+| Le **sucre**             |               | The **sugar**       |
+| Un **peu** de café       |               | A **little** coffee |
+| Beaucoup de café         |               | A **lot of** coffee |
+| Sel                      |               | **Salt**            |
+| **Trop de sel**          |               | **Too much salt**   |
+| La **salle de bain**     |               | The **bathroom**    |
+| Le **cuisine**           |               | The **kitchen**     |
+| Le **beurre**            |               | The **butter**      |
+| Le **miel**              |               | The **honey**       |
+| Le **baguette**          |               | The **baguette**    |
+| La semaine **prochaine** |               | The **next** week   |
+| Le **mois** prochaine    |               | The **next** month  |
+| Cet **été**              |               | This **summer**     |
 
 
 ### Grammer
+
+**Going to + Infinit**:
+> **Je vais voyager**: I am going to travel
+> **Tu vas visiter Paris**?: Are you going to visit Paris?
+> **Il va partir la semaine prochaine**: He is going to leave next week
+> **Nous n'allons pas partir**: We are not going to leave
+> **Ils vont aller à une plage près d'ici**: They are going to go the a beach near here
+
 | Subject   | **(Cuisiner)** </br> (to cook) |
 | --------- | ------------------------------ |
 | Je        | **cuisine**                    |
@@ -475,4 +498,40 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 | **L'élève**                               |               | The **student**                     |
 | C'est **lion de** mon hôtel               |               | It's **far from** my hotel          |
 | **Tous les jours**                        |               | **Every day**                       |
+| La **réunion**                            |               | The **meeting**                     |
+| J'ai **besoin** de **temps**              |               | I **need time**                     |
+| **seize salles**                          |               | **sixteen rooms**                   |
+| La **salles seize**                       |               | **room sixteen**                    |
+| Le **chef**                               |               | The **boss**                        |
+| Le **projet**                             |               | The **project**                     |
+| Nous travaillons **sur le projet**        |               | We are working **on the project**   |
+| Je choisis tout                           |               | I choose everything                 |
+| Le **placard**                            |               | The **cupboard** (cabinet)          |
+| Cette **idée**                            |               | This **idea**                       |
 
+### Grammer
+
+| Subject   | **(Choisir)** </br> (to choose) | **(Finir)** </br> (to finish) |
+| --------- | ------------------------------- | ----------------------------- |
+| Je        | **choisis**                     | **finis**                     |
+| Tu        | choisis                         | finis                         |
+| Il/elle   | choisi**t**                     | fini**t**                     |
+| Nous      | choisi**ssons**                 | finis**sons**                 |
+| Vous      | choisi**ssez**                  | finis**sez**                  |
+| Ils/elles | choisi**ssent**                 | finis**sent**                 |
+
+> - Tu manages **quoi**? 
+>   - What are you eating?
+> - C'est **quoi**?
+>   - What is it?
+
+> - **Quel** numéro? *(Masculine Singular)*
+>   - **Which** number?
+> - **Quelle** femme/idée? *(Feminine Singular)*
+>   - **Which** wom**a**n/idea?
+> - **Quels** homme**s**? *(Masculine Plural)*
+>   - **Which** m**e**n?
+> - **Quelles** femme**s**? *(Feminine Plural)*
+>   - **Which** wom**e**n?
+> - Tu choisis quel numéro?
+>   - Which number are you choosing?
