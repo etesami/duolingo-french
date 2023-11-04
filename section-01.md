@@ -15,7 +15,7 @@ Thus, I keep the original version and the new changes are reflected from [sectio
   - [Unit 9: Order food and drink](#unit-9)
 
 ## Unit 1
-
+*Use basic phrases, greet people*
 ### Phrase
 
 | Phrase                                     | Pronunciation              | Meaning                         |
@@ -80,7 +80,7 @@ In French, an accent mark over a letter can make a new sound:
 | French | Example                  |
 | ------ | ------------------------ |
 | j**e** | as in petition           |
-| **é**  | journèe (similar to bay) |
+| **é**  | journée (similar to bay) |
 | **è**  | très /treh/ (as in bet)  |
 
 If the last letter of a word is an **e** without an accent, it is usually silent.
