@@ -18,30 +18,25 @@ Thus, I keep the original version and the new changes are reflected from [sectio
 *Use basic phrases, Greet people*
 ### Phrase
 
-| Phrase                                     | Pronunciation              | Meaning                         |
-| ------------------------------------------ | -------------------------- | ------------------------------- |
-| **Je suis** Marie                          | /ézhuh swee/               | I am Marie                      |
-| **C’est** un **chat**  </br> C`est: Ce est | /say/                      | It’s a cat                      |
-| Un chat **mange**                          | /mãʒ/ </br> /mahzh/        | A cat is eating                 |
-| Paul manage un **croissant**               | /kʁwasɑ̃/ </br> /kwah-sahn/ | Paul is easting a **croissant** |
-| Tu es Marc?                                |                            | Are you Marc?                   |
-| **Non**, Je suis Paul                      |                            | No, I am Paul                   |
-
-> C`est: Ce est
-
-| Phrase                       | Pronunciation  | Meaning                          |
-| ---------------------------- | -------------- | -------------------------------- |
-| Bonjour, **comment çe va**?  |                | Good morning, how are you doing? |
-| **Ça va très bien**, et toi? | /tʁɛ/:/treh/   | I am doing very well, and you?   |
-| Ça va                        |                | I am fine                        |
-| **Au revoir**, Marie         | /oh ruh vwahr/ | Good bye, Marie                  |
-| **Bonne journée**            |                | Have a good day                  |
-| **Bonne soirée**             | /swah-ray/     | Have a good evening              |
-| **Bienvenue**                |                | Welcome                          |
-| Merci **beaucoup**           |                | Thank you very much              |
-| **Â demain**                 | /duh-mahn/     | See you tomorrow                 |
-| **Â bientôt**                | /byehn-toh/    | See you soon                     |
-| **Enchanté**                 |                | Nice to meet you                 |
+| Phrase                                       | Pronunciation              | Meaning                          |
+| -------------------------------------------- | -------------------------- | -------------------------------- |
+| **Je suis** Marie                            | /ézhuh swee/               | I am Marie                       |
+| **C’est** un **chat**  </br> (C`est: Ce est) | /say/                      | It’s a cat                       |
+| Un chat **mange**                            | /mãʒ/ </br> /mahzh/        | A cat is eating                  |
+| Paul manage un **croissant**                 | /kʁwasɑ̃/ </br> /kwah-sahn/ | Paul is easting a **croissant**  |
+| Tu es Marc?                                  |                            | Are you Marc?                    |
+| **Non**, Je suis Paul                        |                            | No, I am Paul                    |
+| Bonjour, **comment çe va**?                  |                            | Good morning, how are you doing? |
+| **Ça va très bien**, et toi?                 | /tʁɛ/:/treh/               | I am doing very well, and you?   |
+| Ça va                                        |                            | I am fine                        |
+| **Au revoir**, Marie                         | /oh ruh vwahr/             | Good bye, Marie                  |
+| **Bonne journée**                            |                            | Have a good day                  |
+| **Bonne soirée**                             | /swah-ray/                 | Have a good evening              |
+| **Bienvenue**                                |                            | Welcome                          |
+| Merci **beaucoup**                           |                            | Thank you very much              |
+| **Â demain**                                 | /duh-mahn/                 | See you tomorrow                 |
+| **Â bientôt**                                | /byehn-toh/                | See you soon                     |
+| **Enchanté**                                 |                            | Nice to meet you                 |
 
 ### Grammar
 
