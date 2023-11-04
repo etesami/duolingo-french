@@ -4,9 +4,9 @@
 Thus, I keep the original version and the new changes are reflected from [section 2](./section-02.md).
 
 - [Duolingo French Course, Section 1](#duolingo-french-course)
-  - [Unit 1: Use basic phrases, greet people](#unit-1)
-  - [Unit 2: Introduce yourself](#unit-2)
-  - [Unit 3: Use the present tense, get around town](#unit-3)
+  - [Unit 1: Use basic phrases, Greet people](#unit-1)
+  - [Unit 2: Introduce yourself, Use the present tense](#unit-2)
+  - [Unit 3: Get around town, Refer to family members](#unit-3)
   - [Unit 4: Refer to family members](#unit-4)
   - [Unit 5: Use the present tense](#unit-5)
   - [Unit 6: Talk about things you do](#unit-6)
@@ -15,7 +15,7 @@ Thus, I keep the original version and the new changes are reflected from [sectio
   - [Unit 9: Order food and drink](#unit-9)
 
 ## Unit 1
-*Use basic phrases, greet people*
+*Use basic phrases, Greet people*
 ### Phrase
 
 | Phrase                                     | Pronunciation              | Meaning                         |
@@ -92,17 +92,27 @@ If the last letter of a word is an **e** without an accent, it is usually silent
 
 
 ## Unit 2
-
+*Introduce yourself, Use the present tense*
 ### Phrase
 
-| Phrase                                  | Pronunciation                   | English                                    |
-| --------------------------------------- | ------------------------------- | ------------------------------------------ |
-| **Excuse-moi**, tu **parles** français? | /fʁɑ̃sɛ/ </br> /frahn-seh/       | Excuse me, do you speak English?           |
-| **Oui**, je suis français               | /wi/:/wee/                      | Yes, I am French                           |
-| Comment **tu** **t**`appelles?          |                                 | What is your name?                         |
-| Je **m**`appelle Julia                  |                                 | My name is Julia                           |
-| Je **parle** espagnol                   | /ɛspaɲɔl/ </br> /ess-pahn-yohl/ | I speack Spanish                           |
-| Je suis américain**e**                  |                                 | I am American (speaker is a woman or girl) |
+| Phrase                                  | Pronunciation                      | English                                    |
+| --------------------------------------- | ---------------------------------- | ------------------------------------------ |
+| **Excuse-moi**, tu **parles** français? | /fʁɑ̃sɛ/ </br> /frahn-seh/          | **Excuse me**, do you **speak** English?   |
+| **Oui**, je suis français               | /wi/:/wee/                         | **Yes**, I am French                       |
+| Comment **tu** **t**`appelles?          |                                    | What is **your** name?                     |
+| Je **m**`appelle Julia                  |                                    | **My** name is Julia                       |
+| Je **parle** espagnol                   | /ɛspaɲɔl/ </br> /ess-pahn-yohl/    | I **speack** Spanish                       |
+| Je suis espagnol                        |                                    | I am Spanish                               |
+| Je suis américain**e**                  |                                    | I am American (speaker is a woman or girl) |
+| J`**étudie** à New York, et toi?        | /ay-ty-dee/                        | I **am studying** in New York and you?     |
+| Marie est **journaliste**               | /ʒuʁnalist/ </br> /zhur-nah-leest/ | Marie is a **journalist**                  |
+| Je **travaille** à Paris                | /trah-vay/                         | I work **in** Paris                        |
+| Je suis **en** Europe                   |                                    | I am **in** Europe                         |
+| Marie **habite** en Italie              | /ah-beet/                          | Marie **lives** in Italy                   |
+| J`**habite** avec Marie                 | /ah-beet/                          | I live with Marie                          |
+| **France**                              |                                    | French (Name of the country)               |
+
+Take a look at the [Cities and Countries page](./Cities-and-countries.md).
 
 ### Grammar
 
@@ -122,57 +132,6 @@ The **s** in verbs above is actually silent.
 
 E.g. What do you (*tu*) call yourself’s name (*t`appelles*)?
 
-### Gender
-
-Feminie adjectives end in **e:**
-
-| French                      | English            |
-| --------------------------- | ------------------ |
-| **Gabriel** est espagnol    | Gabriel is Spanish |
-| **Sarah** est espagnol**e** | Sarah is Spanish   |
-| **Il** est amèricain        | He is American     |
-| **Elle** est amèricain**e** | She is American    |
-
-Sometimes, the extra little **e** changes the sound a little.
-
-
-
-## Unit 3
-
-
-### Phrases
-
-
-| Phrase                           | Pronunciation                                      | English                            |
-| -------------------------------- | -------------------------------------------------- | ---------------------------------- |
-| Marie **habite** en Italie       | /ah-beet/                                          | Marie lives in Italy               |
-| Marie est **journaliste**        | /ʒuʁnalist/ </br> /zhur-nah-leest/                 | Marie is a **journalist**          |
-| J`**étudie** à New York, et toi? | /ay-ty-dee/                                        | I am studying in New York and you? |
-| Je **travaille** à Paris         | /trah-vay/                                         | I work in Paris                    |
-| Je suis **en** Europe            |                                                    | I am in Europe                     |
-| J`**habite** avec Marie          | /ah-beet/                                          | I live with Marie                  |
-| **Ton** appartement              |                                                    | Your apartment                     |
-| Le **Billet**                    |                                                    | The **Ticket**                     |
-| Il **va bien**                   |                                                    | He is doing well                   |
-| J'**aime** la **couleur**        | /kulœʁ/ </br> /koo-luhr/                           | I like the color                   |
-| Je **veux** **cette** veste      | /vø/:/vuh/ </br> /sɛt/:/seht/ </br>  /vɛst/:/vest/ | I **want this** jacket             |
-| **À cent euros**                 |                                                    | At one hundred euros               |
-| Ma **meilleure amie**            | /mɛjœʁ/ </br> /meyeuhr/                            | My **best friend**                 |
-
-| French  | English                 | Example                                                                                                |
-| ------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Tu**  | You                     |                                                                                                        |
-| **Toi** | You (with **emphasis**) | Je parle à **toi**: I am talking to **you**! </br> **Toi**, tu es intelligent: **You**, you are smart! |
-
-| French                                         | Pronunciation                         | Meaning                              |
-| ---------------------------------------------- | ------------------------------------- | ------------------------------------ |
-| **Où** est le restaurant, **s`il vous plaît**? | Où: you without y </br>/sil voo pleh/ | **Where** is the restaurant, please? |
-| Je **vais** à la **gare**                      | /veh/:/gahr/                          | I am going to the train station      |
-| Tu as une **valise**?                          |                                       | Do you have a suitcase?              |
-| Je vais à Paris en **voiture**                 | /vwah-tewr/                           | I am going to Paris by car           |
-| Je **prends** le train et l`**avion**          | /prahn/                               | I am taking the train and the plane  |
-
-### Grammar
 
 Two words exist for ****in****. We use **à** for cities but **en** with many countries.
 
@@ -183,6 +142,51 @@ Two words exist for ****in****. We use **à** for cities but **en** with many co
 | Je travaille **à** Madrid   |
 | Je travaille **en** Espagne |
 
+**Gender**
+
+Feminie adjectives end in **e:**
+
+| French                      | English                                      |
+| --------------------------- | -------------------------------------------- |
+| **Gabriel** est espagnol    | Gabriel is Spanish (Gabriel: Masculine name) |
+| **Sarah** est espagnol**e** | Sarah is Spanish                             |
+| **Il** est amèricain        | He is American                               |
+| **Elle** est amèricain**e** | She is American                              |
+
+Sometimes, the extra little **e** changes the sound a little.
+
+
+
+## Unit 3
+*Get around town, Refer to family members*
+
+### Phrases
+
+
+| Phrase                                         | Pronunciation                                      | English                              |
+| ---------------------------------------------- | -------------------------------------------------- | ------------------------------------ |
+| **Ton** appartement                            |                                                    | Your apartment                       |
+| Le **Billet**                                  |                                                    | The **Ticket**                       |
+| Il **va bien**                                 |                                                    | He is doing well                     |
+| J'**aime** la **couleur**                      | /kulœʁ/ </br> /koo-luhr/                           | I like the color                     |
+| Je **veux** **cette** veste                    | /vø/:/vuh/ </br> /sɛt/:/seht/ </br>  /vɛst/:/vest/ | I **want this** jacket               |
+| **À cent euros**                               |                                                    | At one hundred euros                 |
+| Ma **meilleure amie**                          | /mɛjœʁ/ </br> /meyeuhr/                            | My **best friend**                   |
+| **Où** est le restaurant, **s`il vous plaît**? | Où: you without y </br>/sil voo pleh/              | **Where** is the restaurant, please? |
+| Je **vais** à la **gare**                      | /veh/:/gahr/                                       | I am going to the train station      |
+| Tu as une **valise**?                          |                                                    | Do you have a suitcase?              |
+| Je vais à Paris en **voiture**                 | /vwah-tewr/                                        | I am going to Paris by car           |
+| Je **prends** le train et l`**avion**          | /prahn/                                            | I am taking the train and the plane  |
+
+| French  | English                 | Example                                                                                                |
+| ------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Tu**  | You                     |                                                                                                        |
+| **Toi** | You (with **emphasis**) | Je parle à **toi**: I am talking to **you**! </br> **Toi**, tu es intelligent: **You**, you are smart! |
+
+
+### Grammar
+
+
 #### THE: Le, La, l
 
 | Rule                                             | Example   | Meaning   |
@@ -192,7 +196,7 @@ Two words exist for ****in****. We use **à** for cities but **en** with many co
 | **l**`goes with word started a vowel or silent h | l`homme   | The man   |
 
 
-### Verbs
+#### Verbs
 
 Most verbs change predictably but some do their own thing:
 
