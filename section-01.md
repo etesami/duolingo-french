@@ -1,13 +1,14 @@
 # Duolingo French Course
 
 > :warning: Duolingo changed the order of courses after I finished this section. 
-Thus, I keep the original version and the new changes are reflected from [section 2](./section-02.md).
+Thus, I am re-writing the content to match with the current structure. 
+The content is up-to-date up to Unit 4.
 
 - [Duolingo French Course, Section 1](#duolingo-french-course)
   - [Unit 1: Use basic phrases, Greet people](#unit-1)
   - [Unit 2: Introduce yourself, Use the present tense](#unit-2)
   - [Unit 3: Get around town, Refer to family members](#unit-3)
-  - [Unit 4: Refer to family members](#unit-4)
+  - [Unit 4: Talk about things you do, Form the plural](#unit-4)
   - [Unit 5: Use the present tense](#unit-5)
   - [Unit 6: Talk about things you do](#unit-6)
   - [Unit 7: Form the plural](#unit-7)
@@ -47,7 +48,7 @@ Thus, I keep the original version and the new changes are reflected from [sectio
 | Il/elle/on **est** | He/she/we is |
 | C`est: Ce **est**  | It/this is   |
 
-### Gender
+#### Gender
 
 In French, all nouns are either masculine or feminine. Masculine nouns use ***“*un*”*** and feminine nouns use ***“*une*”***. See the list of masculine and feminine words [here](./Masculine-feminine.md).
 
@@ -137,7 +138,7 @@ Two words exist for ****in****. We use **à** for cities but **en** with many co
 | Je travaille **à** Madrid   |
 | Je travaille **en** Espagne |
 
-**Gender**
+#### Gender
 
 Feminie adjectives end in **e:**
 
@@ -172,6 +173,49 @@ Sometimes, the extra little **e** changes the sound a little.
 | Tu as une **valise**?                          |                                                    | Do you have a suitcase?              |
 | Je vais à Paris en **voiture**                 | /vwah-tewr/                                        | I am going to Paris by car           |
 | Je **prends** le train et l`**avion**          | /prahn/                                            | I am taking the train and the plane  |
+| Ton **père** habite ici?                       | /pɛʁ/:/pehr/                                       | Does your **father** live here?      |
+| **Mon père**                                   |                                                    | **My father**                        |
+| **Mon mari**                                   | /maʁi/:/mah-ree/                                   | **My husband**                       |
+| **Ma femme**                                   |                                                    | **My wife**                          |
+| **Grand-mère**                                 | /ɡʁɑ̃ mɛʁ/ </br> /grahn mehr/                       | **Grandmother**                      |
+| **Ma famille** habite en France                |                                                    | My family lives in France            |
+| **Le mari de Julia** est mexicain              |                                                    | Julia's **husband** is Mexican       |
+| J'ai **un animal de compagnie**                | /kɔ̃paɲi/ </br> /kohm-pah-nyee/                     | I have **a pet**                     |
+| **Est-cs que** (est ce)                        | /ɛskə/ </br> /ess-kuh/                             | **Do you** or **Are you**            |
+| *Est-ce que* **vous** ***travaillez*** ici?    | /tʁavaje/ </br> /trah-vah-yeh/                     | Do **you** work here?                |
+| Mon ***travail***                              | /tʁavaj/ </br> /trah-vahy/                         | My **job/work**                      |
+| Une **chouette**                               | /ʃwɛt/:/shwet/                                     | An owl                               |
+| **Dans**                                       |                                                    | In                                   |
+| **Ètudiant**                                   |                                                    | Student                              |
+| Le fils de Louis et Marc s'appelle Paul        |                                                    | Louis and Marc's son's name is Paul  |
+| La **maison**                                  | /mɛzɔ̃/ </br> /meh-zohn/                            | The **house**                        |
+| Le **jardin**                                  | /ʒaʁdɛ̃/ </br> /zhahr-danh/                         | The **garden**                       |
+| L'**appatement**                               |                                                    | The apartment                        |
+| Alice **veut** une chouette                    | /vœ/:/vuh/                                         | Alice **wants** an owl               |
+| **Ma lune de miel**                            | /lyn/:/leen/ </br>  /mjɛl/:/myell/                 | My honeymoon                         |
+| **Votre** </br> (formal of *ton*)              | /vɔtʁ/ </br> /vohtr/                               | Your                                 |
+| Je suis **désolé**                             | /dezɔle/ </br> /day-zohl-ay/                       | I am sorry                           |
+| Elle es **désolée**                            |                                                    | She is sorry                         |
+| Je **l'aime**                                  | /lɛm/:/leh-m/                                      | I love **her**                       |
+| Je **t**'aime **aussi**                        |                                                    | I love **you** **too**               |
+| **Le médecin**                                 |                                                    | The **doctor**                       |
+| Une femme **élégante**                         | /eleɡɑ̃t/ </br> /eh-leh-gahnt/                      | An elegant women                     |
+| Une **supermarché**                            | /soo-pehr-mahr-shay/                               | A supermarket                        |
+| Une **grande** massion                         |                                                    | A big home                           |
+| Un **grand** garçon                            | /ɡʁɑ̃d/:/grahnd/                                    | A tall boy                           |
+| Un **pantalon**                                | /pɑ̃talɔ̃/ </br> /pahn-tah-loh/                      | A pants                              |
+| **Coûte** très **cher**                        | /kut/:/koot/                                       | It is very expensive                 |
+| **Mais**                                       | /mɛ/:/meh/                                         | But                                  |
+| Un homme **a besoin** d'un mèdecin             | /bəzwɛ̃/ </br> /buh-zwahn/                          | A man needs a doctor                 |
+| Il est très **malade**                         | /malad/ </br> /mah-lahd/                           | He is very sick                      |
+| Il parle a une **autre** femme                 | /otʁ/:/ohtr/                                       | He speaks to an another women        |
+| J'ai **besoin d'aide**                         |                                                    | I need help                          |
+| Je ne **trouve** pass mon passeport            | /tʁuv/:/troov/                                     | I cannot find my passport            |
+| Mon **sac**                                    |                                                    | My bag                               |
+| Ma **veste**                                   |                                                    | My jacket                            |
+| Ce n'est pass possible                         |                                                    | It's not possible                    |
+| ta **main**                                    | /mɛ̃/ </br> /meh~(nasal)/                           | Your hand                            |
+| **Bon voyage**                                 |                                                    | Wish someone a good trip             |
 
 | French  | English                 | Example                                                                                                |
 | ------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -190,6 +234,22 @@ Sometimes, the extra little **e** changes the sound a little.
 | **La** goes with feminine nouns                  | la femme  | The woman |
 | **l**`goes with word started a vowel or silent h | l`homme   | The man   |
 
+#### Mon/Ma, Ton/Ta, Son,Sa
+
+The words like **my** and **your** change based on the gender of the word after them.
+
+| Masculine                        | Feminine                             |
+| -------------------------------- | ------------------------------------ |
+| **Mon** père </br> My father     | **Ma** mère </br> My mother          |
+| **Ton** frère </br> Your brother | **Ta** sœur </br> Your sister        |
+| **Son** fils </br> His/her son   | **Sa** fille  </br> His/her daughter |
+
+Instead of **Marie's cat**, we would switch the word oder and say **le chat de Marie**.
+
+| Phrase               | English     |
+| -------------------- | ----------- |
+| Le chat **de** Marie | Marie's cat |
+| Le chien **d'** Anna | Anna's dog  |
 
 #### Verbs
 
@@ -212,72 +272,12 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 
 
 ## Unit 4
-
+*Talk about things you do, Form the plural*
 
 ### Phrases
 
 
-| Phrase                                      | Pronunciation                      | English                             |
-| ------------------------------------------- | ---------------------------------- | ----------------------------------- |
-| Ton **père** habite ici?                    | /pɛʁ/:/pehr/                       | Does your **father** live here?     |
-| **Mon père**                                |                                    | **My father**                       |
-| **Mon mari**                                | /maʁi/:/mah-ree/                   | **My husband**                      |
-| **Ma femme**                                |                                    | **My wife**                         |
-| **Grand-mère**                              | /ɡʁɑ̃ mɛʁ/ </br> /grahn mehr/       | **Grandmother**                     |
-| **Ma famille** habite en France             |                                    | My family lives in France           |
-| **Le mari de Julia** est mexicain           |                                    | Julia's **husband** is Mexican      |
-| J'ai **un animal de compagnie**             | /kɔ̃paɲi/ </br> /kohm-pah-nyee/     | I have **a pet**                    |
-| **Est-cs que** (est ce)                     | /ɛskə/ </br> /ess-kuh/             | **Do you** or **Are you**           |
-| *Est-ce que* **vous** ***travaillez*** ici? | /tʁavaje/ </br> /trah-vah-yeh/     | Do **you** work here?               |
-| Mon ***travail***                           | /tʁavaj/ </br> /trah-vahy/         | My **job/work**                     |
-| Une **chouette**                            | /ʃwɛt/:/shwet/                     | An owl                              |
-| **Dans**                                    |                                    | In                                  |
-| **Ètudiant**                                |                                    | Student                             |
-| Le fils de Louis et Marc s'appelle Paul     |                                    | Louis and Marc's son's name is Paul |
-| La **maison**                               | /mɛzɔ̃/ </br> /meh-zohn/            | The **house**                       |
-| Le **jardin**                               | /ʒaʁdɛ̃/ </br> /zhahr-danh/         | The **garden**                      |
-| L'**appatement**                            |                                    | The apartment                       |
-| Alice **veut** une chouette                 | /vœ/:/vuh/                         | Alice **wants** an owl              |
-| **Ma lune de miel**                         | /lyn/:/leen/ </br>  /mjɛl/:/myell/ | My honeymoon                        |
-| **Votre** </br> (formal of *ton*)           | /vɔtʁ/ </br> /vohtr/               | Your                                |
-| Je suis **désolé**                          | /dezɔle/ </br> /day-zohl-ay/       | I am sorry                          |
-| Elle es **désolée**                         |                                    | She is sorry                        |
-| Je **l'aime**                               | /lɛm/:/leh-m/                      | I love **her**                      |
-| Je **t**'aime **aussi**                     |                                    | I love **you** **too**              |
-| **Le médecin**                              |                                    | The **doctor**                      |
-| Une femme **élégante**                      | /eleɡɑ̃t/ </br> /eh-leh-gahnt/      | An elegant women                    |
-| Une **supermarché**                         | /soo-pehr-mahr-shay/               | A supermarket                       |
-| Une **grande** massion                      |                                    | A big home                          |
-| Un **grand** garçon                         | /ɡʁɑ̃d/:/grahnd/                    | A tall boy                          |
-| Un **pantalon**                             | /pɑ̃talɔ̃/ </br> /pahn-tah-loh/      | A pants                             |
-| **Coûte** très **cher**                     | /kut/:/koot/                       | It is very expensive                |
-| **Mais**                                    | /mɛ/:/meh/                         | But                                 |
-| Un homme **a besoin** d'un mèdecin          | /bəzwɛ̃/ </br> /buh-zwahn/          | A man needs a doctor                |
-| Il est très **malade**                      | /malad/ </br> /mah-lahd/           | He is very sick                     |
-| Il parle a une **autre** femme              | /otʁ/:/ohtr/                       | He speaks to an another women       |
-| J'ai **besoin d'aide**                      |                                    | I need help                         |
-| Je ne **trouve** pass mon passeport         | /tʁuv/:/troov/                     | I cannot find my passport           |
-| Mon **sac**                                 |                                    | My bag                              |
-| Ma **veste**                                |                                    | My jacket                           |
-| Ce n'est pass possible                      |                                    | It's not possible                   |
-| ta **main**                                 | /mɛ̃/ </br> /meh~(nasal)/           | Your hand                           |
-| **Bon voyage**                              |                                    | Wish someone a good trip            |
-
 ### Grammar
-The words like **my** and **your** change based on the gender of the word after them.
-
-| Masculine                        | Feminine                             |
-| -------------------------------- | ------------------------------------ |
-| **Mon** père </br> My father     | **Ma** mère </br> My mother          |
-| **Ton** frère </br> Your brother | **Ta** sœur </br> Your sister        |
-| **Son** fils </br> His/her son   | **Sa** fille  </br> His/her daughter |
-
-Instead of **Marie's cat**, we would switch the word oder and say **le chat de Marie**.
-
-| Phrase               | English     |
-| -------------------- | ----------- |
-| Le chat **de** Marie | Marie's cat |
-| Le chien **d'** Anna | Anna's dog  |
 
 
 
