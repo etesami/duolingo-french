@@ -5,15 +5,12 @@
   - [Section 02: Explorer](./section-02.md)
   
 ## Unit 1: Rookie
-  - [Unit 1: Use basic phrases, greet people](./section-01.md#unit-1)
-  - [Unit 2: Introduce yourself](./section-01.md#unit-2)
-  - [Unit 3: Use the present tense, get around town](./section-01.md#unit-3)
-  - [Unit 4: Refer to family members](./section-01.md#unit-4)
-  - [Unit 5: Use the present tense](./section-01.md#unit-5)
-  - [Unit 6: Talk about things you do](./section-01.md#unit-6)
-  - [Unit 7: Form the plural](./section-01.md#unit-7)
-  - [Unit 8: Describe your family](./section-01.md#unit-8)
-  - [Unit 9: Order food and drink](./section-01.md#unit-9)
+  - [Unit 1: Use basic phrases, Greet people](./section-01.md#unit-1)
+  - [Unit 2: Introduce yourself, Use the present tense](./section-01.md#unit-2)
+  - [Unit 3: Get around town, Refer to family members](./section-01.md#unit-3)
+  - [Unit 4: Talk about things you do, Form the plural](./section-01.md#unit-4)
+  - [Unit 5: Use the present tense, Describe your family](./section-01.md#unit-5)
+  - [Unit 6: Order food and drink](./section-01.md#unit-6)
 
 ## Unit 2: Explorer
 
