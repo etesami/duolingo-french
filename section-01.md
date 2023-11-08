@@ -1,9 +1,5 @@
 # Duolingo French Course
 
-> :warning: Duolingo changed the order of courses after I finished this section. 
-Thus, I am re-writing the content to match with the current structure. 
-The content is up-to-date up to Unit 4.
-
 - [Duolingo French Course, Section 1](#duolingo-french-course)
   - [Unit 1: Use basic phrases, Greet people](#unit-1)
   - [Unit 2: Introduce yourself, Use the present tense](#unit-2)
@@ -292,7 +288,7 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 | Du **pain** et du **fromage**                 |               | Some **bread** and some **cheese**                           |
 | Du **jambon**                                 |               | Some **ham**                                                 |
 | De la **glace**                               |               | Some **ice**                                                 |
-| Tu as **huit ans **                           |               | You are **eight years old**                                  |
+| Tu as **huit ans**                           |               | You are **eight years old**                                  |
 | Nous avons besoin **d'argent**                |               | We need **the money**                                        |
 | **Pourquoi?**                                 |               | Why?                                                         |
 | **Notre** maison est **petite**               |               | Our house is **small**                                       |
@@ -319,7 +315,7 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 >  of a mass or uncountable noun.
 >
 > "**de**" comes before femenine nouns </br>
-> "**du**" comes before masculine nouns
+> "**du**" comes before masculine nouns </br>
 > "**des**" comes before plural nouns
 > 
 > **Example:** **du** lait et **du** sucre et **de** la glace. Paul écrit **des** messages.
@@ -395,6 +391,7 @@ In French, plural names take an extra **s** at the end, however, the plural **s*
 
 
 ## Unit 5
+*Use the present tense, Describe your family*
 
 ### Phrase
 | Verbs and Words                         | Pronunciation | English                                                   |
@@ -543,6 +540,7 @@ means ***you live*** in English.
 
 
 ## Unit 6
+*Order food and drink*
 
 ### Phrases
 | Verbs and Words                               | Pronunciation | English                                                          |
