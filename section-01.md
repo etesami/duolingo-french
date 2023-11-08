@@ -9,11 +9,8 @@ The content is up-to-date up to Unit 4.
   - [Unit 2: Introduce yourself, Use the present tense](#unit-2)
   - [Unit 3: Get around town, Refer to family members](#unit-3)
   - [Unit 4: Talk about things you do, Form the plural](#unit-4)
-  - [Unit 5: Use the present tense](#unit-5)
-  - [Unit 6: Talk about things you do](#unit-6)
-  - [Unit 7: Form the plural](#unit-7)
-  - [Unit 8: Describe your family](#unit-8)
-  - [Unit 9: Order food and drink](#unit-9)
+  - [Unit 5: Use the present tense, Describe your family](#unit-5)
+  - [Unit 6: Order food and drink](#unit-6)
 
 ## Unit 1
 *Use basic phrases, Greet people*
@@ -276,41 +273,178 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 
 ### Phrases
 
+| Verbs and Words                               | Pronunciation | English                                                      |
+| --------------------------------------------- | ------------- | ------------------------------------------------------------ |
+| Une **chauffeur**                             |               | A driver                                                     |
+| **Maintenant**                                |               | Now                                                          |
+| **Conduit** (verb)                            |               | **Drive**                                                    |
+| **Voilà**                                     |               | Here is/There is                                             |
+| Je **ne** sais **pas**                        |               | I **don't** know.                                            |
+| Ce **n'** est **pas** la gare                 |               | This is not the train station                                |
+| Une **Hôpital**                               |               | A **hospital**                                               |
+| C'est **difficile**                           |               | It's **difficult**                                           |
+| Ils/elles sont **difficiles**                 |               | They're **difficult**                                        |
+| **Ouvre** la **porte**                        |               | **Open** the **door**                                        |
+| **Plats végétarien**                          |               | **Vegetarian dishes**                                        |
+| **Viande**                                    |               | **Meat**                                                     |
+| Le **porc** est **délicieux**                 |               | The **pork** is **delicious**                                |
+| Une **salade** et du **poisson**              |               | A **salad** and some **fishes**                              |
+| Du **pain** et du **fromage**                 |               | Some **bread** and some **cheese**                           |
+| Du **jambon**                                 |               | Some **ham**                                                 |
+| De la **glace**                               |               | Some **ice**                                                 |
+| Tu as **huit ans **                           |               | You are **eight years old**                                  |
+| Nous avons besoin **d'argent**                |               | We need **the money**                                        |
+| **Pourquoi?**                                 |               | Why?                                                         |
+| **Notre** maison est **petite**               |               | Our house is **small**                                       |
+| **Plus de place**                             |               | More space                                                   |
+| la **musique**                                |               | The **music**                                                |
+| la **banque**                                 |               | The **bank**                                                 |
+| la **boulanerie**                             |               | The **bakery**                                               |
+| Les **professeurs**                           |               | The professors                                               |
+| Les femme**s**                                |               | The wom**e**n                                                |
+| Les homme**s**                                |               | The m**e**n                                                  |
+| Un, deux, trios                               |               | One, two, three                                              |
+| On est ici                                    |               | We are here                                                  |
+| **Faciles**                                   |               | **Easy**                                                     |
+| Les chiens **ont besoin** de marcher beaucoup |               | Dogs **need to walk** a lot                                  |
+| La **nourriture** est **chére**               |               | **Food** is **expensive**                                    |
+| C'est joli ici                                |               | It's lovely here                                             |
+| Bon **anniversaire**                          |               | Happy **birthday**                                           |
+| **Votre prénom**                              |               | **Your name**                                                |
+| J'ai très **faim**                            |               | I am very **hungry** </br> *(it's said: I have very hunger)* |
+| Le **short** et des **bottes**                |               | The **short** and **boots**                                  |
 
-### Grammar
 
+> "**du**" is a partitive article that is used to indicate an unspecified or undefined quantity
+>  of a mass or uncountable noun.
+>
+> "**de**" comes before femenine nouns </br>
+> "**du**" comes before masculine nouns
+> "**des**" comes before plural nouns
+> 
+> **Example:** **du** lait et **du** sucre et **de** la glace. Paul écrit **des** messages.
+
+### Grammar 
+
+| Subject   | **(Devoir)** </br> (must) |
+| --------- | ------------------------- |
+| Je        | **dois**                  |
+| Tu        | dois                      |
+| Il/elle   | doit                      |
+| Nous      | d**evons**                |
+| Vous      | d**evez**                 |
+| Ils/elles | **doivent**               |
+
+In French, plural names take an extra **s** at the end, however, the plural **s** is usually silent.
+
+| Singular and Plural           | English          |
+| ----------------------------- | ---------------- |
+| **Il** est étudiant           | He is student    |
+| **Elle** est étudiant**e**    | She is student   |
+| **Elles** sont étudiant**es** | They are student |
+
+| French              |
+| ------------------- |
+| **Les** chien**s**  |
+| **Les** chat**s**   |
+| **Les** garçon**s** |
+| **Les** garçon**s** |
+| **Les** maison**s** |
+
+| French    | Meaning                      |
+| --------- | ---------------------------- |
+| **Ils**   | They (group of men or mixed) |
+| **Elles** | They (group of women)        |
+
+**À** followed by le becomes ***au*** and **À** followed by les becomes ***aux***.
+
+| Rule        | Shortened | Example                                                |
+| ----------- | --------- | ------------------------------------------------------ |
+| **à + le**  | **au**    | Ja vais **au** zoo </br> I am going **to the** zoo     |
+| **à + les** | **aux**   | Il va **aux** toilettes </br> Je parle **aux** enfants |
+
+#### Possessive adjectives
+
+| My      | Our       | Your    | Your (plural) | His/Her | Their     |
+| ------- | --------- | ------- | ------------- | ------- | --------- |
+| **Mon** | **Notre** | **Ton** | **Votre**     | **Son** | **Leur**  |
+| **Ma**  | Notre     | **Ta**  | Votre         | **Sa**  | **Leur**  |
+| **Mes** | **Nos**   | **Tes** | **Vos**       | **Ses** | **Leurs** |
+
+
+| Subject   | **(marcher)** </br> (to walk) | **(jouer)** </br> (to play) |
+| --------- | ----------------------------- | --------------------------- |
+| Je        | **Marche**                    | **Joue**                    |
+| Tu        | Marche**s**                   | Joue**s**                   |
+| Il/elle   | Marche                        | Joue                        |
+| Nous      | March**ons**                  | Jou**ons**                  |
+| Vous      | March**ez**                   | Jou**ez**                   |
+| Ils/elles | March**ent**                  | Jou**ent**                  |
+
+| Your    | Our       | Example           |                     |
+| ------- | --------- | ----------------- | ------------------- |
+| **Ton** | **Notre** | **Ton** livre     | singular, masculine |
+| **Ta**  | Notre     | **Ta** maison     | singular, feminine  |
+| **Tes** | **Nos**   | **Tes** vêtements | plural              |
+
+| Phrase              | Meaning         |                     |
+| ------------------- | --------------- | ------------------- |
+| **Le** chocolat     | The chocolate   | singular, masculine |
+| **La**  maison      | The house       | singular, feminine  |
+| **Les** restaurants | The restaurants | plural              |
 
 
 ## Unit 5
 
 ### Phrase
-| Verbs and Words                     | Pronunciation | English                                                   |
-| ----------------------------------- | ------------- | --------------------------------------------------------- |
-| Une **Aime**                        |               | A friend                                                  |
-| **Aimer**                           |               | To like                                                   |
-| **Lire**                            |               | To read                                                   |
-| **Habiter**                         |               | To live                                                   |
-| **Manger**                          |               | To eat (not a regular *"-er"* verb)                       |
-| **Étudier**                         |               | To study                                                  |
-| **Avoir**                           |               | To have (not a regular *"-er"*, *"-ir"*, or *"-re"* verb) |
-| **L'école**                         |               | The school                                                |
-| **Le parc**                         |               | The park                                                  |
-| **au** </br> *à (to,at) + le (the)* |               | At the                                                    |
-| **Deux**                            |               | Two                                                       |
-| **Sais** (savoir)                   |               | **know** (to know) </br> (verb)                           |
-| Le **nouvel** étudiant              |               | The **new** studient                                      |
-| La nouvel**le** maison              |               | The **new** house                                         |
-| **Il y** a un étudiant              |               | **There is** a studient                                   |
-| la **classe**                       |               | The **class**                                             |
-| Il **écrit des livers**             |               | He **writes some books**                                  |
-| Très **intéressant**                |               | Very **interesting**                                      |
-| Il a de **beaux vêtements**         |               | It has beautiful **cloths**                               |
-| **Derrrière**                       |               | **Behind**                                                |
-| Un **magasin**                      |               | A **store**                                               |
-| Vous **préférex** le **sac rouge**  |               | Do you **prefer** the **red bag**?                        |
-| Le sac **blanc**                    |               | The **while** bag                                         |
-| **Beau**                            |               | **Beautifil**                                             |
-| Je **paye** où?                     |               | Where should I pay?                                       |
+| Verbs and Words                         | Pronunciation | English                                                   |
+| --------------------------------------- | ------------- | --------------------------------------------------------- |
+| Une **Aime**                            |               | A friend                                                  |
+| **Aimer**                               |               | To like                                                   |
+| **Lire**                                |               | To read                                                   |
+| **Habiter**                             |               | To live                                                   |
+| **Manger**                              |               | To eat (not a regular *"-er"* verb)                       |
+| **Étudier**                             |               | To study                                                  |
+| **Avoir**                               |               | To have (not a regular *"-er"*, *"-ir"*, or *"-re"* verb) |
+| **L'école**                             |               | The school                                                |
+| **Le parc**                             |               | The park                                                  |
+| **au** </br> *à (to,at) + le (the)*     |               | At the                                                    |
+| **Deux**                                |               | Two                                                       |
+| **Sais** (savoir)                       |               | **know** (to know) </br> (verb)                           |
+| Le **nouvel** étudiant                  |               | The **new** studient                                      |
+| La nouvel**le** maison                  |               | The **new** house                                         |
+| **Il y** a un étudiant                  |               | **There is** a studient                                   |
+| la **classe**                           |               | The **class**                                             |
+| Il **écrit des livers**                 |               | He **writes some books**                                  |
+| Très **intéressant**                    |               | Very **interesting**                                      |
+| Il a de **beaux vêtements**             |               | It has beautiful **cloths**                               |
+| **Derrrière**                           |               | **Behind**                                                |
+| Un **magasin**                          |               | A **store**                                               |
+| Vous **préférex** le **sac rouge**      |               | Do you **prefer** the **red bag**?                        |
+| Le sac **blanc**                        |               | The **while** bag                                         |
+| **Beau**                                |               | **Beautifil**                                             |
+| Je **paye** où?                         |               | Where should I pay?                                       |
+| Il est **amusant**                      |               | He is **funny**                                           |
+| Elle est amusant**e**                   |               | She is funny                                              |
+| Elle est **contente**                   |               | She is happy                                              |
+| Est-ce que tu aimes **le** français?    |               | Do you like French?                                       |
+| **Qu'est-ce que** vous **voulez** ?     |               | What do you want? </br> *Qu'est-ce que: what*             |
+| Vous voulez **quelque chose** ?         | /kelk shoz/   | You need **something**?                                   |
+| **Mes** parent**s** sont américain**s** |               | My parents are American                                   |
+| **Mes** sœur**s**                       |               | My sisters                                                |
+| **Mes** frére**s**                      |               | My brothers                                               |
+| **Ce sont** mes filles                  |               | **These are** my doughters                                |
+| Tu as beaucoup de **vêtements** violets |               | You have a lot of purple **Clothes**                      |
+| **Regarder**, regarde                   |               | **To look/watch** (verb), watche                          |
+| **Veste**                               |               | **Jacket**                                                |
+| **Chapeaux**                            |               | **Hat**                                                   |
+| Le **soleil**                           |               | The **sun**                                               |
+| Des **lunettle** de soleil **rouges**   |               | **Red Sunglasses**                                        |
+| **Ville**                               |               | **Town**                                                  |
+| Je n'aime pas                           |               | I don't like                                              |
+| **Où** sont les toilettes ?             |               | **Where** is the restrooms?                               |
+| du **sucre** et du **lait**             |               | **Some suger** and some **milk**                          |
+
 
 | possessive adjectives | English                               |
 | --------------------- | ------------------------------------- |
@@ -319,6 +453,18 @@ If a verb begins with a vowel be sure to change **"je"** to **"j`"**:
 | **Tes** vêtements     | Your cloths </br> (plural)            |
 
 > Note: ***"pas"*** is used with ***"ne"*** to form negative sentences in French. It is placed after the verb and before other words or phrases in the sentence to create a negative statement. 
+
+We use **le**, **la** or **les** when talking about general likes and dislikes:
+| Example                               |
+| ------------------------------------- |
+| La femme est contente                 |
+| **Les** femme**s** sont contente**s** |
+
+
+| Example                          |
+| -------------------------------- |
+| Il aime **le** chocolat          |
+| Tu aimes **les** restaurant**s** |
 
 ### Grammar
 
@@ -379,9 +525,6 @@ follow the regular ***"-er"*** verb pattern.
 | Ils/elles | voyage**nt**                    | étudie**nt**                   | peu**vent**               |
 
 
-
-
-
 #### Examples
 | Phrase                            | Meaning           |
 | --------------------------------- | ----------------- |
@@ -399,189 +542,8 @@ inverting the subject pronoun and the verb, with a hyphen (-) connecting them.
 means ***you live*** in English.
 
 
-
-
-
 ## Unit 6
 
-### Phrases
-
-| Verbs and Words                  | Pronunciation | English                            |
-| -------------------------------- | ------------- | ---------------------------------- |
-| Une **chauffeur**                |               | A driver                           |
-| **Maintenant**                   |               | Now                                |
-| **Conduit** (verb)               |               | **Drive**                          |
-| **Voilà**                        |               | Here is/There is                   |
-| Je **ne** sais **pas**           |               | I **don't** know.                  |
-| Ce **n'** est **pas** la gare    |               | This is not the train station      |
-| Une **Hôpital**                  |               | A **hospital**                     |
-| C'est **difficile**              |               | It's **difficult**                 |
-| Ils/elles sont **difficiles**    |               | They're **difficult**              |
-| **Ouvre** la **porte**           |               | **Open** the **door**              |
-| **Plats végétarien**             |               | **Vegetarian dishes**              |
-| **Viande**                       |               | **Meat**                           |
-| Le **porc** est **délicieux**    |               | The **pork** is **delicious**      |
-| Une **salade** et du **poisson** |               | A **salad** and some **fishes**    |
-| Du **pain** et du **fromage**    |               | Some **bread** and some **cheese** |
-| Du **jambon**                    |               | Some **ham**                       |
-| De la **glace**                  |               | Some **ice**                       |
-| Tu as **huit ans **              |               | You are **eight years old**        |
-| Nous avons besoin **d'argent**   |               | We need **the money**              |
-| **Pourquoi?**                    |               | Why?                               |
-| **Notre** maison est **petite**  |               | Our house is **small**             |
-| **Plus de place**                |               | More space                         |
-| la **musique**                   |               | The **music**                      |
-| la **banque**                    |               | The **bank**                       |
-| la **boulanerie**                |               | The **bakery**                     |
-
-> "**du**" is a partitive article that is used to indicate an unspecified or undefined quantity
->  of a mass or uncountable noun.
->
-> "**de**" comes before femenine nouns </br>
-> "**du**" comes before masculine nouns
-> "**des**" comes before plural nouns
-> 
-> **Example:** **du** lait et **du** sucre et **de** la glace. Paul écrit **des** messages.
-
-### Grammar 
-
-| Subject   | **(Devoir)** </br> (must) |
-| --------- | ------------------------- |
-| Je        | **dois**                  |
-| Tu        | dois                      |
-| Il/elle   | doit                      |
-| Nous      | d**evons**                |
-| Vous      | d**evez**                 |
-| Ils/elles | **doivent**               |
-
-#### Possessive adjectives
-
-| Your    | Our       | Example           |                     |
-| ------- | --------- | ----------------- | ------------------- |
-| **Ton** | **Notre** | **Ton** livre     | singular, masculine |
-| **Ta**  | Notre     | **Ta** maison     | singular, feminine  |
-| **Tes** | **Nos**   | **Tes** vêtements | plural              |
-
-| Phrase              | Meaning         |                     |
-| ------------------- | --------------- | ------------------- |
-| **Le** chocolat     | The chocolate   | singular, masculine |
-| **La**  maison      | The house       | singular, feminine  |
-| **Les** restaurants | The restaurants | plural              |
-
-
-
-## Unit 7
-
-### Phrases
-
-| Verbs and Words                               | Pronunciation | English                                                      |
-| --------------------------------------------- | ------------- | ------------------------------------------------------------ |
-| Les **professeurs**                           |               | The professors                                               |
-| Les femme**s**                                |               | The wom**e**n                                                |
-| Les homme**s**                                |               | The m**e**n                                                  |
-| Un, deux, trios                               |               | One, two, three                                              |
-| On est ici                                    |               | We are here                                                  |
-| **Faciles**                                   |               | **Easy**                                                     |
-| Les chiens **ont besoin** de marcher beaucoup |               | Dogs **need to walk** a lot                                  |
-| La **nourriture** est **chére**               |               | **Food** is **expensive**                                    |
-| C'est joli ici                                |               | It's lovely here                                             |
-| Bon **anniversaire**                          |               | Happy **birthday**                                           |
-| **Votre prénom**                              |               | **Your name**                                                |
-| J'ai très **faim**                            |               | I am very **hungry** </br> *(it's said: I have very hunger)* |
-| Le **short** et des **bottes**                |               | The **short** and **boots**                                  |
-
-
-### Grammar 
-In French, plural names take an extra **s** at the end, however, the plural **s** is usually silent.
-
-| Singular and Plural           | English          |
-| ----------------------------- | ---------------- |
-| **Il** est étudiant           | He is student    |
-| **Elle** est étudiant**e**    | She is student   |
-| **Elles** sont étudiant**es** | They are student |
-
-| French              |
-| ------------------- |
-| **Les** chien**s**  |
-| **Les** chat**s**   |
-| **Les** garçon**s** |
-| **Les** garçon**s** |
-| **Les** maison**s** |
-
-| French    | Meaning                      |
-| --------- | ---------------------------- |
-| **Ils**   | They (group of men or mixed) |
-| **Elles** | They (group of women)        |
-
-**À** followed by le becomes ***au*** and **À** followed by les becomes ***aux***.
-
-| Rule        | Shortened | Example                                                |
-| ----------- | --------- | ------------------------------------------------------ |
-| **à + le**  | **au**    | Ja vais **au** zoo </br> I am going **to the** zoo     |
-| **à + les** | **aux**   | Il va **aux** toilettes </br> Je parle **aux** enfants |
-
-#### Possessive adjectives
-
-| My      | Our       | Your    | Your (plural) | His/Her | Their     |
-| ------- | --------- | ------- | ------------- | ------- | --------- |
-| **Mon** | **Notre** | **Ton** | **Votre**     | **Son** | **Leur**  |
-| **Ma**  | Notre     | **Ta**  | Votre         | **Sa**  | **Leur**  |
-| **Mes** | **Nos**   | **Tes** | **Vos**       | **Ses** | **Leurs** |
-
-
-| Subject   | **(marcher)** </br> (to walk) | **(jouer)** </br> (to play) |
-| --------- | ----------------------------- | --------------------------- |
-| Je        | **Marche**                    | **Joue**                    |
-| Tu        | Marche**s**                   | Joue**s**                   |
-| Il/elle   | Marche                        | Joue                        |
-| Nous      | March**ons**                  | Jou**ons**                  |
-| Vous      | March**ez**                   | Jou**ez**                   |
-| Ils/elles | March**ent**                  | Jou**ent**                  |
-
-
-## Unit 8
-
-### Phrases
-| Verbs and Words                         | Pronunciation | English                                       |
-| --------------------------------------- | ------------- | --------------------------------------------- |
-| Il est **amusant**                      |               | He is **funny**                               |
-| Elle est amusant**e**                   |               | She is funny                                  |
-| Elle est **contente**                   |               | She is happy                                  |
-| Est-ce que tu aimes **le** français?    |               | Do you like French?                           |
-| **Qu'est-ce que** vous **voulez** ?     |               | What do you want? </br> *Qu'est-ce que: what* |
-| Vous voulez **quelque chose** ?         | /kelk shoz/   | You need **something**?                       |
-| **Mes** parent**s** sont américain**s** |               | My parents are American                       |
-| **Mes** sœur**s**                       |               | My sisters                                    |
-| **Mes** frére**s**                      |               | My brothers                                   |
-| **Ce sont** mes filles                  |               | **These are** my doughters                    |
-| Tu as beaucoup de **vêtements** violets |               | You have a lot of purple **Clothes**          |
-| **Regarder**, regarde                   |               | **To look/watch** (verb), watche              |
-| **Veste**                               |               | **Jacket**                                    |
-| **Chapeaux**                            |               | **Hat**                                       |
-| Le **soleil**                           |               | The **sun**                                   |
-| Des **lunettle** de soleil **rouges**   |               | **Red Sunglasses**                            |
-| **Ville**                               |               | **Town**                                      |
-| Je n'aime pas                           |               | I don't like                                  |
-| **Où** sont les toilettes ?             |               | **Where** is the restrooms?                   |
-| du **sucre** et du **lait**             |               | **Some suger** and some **milk**              |
-
-
-We use **le**, **la** or **les** when talking about general likes and dislikes:
-| Example                               |
-| ------------------------------------- |
-| La femme est contente                 |
-| **Les** femme**s** sont contente**s** |
-
-
-| Example                          |
-| -------------------------------- |
-| Il aime **le** chocolat          |
-| Tu aimes **les** restaurant**s** |
-
-
-
-
-## Unit 9
 ### Phrases
 | Verbs and Words                               | Pronunciation | English                                                          |
 | --------------------------------------------- | ------------- | ---------------------------------------------------------------- |
