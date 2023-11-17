@@ -1,39 +1,58 @@
 # Duolingo French Course
 
-> :warning: Duolingo changed the order of courses when I was at the middle of this section (**unit 17**). 
-Thus, I keep the original structure for now and follow the new style, starting from **unit 7**.
-
 - [Duolingo French Course, Section 2](#duolingo-french-course)
-  <!-- 
   - [Unit 1: Use gender and number agreement, Discuss destinations](#unit-1)
   - [Unit 2: Describe your home, Describe where you work](#unit-2)
   - [Unit 3: Talk about food, Use gender and number agreement](#unit-3)
   - [Unit 4: Use the present tense, Shop for clothes](#unit-4)
   - [Unit 5: Exchange personal information, Use the infinitive](#unit-5)
   - [Unit 6: Ask people about themselves, Ask questions](#unit-6)
-  -->
-  - [Unit 10: Use gender and number agreement](#unit-10)
+  <!-- - [Unit 10: Use gender and number agreement](#unit-10)
   - [Unit 11: Discuss destinations, describe your home](#unit-11)
   - [Unit 12: Describe where you work](#unit-12)
   - [Unit 13: Use gender and number agreement, talk about food](#unit-13)
   - [Unit 14: Use the present tense, shop for clothes](#unit-14)
   - [Unit 15: Exchange personal information](#unit-15)
   - [Unit 16: Use the infinitive, ask people about themselves](#unit-16)
-  - [Unit 17: Ask questions](#unit-17)
+  - [Unit 17: Ask questions](#unit-17) -->
   - [Unit 7: Tell time, form the present tense](#unit-7)
   - [Unit 8: Talk to someone formally, talk about hobbies](#unit-8)
   - [Unit 9: Describe your breakfast, discuss travel plans](#unit-9)
   - [Unit 10: Talk about school, share work schedules](#unit-10)
 
 
-## Unit 10
-Take a look at [possessive adjectives](#possessive-adjectives-1) one more time.
+## Unit 1
+*Use gender and number agreement, Discuss destinations*
 
-| Verbs and Words               | Pronunciation | English                             |
-| ----------------------------- | ------------- | ----------------------------------- |
-| La femme et **ses** bébé**s** |               | The wom**a** and **her** bab**ies** |
+### Phrases
+
+| Verbs and Words                 | Pronunciation | English                          |
+| ------------------------------- | ------------- | -------------------------------- |
+| Le **Vacance**                  |               | **Vacation**                     |
+| Un **pays**                     |               | A **country**                    |
+| Je **visite**                   |               | I am **visiting**                |
+| Les **États-Unis**              |               | the **United States**            |
+| Pedro **aime beaucoup** voyager |               | Pedro **really likes** traveling |
+| **Musée**                       |               | **Museum**                       |
+| La **plage**                    |               | The **beach**                    |
+| L'**église**                    |               | The **church**                   |
+| Le **château**                  |               | The **castle**                   |
+| Il **aime beaucoup voyager**    |               | He **really like travelling**    |
+
 
 ### Grammar
+
+**Possessive Adjectives**:
+
+Take a look at [possessive adjectives](#possessive-adjectives-1) one more time.
+
+| Verbs and Words               | Pronunciation | English                              |
+| ----------------------------- | ------------- | ------------------------------------ |
+| La femme et **ses** bébé**s** |               | The wom**a**n and **her** bab**ies** |
+
+
+**Adjectives**:
+
 French adjectives usually come after the noun they're describing. 
 
 | French                                 | English                              |
@@ -60,22 +79,16 @@ French adjectives usually come after the noun they're describing.
 | Elle habit **aux** États-Unis        | She lives **in** United States.       |
 
 
-## Unit 11
+
+
+
+## Unit 2
+*Describe your home, Describe where you work*
 
 ### Phrases
 | Verbs and Words                          | Pronunciation | English                                 |
 | ---------------------------------------- | ------------- | --------------------------------------- |
-| Le **Vacance**                           |               | **Vacation**                            |
-| Un **pays**                              |               | A **country**                           |
-| Je **visite**                            |               | I am **visiting**                       |
-| Les **États-Unis**                       |               | the **United States**                   |
-| Pedro **aime beaucoup** voyager          |               | Pedro **really likes** traveling        |
-| **Musée**                                |               | **Museum**                              |
-| La **plage**                             |               | The **beach**                           |
-| L'**église**                             |               | The **church**                          |
-| Le **château**                           |               | The **castle**                          |
-| Il **aime beaucoup voyager**             |               | He **really like travelling**           |
-| Une pizza **pour** moi **aussi**         |               | A piiza **for** me **too**              |
+| Une pizza **pour** moi **aussi**         |               | A pizza **for** me **too**              |
 | **également**                            |               | **too** (aussi)                         |
 | **Toilette**                             |               | **Restroom**                            |
 | **Aujourd'hui** et demain                |               | **Today** and tomorrow                  |
@@ -87,6 +100,13 @@ French adjectives usually come after the noun they're describing.
 | Tes **voisins** sont **gentils**         |               | Your **neighbors** are **kind**         |
 | Un **arbre**                             |               | A **tree**                              |
 | Une **lettre**                           |               | A **letter**                            |
+| L'**usine**                              |               | The **factory**                         |
+| Elles **travaillent à** l'usine          |               | They **work at** the factory            |
+| Un **métier**                            |               | An **occupation**                       |
+| Ma **collègue**                          |               | My **colleague**                        |
+| Le **bureau**                            | /byuh-roh/    | The **office**                          |
+| Un **chauffeur**                         | /shoh-feur/   | A **driver**                            |
+| Tu es **au** travail?                    |               | Are you **at (the)** work?              |
 
 
 
@@ -113,28 +133,35 @@ French adjectives usually come after the noun they're describing.
 
 
 
-
-## Unit 12
+## Unit 3
+*Talk about food, Use gender and number agreement*
 
 ### Phrases
 
-| Verbs and Words                 | Pronunciation | English                            |
-| ------------------------------- | ------------- | ---------------------------------- |
-| L'**usine**                     |               | The **factory**                    |
-| Elles **travaillent à** l'usine |               | They **work at** the factory       |
-| Un **métier**                   |               | An **occupation**                  |
-| Ma **collègue**                 |               | My **colleague**                   |
-| Le **bureau**                   | /byuh-roh/    | The **office**                     |
-| Un **chauffeur**                | /shoh-feur/   | A **driver**                       |
-| Tu es **au** travail?           |               | Are you **at (the)** work?         |
-| Elle habite **aux** États-unis  |               | She lives **in the** United States |
-| Un **stylo**                    |               | A **pen**                          |
-| L`**ordinateur**                |               | The **computer**                   |
-| Le **portable**                 |               | The **cell phone**                 |
-| Le **téléphone**                |               | The **telephone**                  |
-| Le **numéro** de portable       |               | The cell phone **number**          |
-| **Venir**                       |               | **To come**                        |
-| **Utilise**                     |               | **To use**                         |
+| Verbs and Words                | Pronunciation          | English                            |
+| ------------------------------ | ---------------------- | ---------------------------------- |
+| Elle habite **aux** États-unis |                        | She lives **in the** United States |
+| Un **stylo**                   |                        | A **pen**                          |
+| L`**ordinateur**               |                        | The **computer**                   |
+| Le **portable**                |                        | The **cell phone**                 |
+| Le **téléphone**               |                        | The **telephone**                  |
+| Le **numéro** de portable      |                        | The cell phone **number**          |
+| **Venir**                      |                        | **To come**                        |
+| **Utilise**                    |                        | **To use**                         |
+| Le **déjeuner**                |                        | The **lunch**                      |
+| Le **dîner**                   |                        | The **dinner**                     |
+| L'**œuf**                      | /uhf/                  | The **egg**                        |
+| Ce **matin**                   |                        | This **morning**                   |
+| Ce **gâteau**                  | /ga-toh/               | This **cake**                      |
+| Ce **repas**                   | /ruh-pah/              | This **meal**                      |
+| Le **fruit**                   |                        | The **fruit**                      |
+| Le **légume**                  | /leh-gyoom/            | The **vegetable**                  |
+| La **vache**                   | /vahsh/                | The **cow**                        |
+| Le **petit déjeuner**          | /puh-tee day-zhuh-nay/ | The **breakfast**                  |
+| *Le croissant* est **bon**     |                        | The **croissant** is **good**      |
+| *Les croissants* est **bons**  |                        | The croissant**s** are **good**    |
+| *La banane* est **bonne**      |                        | The **banana** is **good**         |
+| *Les bananes* est **bonnes**   |                        | The banana**s** are **good**       |
 
 ### Grammer
 
@@ -148,26 +175,26 @@ French adjectives usually come after the noun they're describing.
 | Ils/elles | écri**vent**                 | travaill**ent**                  |
 
 
-## Unit 13
+
+
+
+## Unit 4
+*Use the present tense, Shop for clothes*
 
 ### Phrases
 
-| Verbs and Words               | Pronunciation          | English                         |
-| ----------------------------- | ---------------------- | ------------------------------- |
-| *Le croissant* est **bon**    |                        | The **croissant** is **good**   |
-| *Les croissants* est **bons** |                        | The croissant**s** are **good** |
-| *La banane* est **bonne**     |                        | The **banana** is **good**      |
-| *Les bananes* est **bonnes**  |                        | The banana**s** are **good**    |
-| Le **petit déjeuner**         | /puh-tee day-zhuh-nay/ | The **breakfast**               |
-| Le **déjeuner**               |                        | The **lunch**                   |
-| Le **dîner**                  |                        | The **dinner**                  |
-| L'**œuf**                     | /uhf/                  | The **egg**                     |
-| Ce **matin**                  |                        | This **morning**                |
-| Ce **gâteau**                 | /ga-toh/               | This **cake**                   |
-| Ce **repas**                  | /ruh-pah/              | This **meal**                   |
-| Le **fruit**                  |                        | The **fruit**                   |
-| Le **légume**                 | /leh-gyoom/            | The **vegetable**               |
-| La **vache**                  | /vahsh/                | The **cow**                     |
+| Verbs and Words                | Pronunciation | English                             |
+| ------------------------------ | ------------- | ----------------------------------- |
+| Une **robe**                   |               | A **dress**                         |
+| Une **jope**                   |               | A **skirt**                         |
+| **Coûte**                      | /koot/        | To cost                             |
+| **Ça coûte combien**?          |               | **How much does it cost**?          |
+| **C'est combien**?             |               | **How much is it**?                 |
+| **Combien coûte** cette veste? |               | **How much** does this jacket cost? |
+| Ce sac coûte sept euros.       |               | This bag costs seven euros.         |
+| La robe coûte cinq euros       |               | The dess costs five euros           |
+| Tu **achétes** des vêtements?  |               | Are you **buying** clothes?         |
+
 
 ### Grammer
 | Demonstrative </br> adjective | Type                                          | Meaning     | Example                     |
@@ -188,39 +215,37 @@ French adjectives usually come after the noun they're describing.
 | Vous      | pren**ez**                            |
 | Ils/elles | pren**nent**                          |
 
-## Unit 14
+
+
+
+
+## Unit 5
+*Exchange personal information, Use the infinitive*
 
 ### Phrases
 
-| Verbs and Words                 | Pronunciation | English                                |
-| ------------------------------- | ------------- | -------------------------------------- |
-| Une **robe**                    |               | A **dress**                            |
-| Une **jope**                    |               | A **skirt**                            |
-| **Coûte**                       | /koot/        | To cost                                |
-| Je **dors** beaucoup.           |               | I sleep a lot.                         |
-| La maison **du** voisin         |               | The home **of the** neighbour          |
-| **Le soir** et **la nuit**      |               | The **evening** and the **night**      |
-| **Ce soir**                     |               | **Tonight**                            |
-| **Vendredi soir**               |               | **Friday evening**                     |
-| **Ça coûte combien**?           |               | **How much does it cost**?             |
-| **C'est combien**?              |               | **How much is it**?                    |
-| **Combien coûte** cette veste?  |               | **How much** does this jacket cost?    |
-| Ce sac coûte sept euros.        |               | This bag costs seven euros.            |
-| La robe coûte cinq euros        |               | The dess costs five euros              |
-| Tu **achétes** des vêtements?   |               | Are you **buying** clothes?            |
-| La **télé**                     |               | The **TV**                             |
-| **Chaque matin**                |               | **Every morning**                      |
-| **Chaque jour**                 |               | **Every day**                          |
-| Un **après midi**               |               | An **afternoon**                       |
-| L'**enfant**                    |               | The **child**                          |
-| Le **journal**                  |               | The **newspaper**                      |
-| Trés **souvent**                |               | Very **often**                         |
-| Le **lit**                      |               | The **bed**                            |
-| **Parfois**                     |               | **Sometimes**                          |
-| **Parfois** il écoute la radio. |               | **Sometimes** he listens to the radio. |
-| Je **écoute** la radio.         |               | I **listen** to the radio.             |
-| Ma femme **lit toute** la nuit. |               | My wife **reads all** night.           |
-| Le **week-end**                 |               | The **weekend**                        |
+| Verbs and Words                  | Pronunciation | English                                   |
+| -------------------------------- | ------------- | ----------------------------------------- |
+| Je **dors** beaucoup.            |               | I sleep a lot.                            |
+| La maison **du** voisin          |               | The home **of the** neighbour             |
+| **Le soir** et **la nuit**       |               | The **evening** and the **night**         |
+| **Ce soir**                      |               | **Tonight**                               |
+| **Vendredi soir**                |               | **Friday evening**                        |
+| La **télé**                      |               | The **TV**                                |
+| **Chaque matin**                 |               | **Every morning**                         |
+| **Chaque jour**                  |               | **Every day**                             |
+| Un **après midi**                |               | An **afternoon**                          |
+| L'**enfant**                     |               | The **child**                             |
+| Le **journal**                   |               | The **newspaper**                         |
+| Trés **souvent**                 |               | Very **often**                            |
+| Le **lit**                       |               | The **bed**                               |
+| **Parfois**                      |               | **Sometimes**                             |
+| **Parfois** il écoute la radio.  |               | **Sometimes** he listens to the radio.    |
+| Je **écoute** la radio.          |               | I **listen** to the radio.                |
+| Ma femme **lit toute** la nuit.  |               | My wife **reads all** night.              |
+| Le **week-end**                  |               | The **weekend**                           |
+| Tu dois **rentrer** **chez** toi |               | You have to **go back** to your **place** |
+| Tu dois **rentrer**              |               | I have to **go home**                     |
 
 ### Grammer
 
@@ -258,7 +283,28 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 > **des** could be used to indicate **some** quantity of something (see also [unit 6](#unit-6)): 
 > **Example:** Paul écrit **des** messages: Paul is writing **some** messages
 
-## Unit 15
+
+**Use infinit verbs:**
+
+- J'aime **habiter** à Paris
+- Je veux **visiter** ce lieu
+- Je dois **tourner** à gauche
+
+| Subject   | **(Rentrer)** </br> (to go back) | **(Sortir)** </br> (to go out/leave) |
+| --------- | -------------------------------- | ------------------------------------ |
+| Je        | **rentre**                       | **sors**                             |
+| Tu        | rentres                          | sors                                 |
+| Il/elle   | rentre                           | sort                                 |
+| Nous      | rentre**ons**                    | sort**ons**                          |
+| Vous      | rentre**z**                      | sort**ez**                           |
+| Ils/elles | rentre**nt**                     | sort**ent**                          |
+
+
+
+
+
+## Unit 6
+*Ask people about themselves, Ask questions*
 
 ### Phrases
 
@@ -281,6 +327,16 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 | La première rue **à gauche**           |               | The first streen **on the left**                   |
 | **à droite**                           |               | **to the right**                                   |
 | Un homme **mariè**                     |               | A **married** man                                  |
+| Tu **as** onze **ans**                 |               | You **are** eleven **years old**                   |
+| **Quel âge as-tu**?                    |               | **How old are you?**                               |
+| Ce **lieu**                            |               | This **place**                                     |
+| Je suis **devant** l'hôtel             |               | I am **in front of** the hotel                     |
+| Une route **dangereuse**               |               | A **dangerous** route                              |
+| Un lieu **dangereux**                  |               | A **dangerous** place                              |
+| Je **sors** de chez moi                |               | I am **leaving** of my place                       |
+| Je veux **sortir**                     |               | I want to **leave**                                |
+| Deux **chambres**                      |               | Two **bedrooms**                                   |
+| Un **problème**                        |               | A problem                                          |
 
 ### Grammar
 
@@ -296,49 +352,6 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 > - **Quel** âge **as-tu**?
 >   - How old are you? 
 
-## Unit 16
-
-### Phrases
-| Verbs and Words                  | Pronunciation | English                                   |
-| -------------------------------- | ------------- | ----------------------------------------- |
-| Tu **as** onze **ans**           |               | You **are** eleven **years old**          |
-| **Quel âge as-tu**?              |               | **How old are you?**                      |
-| Ce **lieu**                      |               | This **place**                            |
-| Je suis **devant** l'hôtel       |               | I am **in front of** the hotel            |
-| Une route **dangereuse**         |               | A **dangerous** route                     |
-| Un lieu **dangereux**            |               | A **dangerous** place                     |
-| Tu dois **rentrer** **chez** toi |               | You have to **go back** to your **place** |
-| Tu dois **rentrer**              |               | I have to **go home**                     |
-| Je **sors** de chez moi          |               | I am **leaving** of my place              |
-| Je veux **sortir**               |               | I want to **leave**                       |
-| Deux **chambres**                |               | Two **bedrooms**                          |
-
-
-### Grammar
-Use infinit verbs:
-
-- J'aime **habiter** à Paris
-- Je veux **visiter** ce lieu
-- Je dois **tourner** à gauche
-
-| Subject   | **(Rentrer)** </br> (to go back) | **(Sortir)** </br> (to go out/leave) |
-| --------- | -------------------------------- | ------------------------------------ |
-| Je        | **rentre**                       | **sors**                             |
-| Tu        | rentres                          | sors                                 |
-| Il/elle   | rentre                           | sort                                 |
-| Nous      | rentre**ons**                    | sort**ons**                          |
-| Vous      | rentre**z**                      | sort**ez**                           |
-| Ils/elles | rentre**nt**                     | sort**ent**                          |
-
-## Unit 17
-
-### Phrases
-
-| Verbs and Words | Pronunciation | English   |
-| --------------- | ------------- | --------- |
-| Un **problème** |               | A problem |
-
-### Grammar
 
 > - Anna et Martin, **vous cuisinez**?
 >   - Anna and Martin, do you cook?
@@ -399,6 +412,10 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 > Leur livre: Their book
 > Leur**s** livre**s**: Their book**s**
 
+
+
+
+
 ## Unit 7
 *Tell time, form the present tense*
 
@@ -414,6 +431,11 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 | Avant dix heures.                     |               | Before ten o'clock.                              |
 | Il rentre **à sept heures du matin**. |               | He goes home **at seven o'clock in the morning** |
 
+
+
+
+
+
 ## Unit 8
 *Talk to someone formally, talk about hobbies*
 
@@ -428,6 +450,8 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 > **Faire un gàteau**: To go make a cake
 > **Faire du sport**: To do sports
 > **Faire de la plongée**: To go scuba diving
+
+
 
 
 ## Unit 9
@@ -471,6 +495,10 @@ The indirect object pronouns are used to replace the indirect object of a verb, 
 | Nous      | Cuisin**ons**                  |
 | Vous      | Cuisin**ez**                   |
 | Ils/elles | Cuisin**ez**                   |
+
+
+
+
 
 ## Unit 10
 *Talk about school, share work schedules*

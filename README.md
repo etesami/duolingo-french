@@ -20,7 +20,6 @@
 - [Unit 4: Use the present tense, Shop for clothes](./section-02.md#unit-4)
 - [Unit 5: Exchange personal information, Use the infinitive](./section-02.md#unit-5)
 - [Unit 6: Ask people about themselves, Ask questions](./section-02.md#unit-6)
-- [Unit 17: Ask questions](./section-02.md#unit-17)
 - [Unit 7: Tell time, form the present tense](./section-02.md#unit-7)
 - [Unit 8: Talk to someone formally, talk about hobbies](./section-02.md#unit-8)
 - [Unit 9: Describe your breakfast, discuss travel plans](./section-02.md#unit-9)
