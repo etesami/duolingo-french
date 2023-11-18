@@ -80,7 +80,6 @@ French adjectives usually come after the noun they're describing.
 ### Phrases
 | Verbs and Words                          | Pronunciation | English                                 |
 | ---------------------------------------- | ------------- | --------------------------------------- |
-| Une pizza **pour** moi **aussi**         |               | A pizza **for** me **too**              |
 | **également**                            |               | **too** (aussi)                         |
 | **Toilette**                             |               | **Restroom**                            |
 | **Aujourd'hui** et demain                |               | **Today** and tomorrow                  |
@@ -99,19 +98,26 @@ French adjectives usually come after the noun they're describing.
 | Le **bureau**                            | /byuh-roh/    | The **office**                          |
 | Un **chauffeur**                         | /shoh-feur/   | A **driver**                            |
 | Tu es **au** travail?                    |               | Are you **at (the)** work?              |
-
+| Elle habite **aux** États-unis           |               | She lives **in the** United States      |
+| Un **stylo**                             |               | A **pen**                               |
+| L`**ordinateur**                         |               | The **computer**                        |
+| Le **portable**                          |               | The **cell phone**                      |
+| Le **téléphone**                         |               | The **telephone**                       |
+| Le **numéro** de portable                |               | The cell phone **number**               |
+| **Venir**                                |               | **To come**                             |
+| **Utilise**                              |               | **To use**                              |
 
 
 ### Grammer
 
-| Subject   | **(Aller)** </br> (to go) | **(Visiter)** </br> (to visit) |
-| --------- | ------------------------- | ------------------------------ |
-| Je        | **vais**                  | **visite**                     |
-| Tu        | va**s**                   | visite**s**                    |
-| Il/elle   | va                        | visite                         |
-| Nous      | **allons**                | visit**ons**                   |
-| Vous      | all**ez**                 | visite**z**                    |
-| Ils/elles | **vont**                  | visite**nt**                   |
+| Subject   | **(Aller)** </br> (to go) | **(Visiter)** </br> (to visit) | **(écris)** </br> (to write) | **(Travailler)** </br> (to work) |
+| --------- | ------------------------- | ------------------------------ | ---------------------------- | -------------------------------- |
+| Je        | **vais**                  | **visite**                     | **écris**                    | **travaille**                    |
+| Tu        | va**s**                   | visite**s**                    | écris                        | travaille**s**                   |
+| Il/elle   | va                        | visite                         | écri**t**                    | travaille                        |
+| Nous      | **allons**                | visit**ons**                   | écri**vons**                 | travaill**ons**                  |
+| Vous      | all**ez**                 | visite**z**                    | écri**vez**                  | travaill**ez**                   |
+| Ils/elles | **vont**                  | visite**nt**                   | écri**vent**                 | travaill**ent**                  |
 
 
 **Un** and **une** become ***des*** when you are talking about more than one thing:
@@ -130,65 +136,26 @@ French adjectives usually come after the noun they're describing.
 
 ### Phrases
 
-| Verbs and Words                | Pronunciation          | English                            |
-| ------------------------------ | ---------------------- | ---------------------------------- |
-| Elle habite **aux** États-unis |                        | She lives **in the** United States |
-| Un **stylo**                   |                        | A **pen**                          |
-| L`**ordinateur**               |                        | The **computer**                   |
-| Le **portable**                |                        | The **cell phone**                 |
-| Le **téléphone**               |                        | The **telephone**                  |
-| Le **numéro** de portable      |                        | The cell phone **number**          |
-| **Venir**                      |                        | **To come**                        |
-| **Utilise**                    |                        | **To use**                         |
-| Le **déjeuner**                |                        | The **lunch**                      |
-| Le **dîner**                   |                        | The **dinner**                     |
-| L'**œuf**                      | /uhf/                  | The **egg**                        |
-| Ce **matin**                   |                        | This **morning**                   |
-| Ce **gâteau**                  | /ga-toh/               | This **cake**                      |
-| Ce **repas**                   | /ruh-pah/              | This **meal**                      |
-| Le **fruit**                   |                        | The **fruit**                      |
-| Le **légume**                  | /leh-gyoom/            | The **vegetable**                  |
-| La **vache**                   | /vahsh/                | The **cow**                        |
-| Le **petit déjeuner**          | /puh-tee day-zhuh-nay/ | The **breakfast**                  |
-| *Le croissant* est **bon**     |                        | The **croissant** is **good**      |
-| *Les croissants* est **bons**  |                        | The croissant**s** are **good**    |
-| *La banane* est **bonne**      |                        | The **banana** is **good**         |
-| *Les bananes* est **bonnes**   |                        | The banana**s** are **good**       |
+| Verbs and Words                  | Pronunciation          | English                         |
+| -------------------------------- | ---------------------- | ------------------------------- |
+| Une pizza **pour** moi **aussi** |                        | A pizza **for** me **too**      |
+| Le **déjeuner**                  |                        | The **lunch**                   |
+| Le **dîner**                     |                        | The **dinner**                  |
+| L'**œuf**                        | /uhf/                  | The **egg**                     |
+| Ce **matin**                     |                        | This **morning**                |
+| Ce **gâteau**                    | /ga-toh/               | This **cake**                   |
+| Ce **repas**                     | /ruh-pah/              | This **meal**                   |
+| Le **fruit**                     |                        | The **fruit**                   |
+| Le **légume**                    | /leh-gyoom/            | The **vegetable**               |
+| La **vache**                     | /vahsh/                | The **cow**                     |
+| Le **petit déjeuner**            | /puh-tee day-zhuh-nay/ | The **breakfast**               |
+| *Le croissant* est **bon**       |                        | The **croissant** is **good**   |
+| *Les croissants* est **bons**    |                        | The croissant**s** are **good** |
+| *La banane* est **bonne**        |                        | The **banana** is **good**      |
+| *Les bananes* est **bonnes**     |                        | The banana**s** are **good**    |
 
 ### Grammer
 
-| Subject   | **(écris)** </br> (to write) | **(Travailler)** </br> (to work) |
-| --------- | ---------------------------- | -------------------------------- |
-| Je        | **écris**                    | **travaille**                    |
-| Tu        | écris                        | travaille**s**                   |
-| Il/elle   | écri**t**                    | travaille                        |
-| Nous      | écri**vons**                 | travaill**ons**                  |
-| Vous      | écri**vez**                  | travaill**ez**                   |
-| Ils/elles | écri**vent**                 | travaill**ent**                  |
-
-
-
-
-
-## Unit 4
-*Use the present tense, Shop for clothes*
-
-### Phrases
-
-| Verbs and Words                | Pronunciation | English                             |
-| ------------------------------ | ------------- | ----------------------------------- |
-| Une **robe**                   |               | A **dress**                         |
-| Une **jope**                   |               | A **skirt**                         |
-| **Coûte**                      | /koot/        | To cost                             |
-| **Ça coûte combien**?          |               | **How much does it cost**?          |
-| **C'est combien**?             |               | **How much is it**?                 |
-| **Combien coûte** cette veste? |               | **How much** does this jacket cost? |
-| Ce sac coûte sept euros.       |               | This bag costs seven euros.         |
-| La robe coûte cinq euros       |               | The dess costs five euros           |
-| Tu **achétes** des vêtements?  |               | Are you **buying** clothes?         |
-
-
-### Grammer
 | Demonstrative </br> adjective | Type                                          | Meaning     | Example                     |
 | ----------------------------- | --------------------------------------------- | ----------- | --------------------------- |
 | Ce                            | Masculine singular                            | This/that   | **Ce** livre </br> Ce homme |
@@ -198,59 +165,45 @@ French adjectives usually come after the noun they're describing.
 
 > **Ces** *bananes* et **cette** *orange* sont bonnes.
 
-| Subject   | **(Prendre)** </br> (to have/to take) |
-| --------- | ------------------------------------- |
-| Je        | **prends**                            |
-| Tu        | prends                                |
-| Il/elle   | prend                                 |
-| Nous      | pren**ons**                           |
-| Vous      | pren**ez**                            |
-| Ils/elles | pren**nent**                          |
 
 
-
-
-
-## Unit 5
-*Exchange personal information, Use the infinitive*
+## Unit 4
+*Use the present tense, Shop for clothes*
 
 ### Phrases
 
-| Verbs and Words                  | Pronunciation | English                                   |
-| -------------------------------- | ------------- | ----------------------------------------- |
-| Je **dors** beaucoup.            |               | I sleep a lot.                            |
-| La maison **du** voisin          |               | The home **of the** neighbour             |
-| **Le soir** et **la nuit**       |               | The **evening** and the **night**         |
-| **Ce soir**                      |               | **Tonight**                               |
-| **Vendredi soir**                |               | **Friday evening**                        |
-| La **télé**                      |               | The **TV**                                |
-| **Chaque matin**                 |               | **Every morning**                         |
-| **Chaque jour**                  |               | **Every day**                             |
-| Un **après midi**                |               | An **afternoon**                          |
-| L'**enfant**                     |               | The **child**                             |
-| Le **journal**                   |               | The **newspaper**                         |
-| Trés **souvent**                 |               | Very **often**                            |
-| Le **lit**                       |               | The **bed**                               |
-| **Parfois**                      |               | **Sometimes**                             |
-| **Parfois** il écoute la radio.  |               | **Sometimes** he listens to the radio.    |
-| Je **écoute** la radio.          |               | I **listen** to the radio.                |
-| Ma femme **lit toute** la nuit.  |               | My wife **reads all** night.              |
-| Le **week-end**                  |               | The **weekend**                           |
-| Tu dois **rentrer** **chez** toi |               | You have to **go back** to your **place** |
-| Tu dois **rentrer**              |               | I have to **go home**                     |
+| Verbs and Words                 | Pronunciation | English                                |
+| ------------------------------- | ------------- | -------------------------------------- |
+| Je **dors** beaucoup.           |               | I sleep a lot.                         |
+| La maison **du** voisin         |               | The home **of the** neighbour          |
+| **Le soir** et **la nuit**      |               | The **evening** and the **night**      |
+| **Ce soir**                     |               | **Tonight**                            |
+| **Vendredi soir**               |               | **Friday evening**                     |
+| La **télé**                     |               | The **TV**                             |
+| **Chaque matin**                |               | **Every morning**                      |
+| **Chaque jour**                 |               | **Every day**                          |
+| Un **après midi**               |               | An **afternoon**                       |
+| L'**enfant**                    |               | The **child**                          |
+| Le **journal**                  |               | The **newspaper**                      |
+| Trés **souvent**                |               | Very **often**                         |
+| Le **lit**                      |               | The **bed**                            |
+| **Parfois**                     |               | **Sometimes**                          |
+| **Parfois** il écoute la radio. |               | **Sometimes** he listens to the radio. |
+| Je **écoute** la radio.         |               | I **listen** to the radio.             |
+| Ma femme **lit toute** la nuit. |               | My wife **reads all** night.           |
+| Le **week-end**                 |               | The **weekend**                        |
+| Une **robe**                    |               | A **dress**                            |
+| Une **jope**                    |               | A **skirt**                            |
+| **Coûte**                       | /koot/        | To cost                                |
+| **Ça coûte combien**?           |               | **How much does it cost**?             |
+| **C'est combien**?              |               | **How much is it**?                    |
+| **Combien coûte** cette veste?  |               | **How much** does this jacket cost?    |
+| Ce sac coûte sept euros.        |               | This bag costs seven euros.            |
+| La robe coûte cinq euros        |               | The dess costs five euros              |
+| Tu **achétes** des vêtements?   |               | Are you **buying** clothes?            |
+
 
 ### Grammer
-
-| Subject   | **(Lire)** </br> (to read) | **(Écouter)** </br> (to listen) | **(Achéte)** </br> (to buy) | **(Coûte)** </br> (to cost) | **(Dormir)** </br> (to sleep) |
-| --------- | -------------------------- | ------------------------------- | --------------------------- | --------------------------- | ----------------------------- |
-| Je        | **lis**                    | **écoute**                      | **achéte**                  | **coûte**                   | **dors**                      |
-| Tu        | lis                        | écoute**s**                     | achéte**s**                 | coûte**s**                  | dors                          |
-| Il/elle   | li**t**                    | écoute                          | achéte                      | coûte                       | dor**t**                      |
-| Nous      | lis**ons**                 | écout**ons**                    | achét**ons**                | coût**ons**                 | dor**mons**                   |
-| Vous      | lis**ez**                  | écout**ez**                     | achét**ez**                 | coût**ez**                  | dor**mez**                    |
-| Ils/elles | lis**ent**                 | écout**ent**                    | achét**ent**                | coût**ent**                 | dor**ment**                   |
-
-
 In French, make sure you include the **le**, **la** , or **l'** when talking about the time of day or meals!
 
 | French                 | English        |
@@ -272,8 +225,43 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 > **Example**: Il travaille **à l**'usine
 
 
-> **des** could be used to indicate **some** quantity of something (see also [unit 6](#unit-6)): 
+> **des** could be used to indicate **some** quantity of something: 
 > **Example:** Paul écrit **des** messages: Paul is writing **some** messages
+
+| Subject   | **(Prendre)** </br> (to have/to take) | **(Lire)** </br> (to read) | **(Écouter)** </br> (to listen) |
+| --------- | ------------------------------------- | -------------------------- | ------------------------------- |
+| Je        | **prends**                            | **lis**                    | **écoute**                      |
+| Tu        | prends                                | lis                        | écoute**s**                     |
+| Il/elle   | prend                                 | li**t**                    | écoute                          |
+| Nous      | pren**ons**                           | lis**ons**                 | écout**ons**                    |
+| Vous      | pren**ez**                            | lis**ez**                  | écout**ez**                     |
+| Ils/elles | pren**nent**                          | lis**ent**                 | écout**ent**                    |
+
+
+
+
+
+## Unit 5
+*Exchange personal information, Use the infinitive*
+
+### Phrases
+
+| Verbs and Words                  | Pronunciation | English                                   |
+| -------------------------------- | ------------- | ----------------------------------------- |
+| Tu dois **rentrer** **chez** toi |               | You have to **go back** to your **place** |
+| Tu dois **rentrer**              |               | I have to **go home**                     |
+
+### Grammer
+
+| Subject   | **(Achéte)** </br> (to buy) | **(Coûte)** </br> (to cost) | **(Dormir)** </br> (to sleep) |
+| --------- | --------------------------- | --------------------------- | ----------------------------- |
+| Je        | **achéte**                  | **coûte**                   | **dors**                      |
+| Tu        | achéte**s**                 | coûte**s**                  | dors                          |
+| Il/elle   | achéte                      | coûte                       | dor**t**                      |
+| Nous      | achét**ons**                | coût**ons**                 | dor**mons**                   |
+| Vous      | achét**ez**                 | coût**ez**                  | dor**mez**                    |
+| Ils/elles | achét**ent**                | coût**ent**                 | dor**ment**                   |
+
 
 
 **Use infinit verbs:**
@@ -282,14 +270,14 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 - Je veux **visiter** ce lieu
 - Je dois **tourner** à gauche
 
-| Subject   | **(Rentrer)** </br> (to go back) | **(Sortir)** </br> (to go out/leave) |
-| --------- | -------------------------------- | ------------------------------------ |
-| Je        | **rentre**                       | **sors**                             |
-| Tu        | rentres                          | sors                                 |
-| Il/elle   | rentre                           | sort                                 |
-| Nous      | rentre**ons**                    | sort**ons**                          |
-| Vous      | rentre**z**                      | sort**ez**                           |
-| Ils/elles | rentre**nt**                     | sort**ent**                          |
+| Subject   | **(Rentrer)** </br> (to go back) | **(Venir)** </br> (to come) | **(Sortir)** </br> (to go out/leave) | **(Trouver)** </br> (to find) | **(Tourner)** </br> (to turn) |
+| --------- | -------------------------------- | --------------------------- | ------------------------------------ | ----------------------------- | ----------------------------- |
+| Je        | **rentre**                       | **viens**                   | **sors**                             | **trouve**                    | **tourne**                    |
+| Tu        | rentres                          | viens                       | sors                                 | trouve**s**                   | tourne**s**                   |
+| Il/elle   | rentre                           | vien**t**                   | sort                                 | trouve                        | tourne                        |
+| Nous      | rentre**ons**                    | ve**nons**                  | sort**ons**                          | trouv**ons**                  | tourn**ons**                  |
+| Vous      | rentre**z**                      | ve**nez**                   | sort**ez**                           | trouv**ez**                   | tourne**z**                   |
+| Ils/elles | rentre**nt**                     | vie**nnent**                | sort**ent**                          | trouv**ent**                  | tourne**nt**                  |
 
 
 
@@ -332,14 +320,14 @@ In French, make sure you include the **le**, **la** , or **l'** when talking abo
 
 ### Grammar
 
-| Subject   | **(Venir)** </br> (to come) | **(Tourner)** </br> (to turn) | **(Trouver)** </br> (to find) |
-| --------- | --------------------------- | ----------------------------- | ----------------------------- |
-| Je        | **viens**                   | **tourne**                    | **trouve**                    |
-| Tu        | viens                       | tourne**s**                   | trouve**s**                   |
-| Il/elle   | vien**t**                   | tourne                        | trouve                        |
-| Nous      | ve**nons**                  | tourn**ons**                  | trouv**ons**                  |
-| Vous      | ve**nez**                   | tourne**z**                   | trouv**ez**                   |
-| Ils/elles | vie**nnent**                | tourne**nt**                  | trouv**ent**                  |
+| Subject   |
+| --------- |
+| Je        |
+| Tu        |
+| Il/elle   |
+| Nous      |
+| Vous      |
+| Ils/elles |
 
 > - **Quel** âge **as-tu**?
 >   - How old are you? 
